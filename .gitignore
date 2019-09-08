@@ -1,0 +1,9 @@
+.minecraft/saves/*
+.minecraft/journeymap/*
+.minecraft/logs/*
+.minecraft/screenshot/*
+.minecraft/server-resource-packs/*
+.minecraft/valkyrielib/*
+.minecraft/*.log
+.minecraft/usercache.json
+.minecraft/usernamecache.json
