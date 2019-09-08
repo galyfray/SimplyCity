@@ -2127,8 +2127,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Sieve",
+          "desc:8": "This new high tech sieve can be automated and process other ore"
         }
       },
       "tasks:9": {
@@ -2141,37 +2141,37 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 7,
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
+              "id:8": "magneticraft:multiblock_column",
+              "Count:3": 6,
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 4,
+              "Damage:2": 2,
               "OreDict:8": ""
             },
             "3:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 8,
+              "Damage:2": 3,
               "OreDict:8": ""
             },
             "4:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 4,
+              "Damage:2": 5,
               "OreDict:8": ""
             },
             "5:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "magneticraft:sieve",
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -2208,8 +2208,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Big Combustion Chamber",
+          "desc:8": "bigger mean better , right ?"
         }
       },
       "tasks:9": {
@@ -2222,37 +2222,19 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 2,
+              "Damage:2": 5,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
+              "id:8": "minecraft:brick_block",
+              "Count:3": 16,
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "3:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "4:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "5:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "magneticraft:big_combustion_chamber",
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -2289,8 +2271,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Big Steam Boiler",
+          "desc:8": "Produce more steam"
         }
       },
       "tasks:9": {
@@ -2303,37 +2285,19 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 8,
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 26,
+              "Damage:2": 5,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "3:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "4:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "5:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "magneticraft:big_steam_boiler",
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -2384,37 +2348,37 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 11,
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 3,
+              "Damage:2": 5,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 25,
+              "Damage:2": 2,
               "OreDict:8": ""
             },
             "3:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
+              "id:8": "magneticraft:small_tank",
+              "Count:3": 3,
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "4:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "magneticraft:multiblock_parts",
               "Count:3": 1,
-              "Damage:2": 0,
+              "Damage:2": 4,
               "OreDict:8": ""
             },
             "5:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "magneticraft:steam_turbine",
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -2451,8 +2415,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Grinder",
+          "desc:8": "An automated way to grind ore an can grind additional ores"
         }
       },
       "tasks:9": {
@@ -2465,37 +2429,37 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 10,
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "magneticraft:multiblock_parts",
               "Count:3": 1,
-              "Damage:2": 0,
+              "Damage:2": 4,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 7,
+              "Damage:2": 2,
               "OreDict:8": ""
             },
             "3:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 8,
+              "Damage:2": 3,
               "OreDict:8": ""
             },
             "4:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 8,
+              "Damage:2": 5,
               "OreDict:8": ""
             },
             "5:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "magneticraft:grinder",
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -2532,8 +2496,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Hydrolyc press",
+          "desc:8": "can be use to make plate and other nice things "
         }
       },
       "tasks:9": {
@@ -2546,37 +2510,37 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 14,
+              "Damage:2": 2,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
+              "id:8": "magneticraft:multiblock_column",
+              "Count:3": 7,
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 2,
+              "Damage:2": 4,
               "OreDict:8": ""
             },
             "3:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "magneticraft:multiblock_parts",
               "Count:3": 1,
-              "Damage:2": 0,
+              "Damage:2": 3,
               "OreDict:8": ""
             },
             "4:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 2,
+              "Damage:2": 5,
               "OreDict:8": ""
             },
             "5:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "magneticraft:hydraulic_press",
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -2602,7 +2566,138 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "magneticraft:solar_panel",
+            "id:8": "magneticraft:solar_tower",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Solar tower",
+          "desc:8": "the solar tower is an other way to make heat it need solars miror to work "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 2,
+              "Damage:2": 4,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 8,
+              "Damage:2": 5,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "magneticraft:solar_tower",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "magneticraft:multiblock_parts",
+              "Count:3": 2,
+              "Damage:2": 5,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "magneticraft:solar_mirror",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "24:10": {
+      "questID:3": 24,
+      "preRequisites:11": [
+        10
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Applied MK0",
+          "desc:8": "Project Red add a logistic pipes like system for autocraft and item shorting:\n\n§l§6§lPipes :§r\n\n§7normal pipes§r are used everywere special one are not essential.\n\n§9Routed junction pipes§r are§l needed§l§r at all the §ljunction§r\n\n§5Routed interface§r work as the junction ones but can also hold cards (see below)\n\n§eRouted request§r can work as the junction ones, this pipe has an ui wich allow you to request item or craft from you system the pipe need to be attache to an inventory to place requested item note that the player chest exist ...\n\n§6§lcards :§r\n\n-§e§oItem responder chip :§r allow the system to place specific item in atached inventory, empty blacklist to allow everything won\u0027t cause trauble if there is no room for the item then can be safly use with drawer or drawer controller.\n\n-§e§oDynamic Item responder chip :§r allow the system to place specific item in atached inventory, the whitelist is based on the item contaned in the inventory.\n\n-§b§o§3§o§a§2§oOverflow Item responder chip :§r allow the system to place item that has no other place in an atached inventory, work as a low priority item responder chip with an empty blacklist.\n\n-§8§d§oItem Terminator responder chip :§r work as an Item Responder chip but only when all the responders chips are full including Overflow.\n\n-§3§oItem extractor chip :§r exact item of the attached inventory and place them in the system interact with all responder chip.\n\n\n\n"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "25:10": {
+      "questID:3": 25,
+      "preRequisites:11": [
+        24
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -2617,55 +2712,40 @@
           "desc:8": "No Description"
         }
       },
-      "tasks:9": {
-        "0:10": {
-          "partialMatch:1": 1,
-          "autoConsume:1": 0,
-          "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
-          "index:3": 0,
-          "consume:1": 0,
-          "requiredItems:9": {
-            "0:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "1:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "2:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "3:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "4:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "5:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            }
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "26:10": {
+      "questID:3": 26,
+      "preRequisites:11": [
+        25
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
           },
-          "taskID:8": "bq_standard:retrieval"
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
         }
       },
+      "tasks:9": {},
       "rewards:9": {}
     }
   },
@@ -2859,6 +2939,27 @@
           "x:3": 228,
           "y:3": 96,
           "id:3": 23,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": 72,
+          "y:3": 72,
+          "id:3": 24,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 72,
+          "y:3": 120,
+          "id:3": 25,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": 120,
+          "y:3": 120,
+          "id:3": 26,
           "sizeY:3": 24
         }
       },
