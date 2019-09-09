@@ -7,4 +7,4 @@
 .minecraft/*.log
 .minecraft/usercache.json
 .minecraft/usernamecache.json
-.minecraft/config/jei/worldSettings.cfg
+.minecraft/config/jei/worldSettings*

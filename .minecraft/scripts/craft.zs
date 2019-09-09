@@ -38,7 +38,7 @@ for key,recipe in recipeMapAddShaped {
 val recipeMapAddShapeless = {
 	<projectred-core:resource_item:301> * 8 : [<minecraft:flint>,<minecraft:flint>,<projectred-core:resource_item:300>],
 	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
-} as IIngredient[][][IItemStack];
+} as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapAddShapeless {
     recipes.addShapeless(/*"CT_" + key.displayName,*/key, recipe);
@@ -46,7 +46,7 @@ for key,recipe in recipeMapAddShapeless {
 
 val recipeMapErraseShapeless = {
 	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
-} as IIngredient[][][IItemStack];
+} as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapErraseShapeless {
     recipes.remove(key);
