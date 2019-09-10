@@ -17,6 +17,7 @@ val recipeMapErraseShaped = {
 	<projectred-transportation:routing_chip:3> : [[<projectred-core:resource_item:510>,<minecraft:redstone>,<projectred-core:resource_item:507>],[<ore:ingotAluminum>,<projectred-core:resource_item:600>,<minecraft:redstone>],[<projectred-core:resource_item:510>,<minecraft:redstone>,<projectred-core:resource_item:507>]],
 	<projectred-transportation:routing_chip:4> : [[<projectred-core:resource_item:509>,<minecraft:redstone>,<projectred-core:resource_item:509>],[<ore:ingotAluminum>,<projectred-core:resource_item:600>,<minecraft:redstone>],[<projectred-core:resource_item:509>,<minecraft:redstone>,<projectred-core:resource_item:509>]],
 	<projectred-transportation:routing_chip:6> : [[<projectred-core:resource_item:511>,<minecraft:redstone>,<projectred-core:resource_item:511>],[<ore:ingotAluminum>,<projectred-core:resource_item:600>,<minecraft:redstone>],[<projectred-core:resource_item:511>,<minecraft:redstone>,<projectred-core:resource_item:511>]],
+	<minecraft:chest> : [[<ore:log>,<ore:planck>,<ore:log>],[<ore:planck>,<minecraft:flint>,<ore:planck>],[<ore:log>,<ore:planck>,<ore:log>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
