@@ -17,13 +17,15 @@ val recipeMapErraseShaped = {
 	<projectred-transportation:routing_chip:3> : [[<projectred-core:resource_item:510>,<minecraft:redstone>,<projectred-core:resource_item:507>],[<ore:ingotAluminum>,<projectred-core:resource_item:600>,<minecraft:redstone>],[<projectred-core:resource_item:510>,<minecraft:redstone>,<projectred-core:resource_item:507>]],
 	<projectred-transportation:routing_chip:4> : [[<projectred-core:resource_item:509>,<minecraft:redstone>,<projectred-core:resource_item:509>],[<ore:ingotAluminum>,<projectred-core:resource_item:600>,<minecraft:redstone>],[<projectred-core:resource_item:509>,<minecraft:redstone>,<projectred-core:resource_item:509>]],
 	<projectred-transportation:routing_chip:6> : [[<projectred-core:resource_item:511>,<minecraft:redstone>,<projectred-core:resource_item:511>],[<ore:ingotAluminum>,<projectred-core:resource_item:600>,<minecraft:redstone>],[<projectred-core:resource_item:511>,<minecraft:redstone>,<projectred-core:resource_item:511>]],
-	<minecraft:chest> : [[<ore:log>,<ore:planck>,<ore:log>],[<ore:planck>,<minecraft:flint>,<ore:planck>],[<ore:log>,<ore:planck>,<ore:log>]],
+	<minecraft:chest> : [[<ore:logWook>,<ore:plankWood>,<ore:logWook>],[<ore:plankWood>,<minecraft:flint>,<ore:plankWood>],[<ore:logWook>,<ore:plankWood>,<ore:logWook>]],
+	<agricraft:trowel> : [[null,null,<minecraft:stick>],[<ore:ingotAluminum>,<ore:ingotAluminum>,null],[null,null,null]],
+	<agricraft:clipper> : [[null,<ore:ingotAluminum>,null],[<minecraft:stick>,<thermalfoundation:tool.shears_aluminum>,null],[null,<minecraft:stick>,null]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
 for key,recipe in recipeMapErraseShaped {
 	recipes.remove(key);
-    recipes.addShaped(/*"CT_" + key.name,*/key, recipe);
+    recipes.addShaped(key, recipe);
 }
 
 val recipeMapAddShaped = {
@@ -33,7 +35,7 @@ val recipeMapAddShaped = {
 } as IIngredient[][][IItemStack];
 
 for key,recipe in recipeMapAddShaped {
-    recipes.addShaped(/*"CT_" + key.displayName,*/key, recipe);
+    recipes.addShaped(key, recipe);
 }
 
 val recipeMapAddShapeless = {
@@ -42,7 +44,7 @@ val recipeMapAddShapeless = {
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapAddShapeless {
-    recipes.addShapeless(/*"CT_" + key.displayName,*/key, recipe);
+    recipes.addShapeless(key, recipe);
 }
 
 val recipeMapErraseShapeless = {
@@ -51,7 +53,7 @@ val recipeMapErraseShapeless = {
 
 for key,recipe in recipeMapErraseShapeless {
     recipes.remove(key);
-	recipes.addShapeless(/*"CT_" + key.displayName,*/key, recipe);
+	recipes.addShapeless(key, recipe);
 }
 
 print("############################_End of Recipe_############################");

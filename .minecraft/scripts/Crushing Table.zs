@@ -3,7 +3,7 @@ import crafttweaker.item.IItemStack;
 
 mods.magneticraft.CrushingTable.removeRecipe(<minecraft:iron_ore>);
 
-var HammerMap ={
+val HammerMap = {
 	// <Tool> : [mining level, speed , durability cost]
 	<thermalfoundation:tool.hammer_aluminum> : [1,2,2],
 	<thermalfoundation:tool.hammer_bronze> : [3,6,1],
@@ -20,8 +20,18 @@ var HammerMap ={
 	<thermalfoundation:tool.hammer_silver> : [1,2,1],
 	<thermalfoundation:tool.hammer_steel> : [4,15,1],
 	<thermalfoundation:tool.hammer_tin> : [2,2,3],
-}as int[][IItemStack]
+}as int[][IItemStack] ;
 
 for hammer, array in HammerMap {
 	mods.magneticraft.CrushingTable.addHammer(hammer,array[0],array[1],array[2]);
 }
+
+val recipeMap = {
+	<thermalfoundation:storage_alloy:3>:<thermalfoundation:material:355>*5
+	
+} as IItemStack[IItemStack];
+
+for output,input in recipeMap {
+	mods.magneticraft.CrushingTable.addRecipe(output,input,false);
+}
+
