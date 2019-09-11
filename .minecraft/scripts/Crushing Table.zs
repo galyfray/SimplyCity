@@ -28,8 +28,8 @@ for hammer, array in HammerMap {
 }
 
 val recipeMap = {
-	<thermalfoundation:storage_alloy:3>:<thermalfoundation:material:355>*5
-	<thermalfoundation:storage:4> : <thermalfoundation:material:324>*5
+	<thermalfoundation:storage_alloy:3>:<thermalfoundation:material:355>*5,
+	<thermalfoundation:storage:4> : <thermalfoundation:material:324>*5,
 	
 } as IItemStack[IItemStack];
 

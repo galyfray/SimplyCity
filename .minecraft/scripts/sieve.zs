@@ -1,3 +1,5 @@
+#modloaded jaopca magneticraft
+
 import crafttweaker.item.WeightedItemStack;
 import crafttweaker.item.IItemStack;
 

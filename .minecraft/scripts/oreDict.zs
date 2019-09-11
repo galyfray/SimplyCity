@@ -13,7 +13,6 @@ val OreDictFusion = {
 var Items as IItemStack[];
 
 for Ore1, Ore2 in OreDictFusion {
-	Items = Ore2.items
-	Ore2.addItems(Ore1.items);
-	Ore1.addItems(Items);
+	Ore1.addAll(Ore2);
+	Ore2.addAll(Ore1);
 }
