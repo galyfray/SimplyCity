@@ -1,5 +1,6 @@
 import mods.magneticraft.CrushingTable ;
 import crafttweaker.item.IItemStack;
+import mods.magneticraft.HydraulicPress;
 
 mods.magneticraft.CrushingTable.removeRecipe(<minecraft:iron_ore>);
 
@@ -28,10 +29,11 @@ for hammer, array in HammerMap {
 
 val recipeMap = {
 	<thermalfoundation:storage_alloy:3>:<thermalfoundation:material:355>*5
+	<thermalfoundation:storage:4> : <thermalfoundation:material:324>*5
 	
 } as IItemStack[IItemStack];
 
 for output,input in recipeMap {
 	mods.magneticraft.CrushingTable.addRecipe(output,input,false);
 }
-
+mods.magneticraft.HydraulicPress.addRecipe(<minecraft:coal_block>*9,<minecraft:diamond>,600,2,true);

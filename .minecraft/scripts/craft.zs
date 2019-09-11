@@ -20,6 +20,20 @@ val recipeMapErraseShaped = {
 	<minecraft:chest> : [[<ore:logWook>,<ore:plankWood>,<ore:logWook>],[<ore:plankWood>,<minecraft:flint>,<ore:plankWood>],[<ore:logWook>,<ore:plankWood>,<ore:logWook>]],
 	<agricraft:trowel> : [[null,null,<minecraft:stick>],[<ore:ingotAluminum>,<ore:ingotAluminum>,null],[null,null,null]],
 	<agricraft:clipper> : [[null,<ore:ingotAluminum>,null],[<minecraft:stick>,<thermalfoundation:tool.shears_aluminum>,null],[null,<minecraft:stick>,null]],
+	<magneticraft:multiblock_parts:2> : [[null,<magneticraft:crafting:5>,null],[<magneticraft:crafting:5>,<ore:stone>,<magneticraft:crafting:5>],[null,<magneticraft:crafting:5>,null]],
+	<magneticraft:multiblock_column> * 2 : [[<ore:plateLead>,<ore:plateAluminum>,<ore:plateLead>],[<ore:plateLead>,<ore:stone>,<ore:plateLead>],[<ore:plateLead>,<ore:plateAluminum>,<ore:plateLead>]],
+	<magneticraft:multiblock_parts> * 3 : [[<ore:plateAluminum>,<ore:plateAluminum>,<ore:plateAluminum>],[<ore:ingotBronze>,<magneticraft:crafting:2>,<ore:ingotBronze>],[<ore:plateLead>,<ore:plateLead>,<ore:plateLead>]],
+	<magneticraft:crafting:2> *2 : [[<ore:ingotLead>,<ore:ingotLead>,null],[<minecraft:redstone>,<magneticraft:crafting:3>,<ore:ingotAluminum>],[<ore:ingotLead>,<ore:ingotLead>,null]],
+	<magneticraft:crafting:3> *8 : [[<ore:plateCopper>,<ore:plateCopper>,<ore:plateCopper>],[<ore:plateCopper>,<ore:plateAluminum>,<ore:plateCopper>],[<ore:plateCopper>,<ore:plateCopper>,<ore:plateCopper>]],
+	<magneticraft:multiblock_parts:5> *8 : [[<thermalfoundation:material:324>,<thermalfoundation:material:324>,<thermalfoundation:material:324>],[<thermalfoundation:material:324>,<minecraft:concrete_powder:*>,<thermalfoundation:material:324>],[<thermalfoundation:material:324>,<thermalfoundation:material:324>,<thermalfoundation:material:324>]],  
+	<magneticraft:steam_boiler> : [[<thermalfoundation:material:324>,<ore:ingotAluminum>,<thermalfoundation:material:324>],[<ore:plateBronze>,<minecraft:concrete_powder:*>,<ore:plateBronze>],[<thermalfoundation:material:324>,<ore:ingotAluminum>,<thermalfoundation:material:324>]],
+	<magneticraft:heat_pipe> : [[,<ore:ingotAluminum>,],[<ore:ingotAluminum>,<ore:plateCopper>,<ore:ingotAluminum>],[,<ore:ingotAluminum>,]],
+	<magneticraft:combustion_chamber> : [[<ore:ingotBrick>,<ore:ingotAluminum>,<ore:ingotBrick>],[<ore:ingotBrick>,null,<ore:plateAluminum>],[<ore:ingotBrick>,<ore:ingotBrick>,<ore:ingotBrick>]],
+	<magneticraft:multiblock_parts:4> : [[<ore:plateLead>,<magneticraft:crafting:3>,<ore:plateLead>],[<ore:plateAluminum>,<magneticraft:crafting:3>,<ore:plateAluminum>],[<ore:plateLead>,<magneticraft:crafting:3>,<ore:plateLead>]],
+	<magneticraft:multiblock_parts:3> : [[<ore:gemQuartzBlack>,<ore:lightPlateGold>,<ore:gemQuartzBlack>],[<ore:lightPlateGold>,<ore:stone>,<ore:lightPlateGold>],[<ore:gemQuartzBlack>,<ore:lightPlateGold>,<ore:gemQuartzBlack>]],
+	<magneticraft:copper_coil>.withTag({}) : [[null,<ore:plateCopper>,null],[<ore:plateCopper>,<ore:plateAluminum>,<ore:plateCopper>],[null,<ore:plateCopper>,null]],
+	// : [[,,],[,,],[,,]],
+	
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -31,7 +45,9 @@ for key,recipe in recipeMapErraseShaped {
 val recipeMapAddShaped = {
     <magneticraft:iron_pipe> * 16 : [[<minecraft:glass>,<ore:plateIron>,<minecraft:glass>],[<ore:plateIron>,<ore:blockGlass>,<ore:plateIron>],[<minecraft:glass>,<ore:plateIron>,<minecraft:glass>]],
 	<projectred-core:resource_item:252> : [[<projectred-core:resource_item:105>,<projectred-core:resource_item:105>,<projectred-core:resource_item:105>],[<projectred-core:resource_item:105>,<ore:ingotAluminum>,<projectred-core:resource_item:105>],[<projectred-core:resource_item:105>,<projectred-core:resource_item:105>,<projectred-core:resource_item:105>]],
-	//: [[,,],[,,],[,,]],
+	<minecraft:piston> : [[<ore:plankWood>,<ore:plankWood>,<ore:plankWood>],[<ore:cobblestone>,<ore:ingotBronze>,<ore:cobblestone>],[<ore:cobblestone>,<minecraft:redstone>,<ore:cobblestone>]],
+	<storagedrawers:compdrawers> : [[<minecraft:stone>,<minecraft:stone>,<minecraft:stone>],[<minecraft:piston>,<ore:drawerBasic>,<minecraft:piston>],[<minecraft:stone>,<ore:ingotBronze>,<minecraft:stone>]],
+	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
 for key,recipe in recipeMapAddShaped {
