@@ -5,11 +5,11 @@ import crafttweaker.item.IItemStack;
 
 import mods.magneticraft.SluiceBox ;
 
-val SieveReMap = {
+val SluiceReMap = {
 	<magneticraft:rocky_chunks:13> : [<magneticraft:chunks:13> % 100,<thermalfoundation:material:68> % 15,<thermalfoundation:material:67> % 15],
 } as WeightedItemStack[][IItemStack] ;
 
-for item ,weightList in SieveReMap {
+for item ,weightList in SluiceReMap {
 	mods.magneticraft.SluiceBox.removeRecipe(item);
 	if weightList.length == 3 
 	{
@@ -17,16 +17,16 @@ for item ,weightList in SieveReMap {
 	}
 } 
 
-val SieveRemove = [
-	<jaopca:item_rockychunkardite>,
+val SluiceRemove = [
+	/*<jaopca:item_rockychunkardite>,
 	<jaopca:item_rockychunkiridium>,
 	<jaopca:item_rockychunkplatinum>,
-	<jaopca:item_rockychunkuranium>,
+	<jaopca:item_rockychunkuranium>,*/
 	<magneticraft:rocky_chunks:14>,
 	<magneticraft:rocky_chunks:11>,
 	<magneticraft:rocky_chunks:10>,
 ] as IItemStack[] ;
 
-for item in SieveRemove {
+for item in SluiceRemove {
 	mods.magneticraft.SluiceBox.removeRecipe(item);
 }

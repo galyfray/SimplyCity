@@ -1,4 +1,4 @@
-6573 nodes in total
+6565 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -4691,10 +4691,6 @@ ftbutilities.claims.item.jaopca.block_blockcertusquartz: ALL
 ftbutilities.claims.item.jaopca.block_blockchargedcertusquartz: ALL
 ftbutilities.claims.item.jaopca.fluid_moltenmithril: ALL
 ftbutilities.claims.item.jaopca.fluid_moltentungsten: ALL
-ftbutilities.claims.item.jaopca.item_chunkardite: ALL
-ftbutilities.claims.item.jaopca.item_chunkiridium: ALL
-ftbutilities.claims.item.jaopca.item_chunkplatinum: ALL
-ftbutilities.claims.item.jaopca.item_chunkuranium: ALL
 ftbutilities.claims.item.jaopca.item_clusteraluminium: ALL
 ftbutilities.claims.item.jaopca.item_clusterardite: ALL
 ftbutilities.claims.item.jaopca.item_clustercobalt: ALL
@@ -4816,10 +4812,6 @@ ftbutilities.claims.item.jaopca.item_platelapis: ALL
 ftbutilities.claims.item.jaopca.item_platequartz: ALL
 ftbutilities.claims.item.jaopca.item_platequartzblack: ALL
 ftbutilities.claims.item.jaopca.item_platetungsten: ALL
-ftbutilities.claims.item.jaopca.item_rockychunkardite: ALL
-ftbutilities.claims.item.jaopca.item_rockychunkiridium: ALL
-ftbutilities.claims.item.jaopca.item_rockychunkplatinum: ALL
-ftbutilities.claims.item.jaopca.item_rockychunkuranium: ALL
 ftbutilities.claims.item.jaopca.item_stickamber: ALL
 ftbutilities.claims.item.jaopca.item_stickardite: ALL
 ftbutilities.claims.item.jaopca.item_stickcertusquartz: ALL

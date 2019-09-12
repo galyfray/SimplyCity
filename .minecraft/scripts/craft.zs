@@ -32,7 +32,7 @@ val recipeMapErraseShaped = {
 	<magneticraft:multiblock_parts:4> : [[<ore:plateLead>,<magneticraft:crafting:3>,<ore:plateLead>],[<ore:plateAluminum>,<magneticraft:crafting:3>,<ore:plateAluminum>],[<ore:plateLead>,<magneticraft:crafting:3>,<ore:plateLead>]],
 	<magneticraft:multiblock_parts:3> : [[<ore:gemQuartzBlack>,<ore:lightPlateGold>,<ore:gemQuartzBlack>],[<ore:lightPlateGold>,<ore:stone>,<ore:lightPlateGold>],[<ore:gemQuartzBlack>,<ore:lightPlateGold>,<ore:gemQuartzBlack>]],
 	<magneticraft:copper_coil>.withTag({}) : [[null,<ore:plateCopper>,null],[<ore:plateCopper>,<ore:plateAluminum>,<ore:plateCopper>],[null,<ore:plateCopper>,null]],
-	// : [[,,],[,,],[,,]],
+	<extrautils2:crafter> : [[<extrautils2:ingredients:1>,<avaritia:compressed_crafting_table>,<extrautils2:ingredients>],[<avaritia:compressed_crafting_table>,<extrautils2:analogcrafter>,<avaritia:compressed_crafting_table>],[<extrautils2:redstoneclock>,<avaritia:compressed_crafting_table>,<extrautils2:redstoneclock>]],
 	
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];

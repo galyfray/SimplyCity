@@ -11,3 +11,27 @@ for item,range in ItemRecipe {
 		recipes.remove(item.definition. makeStack(meta));
 	}
 }
+
+val RemoveAndHide ={
+	<thermalfoundation:armor.plate_silver> : [0],
+	<thermalfoundation:armor.plate_tin> : [0],
+	<thermalfoundation:armor.plate_copper> : [0],
+	<minecraft:iron_chestplate> : [0],
+	<actuallyadditions:item_chest_obsidian> : [0],
+	<minecraft:golden_chestplate> : [0],
+	<thermalfoundation:armor.plate_aluminum> : [0],
+	<thermalfoundation:armor.plate_nickel> : [0],
+	<thermalfoundation:armor.plate_platinum> : [0],
+	<thermalfoundation:armor.plate_steel> : [0],
+	<thermalfoundation:armor.plate_electrum> : [0],
+	<thermalfoundation:armor.plate_invar> : [0],
+	<thermalfoundation:armor.plate_constantan> : [0],
+	<thermalfoundation:armor.plate_bronze> : [0],
+	<thermalfoundation:armor.plate_lead> : [0],
+} as int[][IItemStack] ;
+
+for item,range in RemoveAndHide {
+	for meta in range{
+		mods.jei.JEI.removeAndHide(item.definition. makeStack(meta),false);
+	}
+}

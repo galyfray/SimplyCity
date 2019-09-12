@@ -36,4 +36,6 @@ val recipeMap = {
 for output,input in recipeMap {
 	mods.magneticraft.CrushingTable.addRecipe(output,input,false);
 }
+
+
 mods.magneticraft.HydraulicPress.addRecipe(<minecraft:coal_block>*9,<minecraft:diamond>,600,2,true);
