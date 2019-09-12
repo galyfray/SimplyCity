@@ -1,4 +1,4 @@
-6565 nodes in total
+6559 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -158,7 +158,6 @@ ftbutilities.claims.block.edit.appliedenergistics2.crafting_storage_1k: OP
 ftbutilities.claims.block.edit.appliedenergistics2.crafting_storage_4k: OP
 ftbutilities.claims.block.edit.appliedenergistics2.crafting_storage_64k: OP
 ftbutilities.claims.block.edit.appliedenergistics2.crafting_unit: OP
-ftbutilities.claims.block.edit.appliedenergistics2.crank: OP
 ftbutilities.claims.block.edit.appliedenergistics2.creative_energy_cell: OP
 ftbutilities.claims.block.edit.appliedenergistics2.dense_energy_cell: OP
 ftbutilities.claims.block.edit.appliedenergistics2.drive: OP
@@ -169,7 +168,6 @@ ftbutilities.claims.block.edit.appliedenergistics2.fluix_block: OP
 ftbutilities.claims.block.edit.appliedenergistics2.fluix_double_slab: OP
 ftbutilities.claims.block.edit.appliedenergistics2.fluix_slab: OP
 ftbutilities.claims.block.edit.appliedenergistics2.fluix_stairs: OP
-ftbutilities.claims.block.edit.appliedenergistics2.grindstone: OP
 ftbutilities.claims.block.edit.appliedenergistics2.inscriber: OP
 ftbutilities.claims.block.edit.appliedenergistics2.interface: OP
 ftbutilities.claims.block.edit.appliedenergistics2.io_port: OP
@@ -1865,7 +1863,6 @@ ftbutilities.claims.block.interact.appliedenergistics2.crafting_storage_1k: OP
 ftbutilities.claims.block.interact.appliedenergistics2.crafting_storage_4k: OP
 ftbutilities.claims.block.interact.appliedenergistics2.crafting_storage_64k: OP
 ftbutilities.claims.block.interact.appliedenergistics2.crafting_unit: OP
-ftbutilities.claims.block.interact.appliedenergistics2.crank: OP
 ftbutilities.claims.block.interact.appliedenergistics2.creative_energy_cell: OP
 ftbutilities.claims.block.interact.appliedenergistics2.dense_energy_cell: OP
 ftbutilities.claims.block.interact.appliedenergistics2.drive: OP
@@ -1876,7 +1873,6 @@ ftbutilities.claims.block.interact.appliedenergistics2.fluix_block: OP
 ftbutilities.claims.block.interact.appliedenergistics2.fluix_double_slab: OP
 ftbutilities.claims.block.interact.appliedenergistics2.fluix_slab: OP
 ftbutilities.claims.block.interact.appliedenergistics2.fluix_stairs: OP
-ftbutilities.claims.block.interact.appliedenergistics2.grindstone: OP
 ftbutilities.claims.block.interact.appliedenergistics2.inscriber: OP
 ftbutilities.claims.block.interact.appliedenergistics2.interface: OP
 ftbutilities.claims.block.interact.appliedenergistics2.io_port: OP
@@ -3760,7 +3756,6 @@ ftbutilities.claims.item.appliedenergistics2.crafting_storage_1k: ALL
 ftbutilities.claims.item.appliedenergistics2.crafting_storage_4k: ALL
 ftbutilities.claims.item.appliedenergistics2.crafting_storage_64k: ALL
 ftbutilities.claims.item.appliedenergistics2.crafting_unit: ALL
-ftbutilities.claims.item.appliedenergistics2.crank: ALL
 ftbutilities.claims.item.appliedenergistics2.creative_energy_cell: ALL
 ftbutilities.claims.item.appliedenergistics2.creative_storage_cell: ALL
 ftbutilities.claims.item.appliedenergistics2.crystal_seed: ALL
@@ -3780,7 +3775,6 @@ ftbutilities.claims.item.appliedenergistics2.fluid_storage_cell_64k: ALL
 ftbutilities.claims.item.appliedenergistics2.fluix_block: ALL
 ftbutilities.claims.item.appliedenergistics2.fluix_slab: ALL
 ftbutilities.claims.item.appliedenergistics2.fluix_stairs: ALL
-ftbutilities.claims.item.appliedenergistics2.grindstone: ALL
 ftbutilities.claims.item.appliedenergistics2.inscriber: ALL
 ftbutilities.claims.item.appliedenergistics2.interface: ALL
 ftbutilities.claims.item.appliedenergistics2.io_port: ALL
@@ -6750,6 +6744,7 @@ command.toolprogression.tpr
 command.tp
 command.trigger
 command.valkyrielib.removeowner
+command.waila.dumphandlers
 command.weather
 command.worldborder
 command.xp

@@ -7,6 +7,8 @@ import mods.magneticraft.SluiceBox ;
 
 val SluiceReMap = {
 	<magneticraft:rocky_chunks:13> : [<magneticraft:chunks:13> % 100,<thermalfoundation:material:68> % 15,<thermalfoundation:material:67> % 15],
+	<magneticraft:rocky_chunks:7> : [<magneticraft:chunks:7> % 100,<thermalfoundation:material:1> % 15,<minecraft:glowstone_dust> % 1],
+	<magneticraft:rocky_chunks:2> : [<magneticraft:chunks:2> % 100,<thermalfoundation:material:66> % 15,<thermalfoundation:material:65> % 15],
 } as WeightedItemStack[][IItemStack] ;
 
 for item ,weightList in SluiceReMap {
@@ -18,13 +20,13 @@ for item ,weightList in SluiceReMap {
 } 
 
 val SluiceRemove = [
-	/*<jaopca:item_rockychunkardite>,
-	<jaopca:item_rockychunkiridium>,
-	<jaopca:item_rockychunkplatinum>,
-	<jaopca:item_rockychunkuranium>,*/
 	<magneticraft:rocky_chunks:14>,
 	<magneticraft:rocky_chunks:11>,
 	<magneticraft:rocky_chunks:10>,
+	<magneticraft:rocky_chunks:9>,
+	<magneticraft:rocky_chunks:5>,
+	<magneticraft:rocky_chunks:4>,
+	<magneticraft:rocky_chunks:0>,
 ] as IItemStack[] ;
 
 for item in SluiceRemove {
