@@ -6712,6 +6712,7 @@ command.immersiveengineering.ie.mineral.setdepletion
 command.journeymap.jtp
 command.kill
 command.locate
+command.lttweaker.dumploot
 command.me
 command.particle
 command.playsound

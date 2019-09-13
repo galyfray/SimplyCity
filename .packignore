@@ -1,0 +1,16 @@
+.git
+.gitignore
+.minecraft/coremods
+.minecraft/crafttweaker.log
+.minecraft/journeymap
+.minecraft/local
+.minecraft/logs
+.minecraft/options.txt
+.minecraft/resourcepacks
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/texturepacks
+.minecraft/usercache.json
+.minecraft/usernamecache.json
+.minecraft/valkyrielib
