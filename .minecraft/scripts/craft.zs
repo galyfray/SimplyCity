@@ -36,11 +36,11 @@ val recipeMapErraseShaped = {
 	<actuallyadditions:block_misc:4> : [[<minecraft:stick>,<tconstruct:large_plate>.withTag({Material: "wood"}),<minecraft:stick>],[<tconstruct:large_plate>.withTag({Material: "wood"}),<ore:logWood>,<tconstruct:large_plate>.withTag({Material: "wood"})],[<minecraft:stick>,<tconstruct:large_plate>.withTag({Material: "wood"}),<minecraft:stick>]],
 	<minecraft:furnace> : [[<extrautils2:compressedcobblestone:1>,<minecraft:cobblestone_wall>,<extrautils2:compressedcobblestone:1>],[<minecraft:cobblestone_wall>,<minecraft:coal:*>,<minecraft:cobblestone_wall>],[<extrautils2:compressedcobblestone:1>,<minecraft:cobblestone_wall>,<extrautils2:compressedcobblestone:1>]],
 	<matc:inferiumcrystal> : [[<mysticalagriculture:storage:5>,<mysticalagriculture:storage>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage>,<ore:ingotBronze>,<mysticalagriculture:storage>],[<mysticalagriculture:storage:5>,<mysticalagriculture:storage>,<mysticalagriculture:storage:5>]],
-	<matc:prudentiumcrystal> : [[<mysticalagriculture:storage:2>,<minecraft:iron_block>,<mysticalagriculture:storage:2>],[<mysticalagriculture:storage:5>,<matc:inferiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:2>,<minecraft:iron_block>,<mysticalagriculture:storage:2>]],
-	/*<matc:intermediumcrystal> : [[,,],[,,],[,,]],
-	<matc:superiumcrystal> : [[,,],[,,],[,,]],
-	<matc:supremiumcrystal> : [[,,],[,,],[,,]],
-	<mysticalagriculture:master_infusion_crystal> : [[,,],[,,],[,,]],*/
+	<matc:prudentiumcrystal> : [[<mysticalagriculture:storage:1>,<minecraft:iron_block>,<mysticalagriculture:storage:1>],[<mysticalagriculture:storage:5>,<matc:inferiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:1>,<minecraft:iron_block>,<mysticalagriculture:storage:1>]],
+	<matc:intermediumcrystal> : [[<mysticalagriculture:storage:2>,<minecraft:iron_block>,<mysticalagriculture:storage:2>],[<mysticalagriculture:storage:5>,<matc:prudentiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:2>,<minecraft:iron_block>,<mysticalagriculture:storage:2>]],
+	<matc:superiumcrystal> : [[<mysticalagriculture:storage:3>,<minecraft:iron_block>,<mysticalagriculture:storage:3>],[<mysticalagriculture:storage:5>,<matc:intermediumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:3>,<minecraft:iron_block>,<mysticalagriculture:storage:3>]],
+	<matc:supremiumcrystal> : [[<mysticalagriculture:storage:4>,<minecraft:iron_block>,<mysticalagriculture:storage:4>],[<mysticalagriculture:storage:5>,<matc:superiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:4>,<minecraft:iron_block>,<mysticalagriculture:storage:4>]],
+	<mysticalagriculture:master_infusion_crystal> : [[<mysticalagradditions:storage>,<minecraft:iron_block>,<mysticalagradditions:storage>],[<mysticalagriculture:storage:5>,<matc:supremiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagradditions:storage>,<minecraft:iron_block>,<mysticalagradditions:storage>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -82,11 +82,13 @@ for key,recipe in recipeMapErraseShapeless {
 	recipes.addShapeless(key, recipe);
 }
 
+recipes.remove(<mysticalagriculture:growth_accelerator>);
+
 mods.extendedcrafting.TableCrafting.addShaped(<mysticalagriculture:growth_accelerator>, [
 	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:storage:1>       , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>, <mysticalagriculture:storage:1>],
 	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:prudentium_apple>, <mysticalagriculture:crafting:52>     , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>],
 	[<mysticalagriculture:prudentium_apple>,<mysticalagriculture:crafting:52>     , <mysticalagriculture:ingot_storage:6> , <mysticalagriculture:crafting:52>, <mysticalagriculture:prudentium_apple>],
 	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:prudentium_apple>, <mysticalagriculture:crafting:52>     , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>],
-	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:storage:1>       , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>>, <mysticalagriculture:storage:1>>]);
+	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:storage:1>       , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>, <mysticalagriculture:storage:1>]]);
 
 print("############################_End of Recipe_############################");
