@@ -87,13 +87,4 @@ for key,recipe in recipeMapErraseShapeless {
 	recipes.addShapeless(key, recipe);
 }
 
-recipes.remove(<mysticalagriculture:growth_accelerator>);
-
-mods.extendedcrafting.TableCrafting.addShaped(<mysticalagriculture:growth_accelerator>, [
-	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:storage:1>       , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>, <mysticalagriculture:storage:1>],
-	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:prudentium_apple>, <mysticalagriculture:crafting:52>     , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>],
-	[<mysticalagriculture:prudentium_apple>,<mysticalagriculture:crafting:52>     , <mysticalagriculture:ingot_storage:6> , <mysticalagriculture:crafting:52>, <mysticalagriculture:prudentium_apple>],
-	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:prudentium_apple>, <mysticalagriculture:crafting:52>     , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>],
-	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:storage:1>       , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>, <mysticalagriculture:storage:1>]]);
-
 print("############################_End of Recipe_############################");

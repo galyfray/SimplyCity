@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:tier1_inferium_seeds",
       "meta": 0,
       "tags": "",
-      "ignoreMeta": false,
+      "ignoreMeta": true,
       "ignoreTags": [
         "*"
       ],

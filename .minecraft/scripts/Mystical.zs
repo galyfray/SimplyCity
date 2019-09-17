@@ -1,10 +1,12 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemTransformer;
+import mods.extendedcrafting.TableCrafting;
 
 var i as int;
 var b as int;
 var j as int;
+var itemCraft as IIngredient;
 
 val Stone =[
 	<matc:inferiumcrystal>.anyDamage().transformDamage()|<mysticalagriculture:master_infusion_crystal> ,
@@ -92,3 +94,121 @@ for i in 17 to 18 {
 	[MA_Craft(j),MA_Craft(b),MA_Craft(j)],
 	[MA_Craft(j),MA_Craft(j),MA_Craft(j)]]);
 }
+
+print("-------------------------------Tier3-------------------------------");
+
+//Seed Tier 3
+
+function T3Define(Out as IItemStack, In as IIngredient) {
+
+	val S = <mysticalagriculture:crafting:19> ;
+	val B = <mysticalagriculture:crafting:2> ;	
+	val E = <mysticalagriculture:fertilized_essence>;	
+	
+	recipes.remove(Out);
+	
+	mods.extendedcrafting.TableCrafting.addShaped( Out, [
+	[In,B ,B,B ,In], 
+	[B ,In,E,In,B ], 
+	[B ,E ,S,E ,B ], 
+	[B ,In,E,In,B ], 
+	[In,B ,B,B ,In]]);
+	
+
+}
+
+T3Define(<mysticalagriculture:tier3_inferium_seeds>,<mysticalagriculture:storage:2>);
+
+for seed in <ore:seedsTier3>.items {
+	
+	for recipe in recipes.getRecipesFor(seed){
+		
+		itemCraft=recipe.ingredients1D[0].items[0];
+		T3Define(seed,itemCraft);
+		
+	}
+}
+
+//Seed Tier 4
+
+print("-------------------------------Tier4-------------------------------");
+
+function T4Define(Out as IItemStack, In as IIngredient) {
+
+	val S = <mysticalagriculture:crafting:20> ;
+	val B = <mysticalagriculture:crafting:3> ;	
+	val E = <mysticalagriculture:fertilized_essence>;	
+	
+	recipes.remove(Out);
+	
+	mods.extendedcrafting.TableCrafting.addShaped(Out, [
+	[In,In,B,B,B,In,In], 
+	[In,In,B,B,B,In,In], 
+	[B ,B ,E,E,E,B ,B ], 
+	[B ,B ,E,S,E,B ,B ], 
+	[B ,B ,E,E,E,B ,B ],
+	[In,In,B,B,B,In,In],
+	[In,In,B,B,B,In,In],]);
+	
+
+}
+
+T4Define(<mysticalagriculture:tier3_inferium_seeds>,<mysticalagriculture:storage:3>);
+
+for seed in <ore:seedsTier4>.items {
+	
+	for recipe in recipes.getRecipesFor(seed){
+		
+		itemCraft=recipe.ingredients1D[0].items[0];
+		T4Define(seed,itemCraft);
+		
+	}
+}
+
+//Seed Tier5
+
+print("-------------------------------Tier5-------------------------------");
+
+function T5Define(Out as IItemStack, In as IIngredient) {
+
+	val S = <mysticalagriculture:crafting:21> ;
+	val B = <mysticalagriculture:crafting:4> ;	
+	val E = <mysticalagriculture:fertilized_essence> ;
+	val G = <mysticalagriculture:growth_accelerator> ;
+	
+	recipes.remove(Out);
+	
+	mods.extendedcrafting.TableCrafting.addShaped(Out, [
+	[In,In,In,B,B,B,In,In,In], 
+	[In,In,In,B,B,B,In,In,In], 
+	[In,In,In,B,B,B,In,In,In], 
+	[B ,B ,B ,E,G,E,B ,B ,B ], 
+	[B ,B ,B ,G,S,G,B ,B ,B ],
+	[B ,B ,B ,E,G,E,B ,B ,B ],
+	[In,In,In,B,B,B,In,In,In],
+	[In,In,In,B,B,B,In,In,In],
+	[In,In,In,B,B,B,In,In,In]]);
+	
+
+}
+
+T5Define(<mysticalagriculture:tier3_inferium_seeds>,<mysticalagriculture:storage:4>);
+
+for seed in <ore:seedsTier5>.items {
+	
+	for recipe in recipes.getRecipesFor(seed){
+		
+		itemCraft=recipe.ingredients1D[0].items[0];
+		T5Define(seed,itemCraft);
+		
+	}
+}
+
+recipes.remove(<mysticalagriculture:growth_accelerator>);
+
+mods.extendedcrafting.TableCrafting.addShaped(<mysticalagriculture:growth_accelerator>, [
+	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:storage:1>       , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>, <mysticalagriculture:storage:1>],
+	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:prudentium_apple>, <mysticalagriculture:crafting:52>     , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>],
+	[<mysticalagriculture:prudentium_apple>,<mysticalagriculture:crafting:52>     , <mysticalagriculture:ingot_storage:6> , <mysticalagriculture:crafting:52>, <mysticalagriculture:prudentium_apple>],
+	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:prudentium_apple>, <mysticalagriculture:crafting:52>     , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>],
+	[<mysticalagriculture:storage:1>       ,<mysticalagriculture:storage:1>       , <mysticalagriculture:prudentium_apple>, <mysticalagriculture:storage:1>, <mysticalagriculture:storage:1>]]);
