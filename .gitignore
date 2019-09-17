@@ -1,7 +1,7 @@
 .minecraft/saves/*
 .minecraft/journeymap/*
 .minecraft/logs/*
-.minecraft/screenshot/*
+.minecraft/screenshots/*
 .minecraft/server-resource-packs/*
 .minecraft/valkyrielib/*
 .minecraft/*.log
