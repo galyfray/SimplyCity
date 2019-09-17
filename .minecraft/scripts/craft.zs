@@ -37,10 +37,11 @@ val recipeMapErraseShaped = {
 	<minecraft:furnace> : [[<extrautils2:compressedcobblestone:1>,<minecraft:cobblestone_wall>,<extrautils2:compressedcobblestone:1>],[<minecraft:cobblestone_wall>,<minecraft:coal:*>,<minecraft:cobblestone_wall>],[<extrautils2:compressedcobblestone:1>,<minecraft:cobblestone_wall>,<extrautils2:compressedcobblestone:1>]],
 	<matc:inferiumcrystal> : [[<mysticalagriculture:storage:5>,<mysticalagriculture:storage>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage>,<ore:ingotBronze>,<mysticalagriculture:storage>],[<mysticalagriculture:storage:5>,<mysticalagriculture:storage>,<mysticalagriculture:storage:5>]],
 	<matc:prudentiumcrystal> : [[<mysticalagriculture:storage:1>,<minecraft:iron_block>,<mysticalagriculture:storage:1>],[<mysticalagriculture:storage:5>,<matc:inferiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:1>,<minecraft:iron_block>,<mysticalagriculture:storage:1>]],
-	<matc:intermediumcrystal> : [[<mysticalagriculture:storage:2>,<minecraft:iron_block>,<mysticalagriculture:storage:2>],[<mysticalagriculture:storage:5>,<matc:prudentiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:2>,<minecraft:iron_block>,<mysticalagriculture:storage:2>]],
-	<matc:superiumcrystal> : [[<mysticalagriculture:storage:3>,<minecraft:iron_block>,<mysticalagriculture:storage:3>],[<mysticalagriculture:storage:5>,<matc:intermediumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:3>,<minecraft:iron_block>,<mysticalagriculture:storage:3>]],
+	<matc:intermediumcrystal> : [[<mysticalagriculture:storage:2>,<ore:blockSteel>,<mysticalagriculture:storage:2>],[<mysticalagriculture:storage:5>,<matc:prudentiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:2>,<ore:blockSteel>,<mysticalagriculture:storage:2>]],
+	<matc:superiumcrystal> : [[<mysticalagriculture:storage:3>,<minecraft:diamond_block>,<mysticalagriculture:storage:3>],[<mysticalagriculture:storage:5>,<matc:intermediumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:3>,<minecraft:diamond_block>,<mysticalagriculture:storage:3>]],
 	<matc:supremiumcrystal> : [[<mysticalagriculture:storage:4>,<minecraft:iron_block>,<mysticalagriculture:storage:4>],[<mysticalagriculture:storage:5>,<matc:superiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:4>,<minecraft:iron_block>,<mysticalagriculture:storage:4>]],
 	<mysticalagriculture:master_infusion_crystal> : [[<mysticalagradditions:storage>,<minecraft:iron_block>,<mysticalagradditions:storage>],[<mysticalagriculture:storage:5>,<matc:supremiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagradditions:storage>,<minecraft:iron_block>,<mysticalagradditions:storage>]],
+	<environmentaltech:litherite>: [[<actuallyadditions:item_crystal:4>,<actuallyadditions:item_battery_double>,<actuallyadditions:item_crystal:4>],[<actuallyadditions:item_coffee>,<mysticalagriculture:growth_accelerator>,<actuallyadditions:item_coffee>],[<actuallyadditions:item_crystal:4>,<actuallyadditions:item_battery_double>,<actuallyadditions:item_crystal:4>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -57,6 +58,7 @@ val recipeMapAddShaped = {
 	<actuallyadditions:block_misc:4> : [[<minecraft:stick>,<ore:plankTreatedWood>,<minecraft:stick>],[<ore:plankTreatedWood>,<ore:logWood>,<ore:plankTreatedWood>],[<minecraft:stick>,<ore:plankTreatedWood>,<minecraft:stick>]],
 	<minecraft:chest> *4 : [[<ore:logWood>,<ore:plankTreatedWood>,<ore:logWood>],[<ore:plankTreatedWood>,<minecraft:iron_nugget>,<ore:plankTreatedWood>],[<ore:logWood>,<ore:plankTreatedWood>,<ore:logWood>]],
 	<mysticalagriculture:crafting:32> : [[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<ore:ingotBronze>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>]],
+	<environmentaltech:litherite> : [[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -66,7 +68,9 @@ for key,recipe in recipeMapAddShaped {
 
 val recipeMapAddShapeless = {
 	<projectred-core:resource_item:301> * 8 : [<minecraft:flint>,<minecraft:flint>,<projectred-core:resource_item:300>],
-	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
+	<environmentaltech:litherite> :[<environmentaltech:litherite_stairs>],
+	<environmentaltech:litherite> : [<ore:blockLitherite>],
+	<environmentaltech:litherite> : [<environmentaltech:litherite_slab>,<environmentaltech:litherite_slab>]
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapAddShapeless {
@@ -74,6 +78,7 @@ for key,recipe in recipeMapAddShapeless {
 }
 
 val recipeMapErraseShapeless = {
+	<environmentaltech:litherite_crystal> : [<environmentaltech:litherite>],
 	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
 } as IIngredient[][IItemStack];
 

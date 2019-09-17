@@ -20,7 +20,7 @@
     "translations": {},
     "default": "Aluminum Brass Seeds."
   },
-  "growth_chance": 0.9,
+  "growth_chance": 0.85,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
@@ -36,7 +36,7 @@
       {
         "min": 1,
         "max": 2,
-        "chance": 0.9,
+        "chance": 0.85,
         "required": true,
         "item": "mysticalagriculture:aluminum_brass_essence",
         "meta": 0,
@@ -53,25 +53,7 @@
     "soils": [
       "tier2_soil"
     ],
-    "conditions": [
-      {
-        "amount": 1,
-        "min_x": 0,
-        "min_y": -2,
-        "min_z": 0,
-        "max_x": 0,
-        "max_y": -2,
-        "max_z": 0,
-        "item": "",
-        "meta": 1,
-        "tags": "",
-        "ignoreMeta": true,
-        "ignoreTags": [
-          "*"
-        ],
-        "useOreDict": true
-      }
-    ]
+    "conditions": []
   },
   "texture": {
     "render_type": "cross",
