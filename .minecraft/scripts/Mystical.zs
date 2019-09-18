@@ -117,8 +117,6 @@ function T3Define(Out as IItemStack, In as IIngredient) {
 
 }
 
-T3Define(<mysticalagriculture:tier3_inferium_seeds>,<mysticalagriculture:storage:2>);
-
 for seed in <ore:seedsTier3>.items {
 	
 	for recipe in recipes.getRecipesFor(seed){
@@ -153,8 +151,6 @@ function T4Define(Out as IItemStack, In as IIngredient) {
 
 }
 
-T4Define(<mysticalagriculture:tier3_inferium_seeds>,<mysticalagriculture:storage:3>);
-
 for seed in <ore:seedsTier4>.items {
 	
 	for recipe in recipes.getRecipesFor(seed){
@@ -173,7 +169,7 @@ function T5Define(Out as IItemStack, In as IIngredient) {
 
 	val S = <mysticalagriculture:crafting:21> ;
 	val B = <mysticalagriculture:crafting:4> ;	
-	val E = <mysticalagriculture:fertilized_essence> ;
+	val E = <mysticalagriculture:crafting:51> ;
 	val G = <mysticalagriculture:growth_accelerator> ;
 	
 	recipes.remove(Out);
@@ -192,14 +188,47 @@ function T5Define(Out as IItemStack, In as IIngredient) {
 
 }
 
-T5Define(<mysticalagriculture:tier3_inferium_seeds>,<mysticalagriculture:storage:4>);
-
 for seed in <ore:seedsTier5>.items {
 	
 	for recipe in recipes.getRecipesFor(seed){
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
 		T5Define(seed,itemCraft);
+		
+	}
+}
+//Seed Tier6
+
+print("-------------------------------Tier6-------------------------------");
+
+function T6Define(Out as IItemStack, In as IIngredient) {
+
+	val S = <mysticalagradditions:insanium:1> ;
+	val B = <mysticalagradditions:insanium> ;	
+	val E = <mysticalagriculture:crafting:52> ;
+	val G = <mysticalagriculture:growth_accelerator> ;
+	
+	recipes.remove(Out);
+	
+	mods.extendedcrafting.TableCrafting.addShaped(Out, [
+	[In,In,In,B,B,B,In,In,In], 
+	[In,In,In,B,B,B,In,In,In], 
+	[In,In,In,B,B,B,In,In,In], 
+	[B ,B ,B ,E,G,E,B ,B ,B ], 
+	[B ,B ,B ,G,S,G,B ,B ,B ],
+	[B ,B ,B ,E,G,E,B ,B ,B ],
+	[In,In,In,B,B,B,In,In,In],
+	[In,In,In,B,B,B,In,In,In],
+	[In,In,In,B,B,B,In,In,In]]);
+	
+
+}
+for seed in <ore:seedsTier6>.items {
+	
+	for recipe in recipes.getRecipesFor(seed){
+		
+		itemCraft=recipe.ingredients1D[0].items[0];
+		T6Define(seed,itemCraft);
 		
 	}
 }
