@@ -20,7 +20,7 @@
     "translations": {},
     "default": "Tier Six Inferium Seeds. Much upgrade. Very wow."
   },
-  "growth_chance": 0.9,
+  "growth_chance": 0.7,
   "growth_bonus": 0.02,
   "bonemeal": false,
   "tier": 1,
@@ -34,11 +34,11 @@
   "products": {
     "products": [
       {
-        "min": 1,
-        "max": 5,
+        "min": 6,
+        "max": 7,
         "chance": 0.9,
         "required": true,
-        "item": "mysticalagriculture:inferium_essence",
+        "item": "mysticalagriculture:crafting",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
