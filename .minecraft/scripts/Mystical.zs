@@ -1,4 +1,4 @@
-#modloaded mysticalagradditions
+#modloaded mysticalagradditions mysticalagriculture
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -124,6 +124,9 @@ for seed in <ore:seedsTier3>.items {
 	for recipe in recipes.getRecipesFor(seed){
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
+		if itemCraft.items[0].ores.length != 0{
+			itemCraft=itemCraft.items[0].ores[0];
+		}
 		T3Define(seed,itemCraft);
 		
 	}
@@ -158,6 +161,9 @@ for seed in <ore:seedsTier4>.items {
 	for recipe in recipes.getRecipesFor(seed){
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
+		if itemCraft.items[0].ores.length != 0{
+			itemCraft=itemCraft.items[0].ores[0];
+		}
 		T4Define(seed,itemCraft);
 		
 	}
@@ -195,6 +201,9 @@ for seed in <ore:seedsTier5>.items {
 	for recipe in recipes.getRecipesFor(seed){
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
+		if itemCraft.items[0].ores.length != 0{
+			itemCraft=itemCraft.items[0].ores[0];
+		}
 		T5Define(seed,itemCraft);
 		
 	}
@@ -230,6 +239,9 @@ for seed in <ore:seedsTier6>.items {
 	for recipe in recipes.getRecipesFor(seed){
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
+		if itemCraft.items[0].ores.length != 0{
+			itemCraft=itemCraft.items[0].ores[0];
+		}
 		T6Define(seed,itemCraft);
 		
 	}

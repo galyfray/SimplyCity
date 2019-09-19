@@ -1,12 +1,12 @@
 {
-  "path": "mod_mysticalagriculture/plants/tin_plant.json",
+  "path": "mod_mysticalagriculture/plants/electrotine_plant.json",
   "enabled": true,
-  "id": "mysticalagriculture:tin_plant",
-  "plant_name": "Tin Crop",
-  "seed_name": "Tin Seeds",
+  "id": "mysticalagriculture:electrotine_plant",
+  "plant_name": "Electrotine",
+  "seed_name": "Electrotine Seeds",
   "seed_items": [
     {
-      "item": "mysticalagriculture:tin_seeds",
+      "item": "mysticalagriculture:electrotine_seeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Tin Seeds."
+    "default": "Electrotine Seeds."
   },
   "growth_chance": 0.85,
   "growth_bonus": 0.025,
@@ -36,9 +36,9 @@
       {
         "min": 1,
         "max": 2,
-        "chance": 0.79,
+        "chance": 0.85,
         "required": true,
-        "item": "mysticalagriculture:tin_essence",
+        "item": "mysticalagriculture:electrotine_essence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "mysticalagriculture:items/tin_seeds",
+    "seed_texture": "mysticalagriculture:items/electrotine_seeds",
     "plant_textures": [
       "mysticalagriculture:blocks/crop0",
       "mysticalagriculture:blocks/crop1",
@@ -66,7 +66,7 @@
       "mysticalagriculture:blocks/crop3",
       "mysticalagriculture:blocks/crop4",
       "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/tin_crop"
+      "mysticalagriculture:blocks/electrotine_crop"
     ]
   }
 }

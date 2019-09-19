@@ -1,12 +1,12 @@
 {
-  "path": "mod_mysticalagriculture/plants/tin_plant.json",
+  "path": "mod_mysticalagriculture/plants/thaumium_quartz_plant.json",
   "enabled": true,
-  "id": "mysticalagriculture:tin_plant",
-  "plant_name": "Tin Crop",
-  "seed_name": "Tin Seeds",
+  "id": "mysticalagriculture:thaumium_plant",
+  "plant_name": "Thaumium",
+  "seed_name": "Thaumium Seeds",
   "seed_items": [
     {
-      "item": "mysticalagriculture:tin_seeds",
+      "item": "mysticalagriculture:thaumium_seeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,9 +18,9 @@
   ],
   "description": {
     "translations": {},
-    "default": "Tin Seeds."
+    "default": "Thaumium Seeds."
   },
-  "growth_chance": 0.85,
+  "growth_chance": 0.75,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
@@ -36,9 +36,9 @@
       {
         "min": 1,
         "max": 2,
-        "chance": 0.79,
+        "chance": 0.71,
         "required": true,
-        "item": "mysticalagriculture:tin_essence",
+        "item": "mysticalagriculture:thaumium_essence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -51,13 +51,13 @@
     "min_light": 10,
     "max_light": 16,
     "soils": [
-      "tier2_soil"
+      "tier4_soil"
     ],
     "conditions": []
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "mysticalagriculture:items/tin_seeds",
+    "seed_texture": "mysticalagriculture:items/thaumium_seeds",
     "plant_textures": [
       "mysticalagriculture:blocks/crop0",
       "mysticalagriculture:blocks/crop1",
@@ -66,7 +66,7 @@
       "mysticalagriculture:blocks/crop3",
       "mysticalagriculture:blocks/crop4",
       "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/tin_crop"
+      "mysticalagriculture:blocks/thaumium_crop"
     ]
   }
 }
