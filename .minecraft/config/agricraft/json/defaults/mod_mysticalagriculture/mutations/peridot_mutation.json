@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/peridot_mutation.json",
+  "enabled": true,
+  "chance": 0.15,
+  "child": "mysticalagriculture:peridot_plant",
+  "parent1": "mysticalagriculture:uranium_plant",
+  "parent2": "mysticalagriculture:nether_quartz_plant"
+}

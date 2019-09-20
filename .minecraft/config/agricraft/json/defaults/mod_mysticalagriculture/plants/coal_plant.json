@@ -44,6 +44,18 @@
         "ignoreMeta": false,
         "ignoreTags": [],
         "useOreDict": false
+      },
+      {
+        "min": 1,
+        "max": 1,
+        "chance": 0.005,
+        "required": true,
+        "item": "mysticalagriculture:fertilized_essence",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },
@@ -53,7 +65,23 @@
     "soils": [
       "tier2_soil"
     ],
-    "conditions": []
+    "conditions": [
+      {
+        "amount": 1,
+        "min_x": 0,
+        "min_y": -2,
+        "min_z": 0,
+        "max_x": 0,
+        "max_y": -2,
+        "max_z": 0,
+        "item": "minecraft:coal_block",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": true
+      }
+    ]
   },
   "texture": {
     "render_type": "cross",

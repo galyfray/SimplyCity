@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/sapphire_mutation.json",
+  "enabled": true,
+  "chance": 0.15,
+  "child": "mysticalagriculture:sapphire_plant",
+  "parent1": "mysticalagriculture:lapis_lazuli_plant",
+  "parent2": "mysticalagriculture:peridot_plant"
+}

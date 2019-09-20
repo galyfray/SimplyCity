@@ -44,6 +44,18 @@
         "ignoreMeta": false,
         "ignoreTags": [],
         "useOreDict": false
+      },
+      {
+        "min": 1,
+        "max": 1,
+        "chance": 0.005,
+        "required": true,
+        "item": "mysticalagriculture:fertilized_essence",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },
@@ -62,13 +74,11 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "item": "",
-        "meta": 1,
+        "item": "thermalfoundation:storage",
+        "meta": 8,
         "tags": "",
-        "ignoreMeta": true,
-        "ignoreTags": [
-          "*"
-        ],
+        "ignoreMeta": false,
+        "ignoreTags": [],
         "useOreDict": true
       }
     ]

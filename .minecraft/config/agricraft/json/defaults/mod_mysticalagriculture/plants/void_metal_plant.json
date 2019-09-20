@@ -1,12 +1,12 @@
 {
-  "path": "mod_mysticalagriculture/plants/thaumium_quartz_plant.json",
+  "path": "mod_mysticalagriculture/plants/void_metal_plant.json",
   "enabled": true,
-  "id": "mysticalagriculture:thaumium_plant",
-  "plant_name": "Thaumium",
-  "seed_name": "Thaumium Seeds",
+  "id": "mysticalagriculture:void_metal_plant",
+  "plant_name": "Void Metal Crop",
+  "seed_name": "Void Metal Seeds",
   "seed_items": [
     {
-      "item": "mysticalagriculture:thaumium_seeds",
+      "item": "mysticalagriculture:void_metal_seeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,9 +18,9 @@
   ],
   "description": {
     "translations": {},
-    "default": "Thaumium Seeds."
+    "default": "Void Metal Seeds."
   },
-  "growth_chance": 0.75,
+  "growth_chance": 0.7,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
@@ -36,9 +36,21 @@
       {
         "min": 1,
         "max": 2,
-        "chance": 0.71,
+        "chance": 0.61,
         "required": true,
-        "item": "mysticalagriculture:thaumium_essence",
+        "item": "mysticalagriculture:void_metal_essence",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      },
+      {
+        "min": 1,
+        "max": 1,
+        "chance": 0.005,
+        "required": true,
+        "item": "mysticalagriculture:fertilized_essence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -51,13 +63,29 @@
     "min_light": 10,
     "max_light": 16,
     "soils": [
-      "tier4_soil"
+      "tier5_soil"
     ],
-    "conditions": []
+    "conditions": [
+      {
+        "amount": 1,
+        "min_x": 0,
+        "min_y": -2,
+        "min_z": 0,
+        "max_x": 0,
+        "max_y": -2,
+        "max_z": 0,
+        "item": "thaumcraft:metal_void",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": true
+      }
+    ]
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "mysticalagriculture:items/thaumium_seeds",
+    "seed_texture": "mysticalagriculture:items/void_metal_seeds",
     "plant_textures": [
       "mysticalagriculture:blocks/crop0",
       "mysticalagriculture:blocks/crop1",
@@ -66,7 +94,7 @@
       "mysticalagriculture:blocks/crop3",
       "mysticalagriculture:blocks/crop4",
       "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/thaumium_crop"
+      "mysticalagriculture:blocks/void_metal_crop"
     ]
   }
 }

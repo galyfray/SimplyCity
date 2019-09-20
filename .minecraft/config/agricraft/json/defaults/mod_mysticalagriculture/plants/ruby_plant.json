@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/ruby_plant.json",
   "enabled": true,
-  "id": "mysticalagriculture:rubyr_plant",
+  "id": "mysticalagriculture:ruby_plant",
   "plant_name": "Ruby",
   "seed_name": "Ruby Seeds",
   "seed_items": [
@@ -39,6 +39,18 @@
         "chance": 0.71,
         "required": true,
         "item": "mysticalagriculture:ruby_essence",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      },
+      {
+        "min": 1,
+        "max": 1,
+        "chance": 0.005,
+        "required": true,
+        "item": "mysticalagriculture:fertilized_essence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,

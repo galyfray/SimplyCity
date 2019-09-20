@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/ruby_mutation.json",
+  "enabled": true,
+  "chance": 0.15,
+  "child": "mysticalagriculture:ruby_plant",
+  "parent1": "mysticalagriculture:sapphire_plant",
+  "parent2": "mysticalagriculture:redstone_plant"
+}
