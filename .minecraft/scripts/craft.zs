@@ -39,9 +39,28 @@ val recipeMapErraseShaped = {
 	<matc:prudentiumcrystal> : [[<mysticalagriculture:storage:1>,<minecraft:iron_block>,<mysticalagriculture:storage:1>],[<mysticalagriculture:storage:5>,<matc:inferiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:1>,<minecraft:iron_block>,<mysticalagriculture:storage:1>]],
 	<matc:intermediumcrystal> : [[<mysticalagriculture:storage:2>,<ore:blockSteel>,<mysticalagriculture:storage:2>],[<mysticalagriculture:storage:5>,<matc:prudentiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:2>,<ore:blockSteel>,<mysticalagriculture:storage:2>]],
 	<matc:superiumcrystal> : [[<mysticalagriculture:storage:3>,<minecraft:diamond_block>,<mysticalagriculture:storage:3>],[<mysticalagriculture:storage:5>,<matc:intermediumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:3>,<minecraft:diamond_block>,<mysticalagriculture:storage:3>]],
-	<matc:supremiumcrystal> : [[<mysticalagriculture:storage:4>,<minecraft:iron_block>,<mysticalagriculture:storage:4>],[<mysticalagriculture:storage:5>,<matc:superiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:4>,<minecraft:iron_block>,<mysticalagriculture:storage:4>]],
+	<matc:supremiumcrystal> : [[<mysticalagriculture:storage:4>,<thaumcraft:metal_void>,<mysticalagriculture:storage:4>],[<mysticalagriculture:storage:5>,<matc:superiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagriculture:storage:4>,<thaumcraft:metal_void>,<mysticalagriculture:storage:4>]],
 	<mysticalagriculture:master_infusion_crystal> : [[<mysticalagradditions:storage>,<minecraft:iron_block>,<mysticalagradditions:storage>],[<mysticalagriculture:storage:5>,<matc:supremiumcrystal>,<mysticalagriculture:storage:5>],[<mysticalagradditions:storage>,<minecraft:iron_block>,<mysticalagradditions:storage>]],
 	<environmentaltech:litherite>: [[<actuallyadditions:item_crystal:4>,<actuallyadditions:item_battery_double>,<actuallyadditions:item_crystal:4>],[<actuallyadditions:item_coffee>,<mysticalagriculture:growth_accelerator>,<actuallyadditions:item_coffee>],[<actuallyadditions:item_crystal:4>,<actuallyadditions:item_battery_double>,<actuallyadditions:item_crystal:4>]],
+	<immersiveengineering:stone_decoration>*3 : [[<ceramics:unfired_clay:4>,<immersiveengineering:stone_decoration:10>,<ceramics:unfired_clay:4>],[<immersiveengineering:stone_decoration:10>,<thaumcraft:ingot:2>,<immersiveengineering:stone_decoration:10>],[<ceramics:unfired_clay:4>,<immersiveengineering:stone_decoration:10>,<ceramics:unfired_clay:4>]],
+	<immersiveengineering:metal_device1:13> : [[<actuallyadditions:item_crystal_empowered:4>,<mysticalagriculture:crafting:54>,<actuallyadditions:item_crystal_empowered:4>],[<extrautils2:ineffableglass:1>,<thaumcraft:ingot:1>,<extrautils2:ineffableglass:1>],[<immersiveengineering:treated_wood>,<mysticalagriculture:crafting:54>,<immersiveengineering:treated_wood>]],
+	<immersiveengineering:metal_decoration0:3>*2 : [[<ore:ingotRedAlloy>,<thaumcraft:ingot>,<ore:ingotRedAlloy>],[<thaumcraft:ingot>,<thaumcraft:ingot:2>,<thaumcraft:ingot>],[<ore:ingotRedAlloy>,<thaumcraft:ingot>,<ore:ingotRedAlloy>]],
+	<immersiveengineering:metal_decoration0:7>*2 : [[<thermalfoundation:material:352>,<magneticraft:heat_pipe>,<thermalfoundation:material:352>],[<magneticraft:heat_pipe>,<magneticraft:water_generator>,<magneticraft:heat_pipe>],[<thermalfoundation:material:352>,<magneticraft:heat_pipe>,<thermalfoundation:material:352>]],
+	<immersiveengineering:metal_decoration0:5>*2 : [[<ore:plateSteel>,<immersiveengineering:material:9>,<ore:plateSteel>],[<ore:ingotBrass>,<thaumcraft:morphic_resonator>,<ore:ingotBrass>],[<ore:plateSteel>,<immersiveengineering:material:9>,<ore:plateSteel>]],
+	<immersiveengineering:metal_decoration0:6>*2 : [[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>],[<thaumcraft:mechanism_complex>,<magneticraft:rf_transformer>,<minecraft:redstone_block>],[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>]],
+	<immersiveengineering:metal_device0> : [[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>],[<ore:ingotRedAlloy>,<thaumcraft:morphic_resonator>,<ore:ingotRedAlloy>],[<ore:plankTreatedWood>,<ore:blockRedstone>,<ore:plankTreatedWood>]],
+	<immersiveengineering:metal_device0:1> : [[<ore:plateSteel>,<ore:ingotRedAlloy>,<ore:plateSteel>],[<thaumcraft:morphic_resonator>,<immersiveengineering:metal_device0>,<thaumcraft:morphic_resonator>],[<ore:plankTreatedWood>,<ore:blockRedstone>,<ore:plankTreatedWood>]],
+	<immersiveengineering:metal_device0:2> : [[<ore:plateSteel>,<ore:ingotRedAlloy>,<ore:plateSteel>],[<thaumcraft:morphic_resonator>,<immersiveengineering:metal_device0:1>,<thaumcraft:morphic_resonator>],[<ore:plankTreatedWood>,<ore:blockRedstone>,<ore:plankTreatedWood>]],
+	<immersiveengineering:material:9> : [[<ore:plateSteel>,null,<ore:plateSteel>],[null,<thaumcraft:mechanism_complex>,null],[<ore:plateSteel>,null,<ore:plateSteel>]],
+	<immersiveengineering:material:8> : [[<ore:plateIron>,null,<ore:plateIron>],[null,<thaumcraft:mechanism_simple>,null],[<ore:plateIron>,null,<ore:plateIron>]],
+	<magneticraft:rf_transformer> : [[<ore:plateIron>,<immersiveengineering:metal_device0>,<ore:plateIron>],[<thaumcraft:morphic_resonator>,<immersiveengineering:metal_decoration0:3>,<thaumcraft:morphic_resonator>],[<thaumcraft:mechanism_complex>,<magneticraft:multiblock_parts:4>,<thaumcraft:mechanism_complex>]],
+	<magneticraft:wind_turbine> : [[<ore:plateAluminium>,<magneticraft:crafting:6>,<ore:plateAluminium>],[<magneticraft:crafting:6>,<magneticraft:multiblock_parts>,<magneticraft:crafting:6>],[<ore:plateAluminium>,<magneticraft:crafting:6>,<ore:plateAluminium>]],
+	<immersiveengineering:metal_decoration0:4>*2 : [[<ore:plateIron>,<immersiveengineering:material:8>,<ore:plateIron>],[<thaumcraft:ingot:2>,<thaumcraft:ingot>,<thaumcraft:ingot:2>],[<ore:plateIron>,<immersiveengineering:material:8>,<ore:plateIron>]],
+	<integrateddynamics:mechanical_squeezer> : [[<integrateddynamics:menril_log>,<immersiveengineering:material:9>,<integrateddynamics:menril_log>],[<integrateddynamics:energy_battery>,<actuallyadditions:block_misc:9>,<integrateddynamics:energy_battery>],[<integrateddynamics:menril_log>,<actuallyadditions:block_crystal_empowered>,<integrateddynamics:menril_log>]],
+	<extrautils2:machine>.withTag({Type: "extrautils2:generator_survival"}) : [[<ore:cobblestone>,<ore:cobblestone>,<ore:cobblestone>],[<ore:cobblestone>,<ore:ingotIron>,<ore:cobblestone>],[<minecraft:redstone>,<actuallyadditions:block_coal_generator>,<minecraft:redstone>]],
+	<extrautils2:machine>.withTag({Type: "extrautils2:generator"}) : [[<ore:ingotIron>,<ore:ingotIron>,<ore:ingotIron>],[<ore:ingotIron>,<extrautils2:machine>,<ore:ingotIron>],[<minecraft:redstone>,<extrautils2:machine>.withTag({Type: "extrautils2:generator_survival"}),<minecraft:redstone>]],
+	<actuallyadditions:block_misc:9> : [[<immersiveengineering:material:8>,<immersiveengineering:material>,<immersiveengineering:material:8>],[<immersiveengineering:material>,<jaopca:item_gearquartzblack>,<immersiveengineering:material>],[<immersiveengineering:material:8>,<immersiveengineering:material>,<immersiveengineering:material:8>]],
+	<minecraft:elytra> : [[<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>],[<mysticalagradditions:dragon_egg_essence>,<minecraft:leather_chestplate>,<mysticalagradditions:dragon_egg_essence>],[<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -59,6 +78,7 @@ val recipeMapAddShaped = {
 	<minecraft:chest> *4 : [[<ore:logWood>,<ore:plankTreatedWood>,<ore:logWood>],[<ore:plankTreatedWood>,<minecraft:iron_nugget>,<ore:plankTreatedWood>],[<ore:logWood>,<ore:plankTreatedWood>,<ore:logWood>]],
 	<mysticalagriculture:crafting:32> : [[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<ore:ingotBronze>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>]],
 	<environmentaltech:litherite> : [[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>]],
+	<immersiveengineering:blueprint>.withTag({blueprint: "thaumic"}) : [[<thaumcraft:mechanism_complex>,<thaumcraft:morphic_resonator>,<thaumcraft:mechanism_complex>],[<ore:dyeBlue>,<ore:dyeBlue>,<ore:dyeBlue>],[<ore:paper>,<ore:paper>,<ore:paper>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -70,7 +90,8 @@ val recipeMapAddShapeless = {
 	<projectred-core:resource_item:301> * 8 : [<minecraft:flint>,<minecraft:flint>,<projectred-core:resource_item:300>],
 	<environmentaltech:litherite> :[<environmentaltech:litherite_stairs>],
 	<environmentaltech:litherite> : [<ore:blockLitherite>],
-	<environmentaltech:litherite> : [<environmentaltech:litherite_slab>,<environmentaltech:litherite_slab>]
+	<environmentaltech:litherite> : [<environmentaltech:litherite_slab>,<environmentaltech:litherite_slab>],
+	<magneticraft:rf_transformer> : [<magneticraft:electric_engine>],
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapAddShapeless {
@@ -80,11 +101,76 @@ for key,recipe in recipeMapAddShapeless {
 val recipeMapErraseShapeless = {
 	<environmentaltech:litherite_crystal> : [<environmentaltech:litherite>],
 	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
+	<magneticraft:electric_engine> : [<magneticraft:rf_transformer>],
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapErraseShapeless {
     recipes.remove(key);
 	recipes.addShapeless(key, recipe);
+}
+
+val recipeMapErraseShapedLarger = {
+	<thermalexpansion:frame> :[[<ore:plateMithril>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateMithril>], 
+	[<ore:plateIridium>, <ore:xuUpgradeSpeedEnchanted>, <ore:gearMithril>, <ore:xuUpgradeSpeedEnchanted>, <ore:plateIridium>], 
+	[<ore:plateIridium>, <ore:gearMithril>, <extrautils2:machine>, <ore:gearMithril>, <ore:plateIridium>], 
+	[<ore:plateIridium>, <ore:xuUpgradeSpeedEnchanted>, <ore:gearMithril>, <ore:xuUpgradeSpeedEnchanted>, <ore:plateIridium>], 
+	[<ore:plateMithril>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateMithril>]],
+	
+	<thermalexpansion:frame:64> : [[<ore:plateNickel>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateNickel>], 
+	[<ore:plateAluminium>, <ore:coalPowered>, <ore:gearIridium>, <ore:coalPowered>, <ore:plateAluminium>], 
+	[<ore:plateAluminium>, <ore:gearIridium>, <actuallyadditions:block_misc:9>, <ore:gearIridium>, <ore:plateAluminium>], 
+	[<ore:plateAluminium>, <ore:coalPowered>, <ore:gearIridium>, <ore:coalPowered>, <ore:plateAluminium>], 
+	[<ore:plateNickel>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateNickel>]],
+	
+	<thermalexpansion:frame:128> : [[<ore:ingotMithril>, <ore:ingotMithril>, <ore:plateElectrum>, <ore:ingotMithril>, <ore:ingotMithril>], 
+	[<ore:ingotMithril>, <extrautils2:klein>, <thaumcraft:morphic_resonator>, <extrautils2:klein>, <ore:ingotMithril>], 
+	[<ore:plateElectrum>, <thaumcraft:morphic_resonator>, <immersiveengineering:metal_device0:2>, <thaumcraft:morphic_resonator>, <ore:plateElectrum>], 
+	[<ore:ingotMithril>, <extrautils2:klein>, <thaumcraft:morphic_resonator>, <extrautils2:klein>, <ore:ingotMithril>], 
+	[<ore:ingotMithril>, <ore:ingotMithril>, <ore:plateElectrum>, <ore:ingotMithril>, <ore:ingotMithril>]],
+	
+	<thermalfoundation:material:513> : [[null, null, <extrautils2:decorativeglass>, <ore:plateGold>, <ore:plateGold>], 
+	[null, <extrautils2:decorativeglass>, <ore:xuUpgradeSpeed>, <ore:coalPowered>, <ore:plateGold>], 
+	[<extrautils2:decorativeglass>, <ore:xuUpgradeSpeed>, <ore:plateGold>, <ore:xuUpgradeSpeed>, <extrautils2:decorativeglass>], 
+	[<ore:plateGold>, <ore:coalPowered>, <ore:xuUpgradeSpeed>, <extrautils2:decorativeglass>, null], 
+	[<ore:plateGold>, <ore:plateGold>, <extrautils2:decorativeglass>, null, null]],
+	
+	<thermalfoundation:material:514>: [[null, null, <extrautils2:decorativeglass>, <ore:plateIridium>, <ore:plateIridium>], 
+	[null, <extrautils2:decorativeglass>, <ore:xuUpgradeSpeed>, <ore:coalPowered>, <ore:plateIridium>], 
+	[<extrautils2:decorativeglass>, <ore:xuUpgradeSpeed>, <ore:plateIridium>, <ore:xuUpgradeSpeed>, <extrautils2:decorativeglass>], 
+	[<ore:plateIridium>, <ore:coalPowered>, <ore:xuUpgradeSpeed>, <extrautils2:decorativeglass>, null], 
+	[<ore:plateIridium>, <ore:plateIridium>, <extrautils2:decorativeglass>, null, null]],
+	
+	<thermalfoundation:upgrade> : [[<ore:blockInvar>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateIridium>, <ore:blockInvar>], 
+	[<ore:blockInvar>, <extrautils2:decorativesolid:7>, <ore:xuUpgradeSpeedEnchanted>, <extrautils2:decorativesolid:7>, <ore:blockInvar>], 
+	[<ore:blockInvar>, <ore:xuUpgradeStack>, <extrautils2:opinium:1>, <ore:xuUpgradeStack>, <ore:blockInvar>], 
+	[<ore:blockInvar>, <extrautils2:decorativesolid:7>, <extrautils2:decorativesolid:7>, <extrautils2:decorativesolid:7>, <ore:blockInvar>], 
+	[<ore:blockInvar>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateIridium>, <ore:blockInvar>]],
+	
+	<thermalfoundation:upgrade:1> : [[<ore:blockElectrum>, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, <ore:blockElectrum>], 
+	[<ore:blockElectrum>, <extrautils2:decorativesolid:7>, <ore:xuUpgradeSpeedEnchanted>, <extrautils2:decorativesolid:7>, <ore:blockElectrum>], 
+	[<ore:blockElectrum>, <ore:xuUpgradeStack>, <extrautils2:opinium:3>, <ore:xuUpgradeStack>, <ore:blockElectrum>], 
+	[<ore:blockElectrum>, <extrautils2:decorativesolid:7>, <extrautils2:decorativesolid:7>, <extrautils2:decorativesolid:7>, <ore:blockElectrum>], 
+	[<ore:blockElectrum>, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, <ore:blockElectrum>]],
+	
+	<thermalfoundation:upgrade:2> : [[<ore:blockSignalum>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateIridium>, <ore:blockSignalum>], 
+	[<ore:blockSignalum>, <ore:dustCryotheum>, <ore:xuUpgradeSpeedEnchanted>, <ore:dustCryotheum>, <ore:blockSignalum>], 
+	[<ore:blockSignalum>, <ore:xuUpgradeSpeedEnchanted>, <extrautils2:opinium:6>, <ore:xuUpgradeSpeedEnchanted>, <ore:blockSignalum>], 
+	[<ore:blockSignalum>, <ore:dustCryotheum>, <actuallyadditions:block_crystal_empowered:3>, <ore:dustCryotheum>, <ore:blockSignalum>], 
+	[<ore:blockSignalum>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateIridium>, <ore:blockSignalum>]],
+	
+	<thermalfoundation:upgrade:3> : [[<ore:blockEnderium>, <extendedcrafting:material:48>, <extendedcrafting:material:48>, <extendedcrafting:material:48>, <ore:blockEnderium>], 
+	[<ore:blockEnderium>, <forge:bucketfilled>, <ore:xuUpgradeSpeedEnchanted>, <forge:bucketfilled>, <ore:blockEnderium>], 
+	[<ore:blockEnderium>, <ore:xuUpgradeSpeedEnchanted>, <extrautils2:opinium:8>, <ore:xuUpgradeSpeedEnchanted>, <ore:blockEnderium>], 
+	[<ore:blockEnderium>, <forge:bucketfilled>, <extendedcrafting:trimmed:4>, <forge:bucketfilled>, <ore:blockEnderium>], 
+	[<ore:blockEnderium>, <extendedcrafting:material:48>, <extendedcrafting:material:48>, <extendedcrafting:material:48>, <ore:blockEnderium>]],
+	
+} as IIngredient[][][IItemStack];
+
+
+
+for key,recipe in recipeMapErraseShapedLarger {
+	recipes.remove(key);
+    mods.extendedcrafting.TableCrafting.addShaped(key,recipe);
 }
 
 print("############################_End of Recipe_############################");

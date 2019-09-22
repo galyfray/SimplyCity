@@ -20,8 +20,8 @@
     "translations": {},
     "default": "Nether Star Seeds."
   },
-  "growth_chance": 0.85,
-  "growth_bonus": 0.02,
+  "growth_chance": 0.5,
+  "growth_bonus": 0.01,
   "bonemeal": false,
   "tier": 1,
   "weedable": false,
@@ -35,8 +35,8 @@
     "products": [
       {
         "min": 1,
-        "max": 5,
-        "chance": 0.9,
+        "max": 1,
+        "chance": 0.2,
         "required": true,
         "item": "mysticalagradditions:nether_star_essence",
         "meta": 0,

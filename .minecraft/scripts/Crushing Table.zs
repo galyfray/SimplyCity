@@ -37,5 +37,11 @@ for output,input in recipeMap {
 	mods.magneticraft.CrushingTable.addRecipe(output,input,false);
 }
 
+mods.magneticraft.CrushingTable.removeRecipe(<thermalfoundation:material:160>);
+
+mods.magneticraft.HydraulicPress.removeRecipe(<thermalfoundation:material:160>,1);
 
 mods.magneticraft.HydraulicPress.addRecipe(<minecraft:coal_block>*9,<minecraft:diamond>,600,2,true);
+mods.magneticraft.HydraulicPress.addRecipe(<thaumcraft:metal_brass>,<thaumcraft:plate>*5,200,0,true);
+mods.magneticraft.HydraulicPress.addRecipe(<thermalfoundation:storage_alloy>,<thermalfoundation:material:160>*5,100,0,true);
+mods.magneticraft.HydraulicPress.addRecipe(<thaumcraft:metal_thaumium>,<thaumcraft:plate:2>*5,150,0,true);
