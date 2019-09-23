@@ -69,46 +69,6 @@ for key,recipe in recipeMapErraseShaped {
     recipes.addShaped(key, recipe);
 }
 
-val recipeMapAddShaped = {
-    <magneticraft:iron_pipe> * 16 : [[<minecraft:glass>,<ore:plateIron>,<minecraft:glass>],[<ore:plateIron>,<ore:blockGlass>,<ore:plateIron>],[<minecraft:glass>,<ore:plateIron>,<minecraft:glass>]],
-	<projectred-core:resource_item:252> : [[<projectred-core:resource_item:105>,<projectred-core:resource_item:105>,<projectred-core:resource_item:105>],[<projectred-core:resource_item:105>,<ore:ingotAluminum>,<projectred-core:resource_item:105>],[<projectred-core:resource_item:105>,<projectred-core:resource_item:105>,<projectred-core:resource_item:105>]],
-	<minecraft:piston> : [[<ore:plankWood>,<ore:plankWood>,<ore:plankWood>],[<ore:cobblestone>,<ore:ingotBronze>,<ore:cobblestone>],[<ore:cobblestone>,<minecraft:redstone>,<ore:cobblestone>]],
-	<storagedrawers:compdrawers> : [[<minecraft:stone>,<minecraft:stone>,<minecraft:stone>],[<minecraft:piston>,<ore:drawerBasic>,<minecraft:piston>],[<minecraft:stone>,<ore:ingotBronze>,<minecraft:stone>]],
-	<actuallyadditions:block_misc:4> : [[<minecraft:stick>,<ore:plankTreatedWood>,<minecraft:stick>],[<ore:plankTreatedWood>,<ore:logWood>,<ore:plankTreatedWood>],[<minecraft:stick>,<ore:plankTreatedWood>,<minecraft:stick>]],
-	<minecraft:chest> *4 : [[<ore:logWood>,<ore:plankTreatedWood>,<ore:logWood>],[<ore:plankTreatedWood>,<minecraft:iron_nugget>,<ore:plankTreatedWood>],[<ore:logWood>,<ore:plankTreatedWood>,<ore:logWood>]],
-	<mysticalagriculture:crafting:32> : [[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<ore:ingotBronze>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>]],
-	<environmentaltech:litherite> : [[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>]],
-	<immersiveengineering:blueprint>.withTag({blueprint: "thaumic"}) : [[<thaumcraft:mechanism_complex>,<thaumcraft:morphic_resonator>,<thaumcraft:mechanism_complex>],[<ore:dyeBlue>,<ore:dyeBlue>,<ore:dyeBlue>],[<ore:paper>,<ore:paper>,<ore:paper>]],
-	// : [[,,],[,,],[,,]],
-} as IIngredient[][][IItemStack];
-
-for key,recipe in recipeMapAddShaped {
-    recipes.addShaped(key, recipe);
-}
-
-val recipeMapAddShapeless = {
-	<projectred-core:resource_item:301> * 8 : [<minecraft:flint>,<minecraft:flint>,<projectred-core:resource_item:300>],
-	<environmentaltech:litherite> :[<environmentaltech:litherite_stairs>],
-	<environmentaltech:litherite> : [<ore:blockLitherite>],
-	<environmentaltech:litherite> : [<environmentaltech:litherite_slab>,<environmentaltech:litherite_slab>],
-	<magneticraft:rf_transformer> : [<magneticraft:electric_engine>],
-} as IIngredient[][IItemStack];
-
-for key,recipe in recipeMapAddShapeless {
-    recipes.addShapeless(key, recipe);
-}
-
-val recipeMapErraseShapeless = {
-	<environmentaltech:litherite_crystal> : [<environmentaltech:litherite>],
-	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
-	<magneticraft:electric_engine> : [<magneticraft:rf_transformer>],
-} as IIngredient[][IItemStack];
-
-for key,recipe in recipeMapErraseShapeless {
-    recipes.remove(key);
-	recipes.addShapeless(key, recipe);
-}
-
 val recipeMapErraseShapedLarger = {
 	<thermalexpansion:frame> :[[<ore:plateMithril>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateMithril>], 
 	[<ore:plateIridium>, <ore:xuUpgradeSpeedEnchanted>, <ore:gearMithril>, <ore:xuUpgradeSpeedEnchanted>, <ore:plateIridium>], 
@@ -209,13 +169,87 @@ val recipeMapErraseShapedLarger = {
 	[<ore:blockConstantan>, <ore:plateAluminium>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_enchant"}), <ore:plateAluminium>, <ore:blockConstantan>], 
 	[<ore:blockConstantan>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:blockConstantan>]],
 	
+	<thermalexpansion:capacitor>.withTag({Energy:0}) : [[null, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, null], 
+	[null, <ore:blockCopper>, <ore:blockSulfur>, <ore:blockCopper>, null], 
+	[<ore:blockLead>, <ore:blockRedstone>, <immersiveengineering:metal_device0:2>, <ore:blockRedstone>, <ore:blockLead>], 
+	[<ore:plateMithril>, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <ore:plateMithril>, null, <ore:plateMithril>, <ore:plateMithril>]],
+	
+	<thermalexpansion:capacitor:1>.withTag({Energy: 0}) : [[null, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, null], 
+	[null, <ore:blockTin>, <ore:blockSulfur>, <ore:blockTin>, null], 
+	[<ore:blockInvar>, <ore:blockRedstone>, <thermalexpansion:capacitor>, <ore:blockRedstone>, <ore:blockInvar>], 
+	[<ore:plateMithril>, <ore:blockRedstone>, <thermalfoundation:upgrade>, <ore:blockRedstone>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <ore:plateMithril>, null, <ore:plateMithril>, <ore:plateMithril>]],
+	
+	<thermalexpansion:capacitor:2>.withTag({Energy: 0}) : [
+	[null, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, null], 
+	[null, <ore:blockGlassHardened>, <ore:blockSulfur>, <ore:blockGlassHardened>, null], 
+	[<ore:blockElectrum>, <ore:blockRedstone>, <thermalexpansion:capacitor:1>, <ore:blockRedstone>, <ore:blockElectrum>], 
+	[<ore:plateMithril>, <ore:blockRedstone>, <thermalfoundation:upgrade:1>, <ore:blockRedstone>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <ore:plateMithril>, null, <ore:plateMithril>, <ore:plateMithril>]],
+	
+	<thermalexpansion:capacitor:3>.withTag({Energy: 0}) : [[null, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, null], 
+	[null, <forge:bucketfilled>.withTag({FluidName: "cryotheum", Amount: 1000}), <ore:blockSulfur>, <forge:bucketfilled>.withTag({FluidName: "cryotheum", Amount: 1000}), null], 
+	[<ore:blockSignalum>, <ore:blockRedstone>, <thermalexpansion:capacitor:2>, <ore:blockRedstone>, <ore:blockSignalum>], 
+	[<ore:plateMithril>, <ore:blockRedstone>, <thermalfoundation:upgrade:2>, <ore:blockRedstone>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <ore:plateMithril>, null, <ore:plateMithril>, <ore:plateMithril>]],
+	
+	<thermalexpansion:capacitor:4>.withTag({Energy: 0}) : [[null, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, null], 
+	[null, <forge:bucketfilled>.withTag({FluidName: "pyrotheum", Amount: 1000}), <ore:blockSulfur>, <forge:bucketfilled>.withTag({FluidName: "pyrotheum", Amount: 1000}), null], 
+	[<ore:blockEnderium>, <ore:blockRedstone>, <thermalexpansion:capacitor:3>, <ore:blockRedstone>, <ore:blockEnderium>], 
+	[<ore:plateMithril>, <ore:blockRedstone>, <thermalfoundation:upgrade:3>, <ore:blockRedstone>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <ore:plateMithril>, null, <ore:plateMithril>, <ore:plateMithril>]],
+	
 } as IIngredient[][][IItemStack];
-
-
 
 for key,recipe in recipeMapErraseShapedLarger {
 	recipes.remove(key);
     mods.extendedcrafting.TableCrafting.addShaped(key,recipe);
+}
+
+val recipeMapErraseShapeless = {
+	<environmentaltech:litherite_crystal> : [<environmentaltech:litherite>],
+	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
+	<magneticraft:electric_engine> : [<magneticraft:rf_transformer>],
+} as IIngredient[][IItemStack];
+
+for key,recipe in recipeMapErraseShapeless {
+    recipes.remove(key);
+	recipes.addShapeless(key, recipe);
+}
+
+val recipeMapAddShaped = {
+    <magneticraft:iron_pipe> * 16 : [[<minecraft:glass>,<ore:plateIron>,<minecraft:glass>],[<ore:plateIron>,<ore:blockGlass>,<ore:plateIron>],[<minecraft:glass>,<ore:plateIron>,<minecraft:glass>]],
+	<projectred-core:resource_item:252> : [[<projectred-core:resource_item:105>,<projectred-core:resource_item:105>,<projectred-core:resource_item:105>],[<projectred-core:resource_item:105>,<ore:ingotAluminum>,<projectred-core:resource_item:105>],[<projectred-core:resource_item:105>,<projectred-core:resource_item:105>,<projectred-core:resource_item:105>]],
+	<minecraft:piston> : [[<ore:plankWood>,<ore:plankWood>,<ore:plankWood>],[<ore:cobblestone>,<ore:ingotBronze>,<ore:cobblestone>],[<ore:cobblestone>,<minecraft:redstone>,<ore:cobblestone>]],
+	<storagedrawers:compdrawers> : [[<minecraft:stone>,<minecraft:stone>,<minecraft:stone>],[<minecraft:piston>,<ore:drawerBasic>,<minecraft:piston>],[<minecraft:stone>,<ore:ingotBronze>,<minecraft:stone>]],
+	<actuallyadditions:block_misc:4> : [[<minecraft:stick>,<ore:plankTreatedWood>,<minecraft:stick>],[<ore:plankTreatedWood>,<ore:logWood>,<ore:plankTreatedWood>],[<minecraft:stick>,<ore:plankTreatedWood>,<minecraft:stick>]],
+	<minecraft:chest> *4 : [[<ore:logWood>,<ore:plankTreatedWood>,<ore:logWood>],[<ore:plankTreatedWood>,<minecraft:iron_nugget>,<ore:plankTreatedWood>],[<ore:logWood>,<ore:plankTreatedWood>,<ore:logWood>]],
+	<mysticalagriculture:crafting:32> : [[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<ore:ingotBronze>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>]],
+	<environmentaltech:litherite> : [[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>]],
+	<immersiveengineering:blueprint>.withTag({blueprint: "thaumic"}) : [[<thaumcraft:mechanism_complex>,<thaumcraft:morphic_resonator>,<thaumcraft:mechanism_complex>],[<ore:dyeBlue>,<ore:dyeBlue>,<ore:dyeBlue>],[<ore:paper>,<ore:paper>,<ore:paper>]],
+	// : [[,,],[,,],[,,]],
+} as IIngredient[][][IItemStack];
+
+for key,recipe in recipeMapAddShaped {
+    recipes.addShaped(key, recipe);
+}
+
+val recipeMapAddShapeless = {
+	<projectred-core:resource_item:301> * 8 : [<minecraft:flint>,<minecraft:flint>,<projectred-core:resource_item:300>],
+	<environmentaltech:litherite> :[<environmentaltech:litherite_stairs>],
+	<environmentaltech:litherite> : [<ore:blockLitherite>],
+	<environmentaltech:litherite> : [<environmentaltech:litherite_slab>,<environmentaltech:litherite_slab>],
+	<magneticraft:rf_transformer> : [<magneticraft:electric_engine>],
+	<thermalexpansion:capacitor> : [<thermalexpansion:capacitor>.withTag({Energy:0})],
+	<thermalexpansion:capacitor:1> : [<thermalexpansion:capacitor:1>.withTag({Energy:0})],
+	<thermalexpansion:capacitor:2> : [<thermalexpansion:capacitor:2>.withTag({Energy:0})],
+	<thermalexpansion:capacitor:3> : [<thermalexpansion:capacitor:3>.withTag({Energy:0})],
+	<thermalexpansion:capacitor:4> : [<thermalexpansion:capacitor:4>.withTag({Energy:0})],
+} as IIngredient[][IItemStack];
+
+for key,recipe in recipeMapAddShapeless {
+    recipes.addShapeless(key, recipe);
 }
 
 print("############################_End of Recipe_############################");

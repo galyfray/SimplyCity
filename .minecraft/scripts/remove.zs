@@ -83,7 +83,4 @@ for item,range in RemoveAndHide {
 	}
 }
 
-
-
-
-
+recipes.remove(<extrautils2:machine>,true);
