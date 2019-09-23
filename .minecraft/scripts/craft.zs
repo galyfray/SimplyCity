@@ -140,6 +140,12 @@ val recipeMapErraseShapedLarger = {
 	[<ore:plateIridium>, <ore:coalPowered>, <ore:xuUpgradeSpeed>, <extrautils2:decorativeglass>, null], 
 	[<ore:plateIridium>, <ore:plateIridium>, <extrautils2:decorativeglass>, null, null]],
 	
+	<thermalfoundation:material:515> : [[null, null, <extrautils2:decorativeglass>, <ore:plateElectrum>, <ore:plateElectrum>], 
+	[null, <extrautils2:decorativeglass>, <ore:xuUpgradeSpeed>, <ore:coalPowered>, <ore:plateElectrum>], 
+	[<extrautils2:decorativeglass>, <ore:xuUpgradeSpeed>, <ore:plateElectrum>, <ore:xuUpgradeSpeed>, <extrautils2:decorativeglass>], 
+	[<ore:plateElectrum>, <ore:coalPowered>, <ore:xuUpgradeSpeed>, <extrautils2:decorativeglass>, null], 
+	[<ore:plateElectrum>, <ore:plateElectrum>, <extrautils2:decorativeglass>, null, null]],
+	
 	<thermalfoundation:upgrade> : [[<ore:blockInvar>, <ore:plateIridium>, <ore:plateIridium>, <ore:plateIridium>, <ore:blockInvar>], 
 	[<ore:blockInvar>, <extrautils2:decorativesolid:7>, <ore:xuUpgradeSpeedEnchanted>, <extrautils2:decorativesolid:7>, <ore:blockInvar>], 
 	[<ore:blockInvar>, <ore:xuUpgradeStack>, <extrautils2:opinium:1>, <ore:xuUpgradeStack>, <ore:blockInvar>], 
@@ -163,6 +169,45 @@ val recipeMapErraseShapedLarger = {
 	[<ore:blockEnderium>, <ore:xuUpgradeSpeedEnchanted>, <extrautils2:opinium:8>, <ore:xuUpgradeSpeedEnchanted>, <ore:blockEnderium>], 
 	[<ore:blockEnderium>, <forge:bucketfilled>, <extendedcrafting:trimmed:4>, <forge:bucketfilled>, <ore:blockEnderium>], 
 	[<ore:blockEnderium>, <extendedcrafting:material:48>, <extendedcrafting:material:48>, <extendedcrafting:material:48>, <ore:blockEnderium>]],
+	
+	<thermalexpansion:dynamo>.withTag({RSControl: 0 as byte, Facing: 1 as byte, Energy: 0, Level: 0 as byte}) : [[null, <ore:ingotRedAlloy>, <thermalfoundation:material:514>, <ore:ingotRedAlloy>, null], 
+	[null, <ore:ingotRedAlloy>, <magneticraft:rf_transformer>, <ore:ingotRedAlloy>, null], 
+	[<ore:blockMithril>, <ore:gearCopper>, <ore:gearCopper>, <ore:gearCopper>, <ore:blockMithril>], 
+	[<ore:blockCopper>, <ore:plateAluminium>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_overclock"}), <ore:plateAluminium>, <ore:blockCopper>], 
+	[<ore:blockCopper>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:blockCopper>]],
+
+	<thermalexpansion:dynamo:1>.withTag({RSControl: 0 as byte, Facing: 1 as byte, Energy: 0, Level: 0 as byte}) : [[null, <ore:ingotRedAlloy>, <thermalfoundation:material:514>, <ore:ingotRedAlloy>, null], 
+	[null, <ore:ingotRedAlloy>, <magneticraft:rf_transformer>, <ore:ingotRedAlloy>, null], 
+	[<ore:blockMithril>, <ore:gearInvar>, <ore:gearInvar>, <ore:gearInvar>, <ore:blockMithril>], 
+	[<ore:blockInvar>, <ore:plateAluminium>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_lava"}), <ore:plateAluminium>, <ore:blockInvar>], 
+	[<ore:blockInvar>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:blockInvar>]],
+	
+	<thermalexpansion:dynamo:2>.withTag({RSControl: 0 as byte, Facing: 1 as byte, Energy: 0, Level: 0 as byte}) : [[null, <ore:ingotRedAlloy>, <thermalfoundation:material:514>, <ore:ingotRedAlloy>, null], 
+	[null, <ore:ingotRedAlloy>, <magneticraft:rf_transformer>, <ore:ingotRedAlloy>, null], 
+	[<ore:blockMithril>, <ore:gearTin>, <ore:gearTin>, <ore:gearTin>, <ore:blockMithril>], 
+	[<ore:blockTin>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_lava"}), <ore:plateAluminium>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_ice"}), <ore:blockTin>], 
+	[<ore:blockTin>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:blockTin>]],
+	
+	<thermalexpansion:dynamo:3>.withTag({RSControl: 0 as byte, Facing: 1 as byte, Energy: 0, Level: 0 as byte}) : [
+	[null, <ore:ingotRedAlloy>, <thermalfoundation:material:514>, <ore:ingotRedAlloy>, null], 
+	[null, <ore:ingotRedAlloy>, <magneticraft:rf_transformer>, <ore:ingotRedAlloy>, null], 
+	[<ore:blockMithril>, <ore:gearLead>, <ore:gearLead>, <ore:gearLead>, <ore:blockMithril>], 
+	[<ore:blockLead>, <ore:plateAluminium>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_potion"}), <ore:plateAluminium>, <ore:blockLead>], 
+	[<ore:blockLead>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:blockLead>]],
+	
+	<thermalexpansion:dynamo:4>.withTag({RSControl: 0 as byte, Facing: 1 as byte, Energy: 0, Level: 0 as byte}) : [
+	[null, <ore:ingotRedAlloy>, <thermalfoundation:material:514>, <ore:ingotRedAlloy>, null], 
+	[null, <ore:ingotRedAlloy>, <magneticraft:rf_transformer>, <ore:ingotRedAlloy>, null], 
+	[<ore:blockMithril>, <ore:gearElectrum>, <ore:gearElectrum>, <ore:gearElectrum>, <ore:blockMithril>], 
+	[<ore:blockElectrum>, <ore:plateAluminium>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_redstone"}), <ore:plateAluminium>, <ore:blockElectrum>], 
+	[<ore:blockElectrum>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:blockElectrum>]],
+	
+	<thermalexpansion:dynamo:5>.withTag({RSControl: 0 as byte, Facing: 1 as byte, Energy: 0, Level: 0 as byte}) : [
+	[null, <ore:ingotRedAlloy>, <thermalfoundation:material:514>, <ore:ingotRedAlloy>, null], 
+	[null, <ore:ingotRedAlloy>, <magneticraft:rf_transformer>, <ore:ingotRedAlloy>, null], 
+	[<ore:blockMithril>, <ore:gearConstantan>, <ore:gearConstantan>, <ore:gearConstantan>, <ore:blockMithril>], 
+	[<ore:blockConstantan>, <ore:plateAluminium>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_enchant"}), <ore:plateAluminium>, <ore:blockConstantan>], 
+	[<ore:blockConstantan>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:plateAluminium>, <ore:blockConstantan>]],
 	
 } as IIngredient[][][IItemStack];
 
