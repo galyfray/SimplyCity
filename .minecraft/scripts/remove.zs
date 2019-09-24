@@ -1,5 +1,6 @@
+#priority 9001
 import crafttweaker.item.IItemStack;
-
+import crafttweaker.item.IIngredient;
 val ItemRecipe = {
 	<thermalfoundation:material> : [22,23,24,25,26,27,32,33,256,257,258,259,260,261,262,263,264,288,289,290,291,292,293,294,295,320,322,323,324,325,352,353,355,356],
 	<thaumcraft:plate> : [0,1,2,3],
@@ -83,4 +84,24 @@ for item,range in RemoveAndHide {
 	}
 }
 
+val removeByRecipeShaped = {
+	<thermalexpansion:satchel>: [[null,<*>,null],[<*>,<*>,<*>],[<*>,null,<*>]],
+	<thermalexpansion:satchel:1>: [[null,<*>,null],[<*>,<*>,<*>],[<*>,null,<*>]],
+	<thermalexpansion:satchel:2>: [[null,<*>,null],[<*>,<*>,<*>],[<*>,null,<*>]],
+	<thermalexpansion:satchel:3>: [[null,<*>,null],[<*>,<*>,<*>],[<*>,null,<*>]],
+	<thermalexpansion:satchel:4>: [[null,<*>,null],[<*>,<*>,<*>],[<*>,null,<*>]],
+	<thermalexpansion:capacitor> : [[null,<*>,null],[<*>,<*>,<*>],[<*>,<*>,<*>]],
+	<thermalexpansion:capacitor:1> : [[null,<*>,null],[<*>,<*>,<*>],[<*>,<*>,<*>]],
+	<thermalexpansion:capacitor:2> : [[null,<*>,null],[<*>,<*>,<*>],[<*>,<*>,<*>]],
+	<thermalexpansion:capacitor:3> : [[null,<*>,null],[<*>,<*>,<*>],[<*>,<*>,<*>]],
+	<thermalexpansion:capacitor:4> : [[null,<*>,null],[<*>,<*>,<*>],[<*>,<*>,<*>]],
+} as IIngredient[][][IItemStack];
+
+for key, recipe in removeByRecipeShaped {
+	recipes.removeShaped(key,recipe);
+}
+
 recipes.remove(<extrautils2:machine>,true);
+
+
+

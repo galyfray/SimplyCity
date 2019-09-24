@@ -1,7 +1,26 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
+import crafttweaker.recipes.IRecipeFunction;
 
 print("############################_Adding Recipe_############################");
+
+val recipeWithFunc = {
+	<thermalexpansion:satchel:1> :[[null, <ore:blockInvar>, null], [<ore:blockInvar>, <thermalexpansion:satchel>.marked("mark"), <ore:blockInvar>], [<ironchest:wood_iron_chest_upgrade>, <thermalfoundation:upgrade>, <ironchest:wood_iron_chest_upgrade>]],
+	/*<thermalexpansion:satchel:2> : [[,,],[,,],[,,]],
+	<thermalexpansion:satchel:3> : [[,,],[,,],[,,]],
+	<thermalexpansion:satchel:4> : [[,,],[,,],[,,]],*/
+	// : [[,,],[,,],[,,]],
+} as IIngredient[][][IItemStack]; 
+
+var counter = 1;
+for key,recipe in recipeWithFunc {
+    recipes.addShaped("upgrade_recipe_" ~ counter, key, recipe, function(out,ins,cInfo){return ins.mark.withDamage(ins.mark.damage + 1);}, null);
+    counter+=1;
+}
+/*
+for key,recipe in recipeWithFunc {
+	recipes.addShaped(key,recipe,function(out,ins,cInfo){return ins.mark.withDamage(ins.mark.damage + 1);},null);
+}*/
 
 val recipeMapErraseShaped = {
     <magneticraft:crafting:5> : [[<ore:plateBronze>,<minecraft:string>,<ore:plateBronze>],[<minecraft:string>,<ore:plateBronze>,<minecraft:string>],[<ore:plateBronze>,<minecraft:string>,<ore:plateBronze>]],
@@ -241,11 +260,6 @@ val recipeMapAddShapeless = {
 	<environmentaltech:litherite> : [<ore:blockLitherite>],
 	<environmentaltech:litherite> : [<environmentaltech:litherite_slab>,<environmentaltech:litherite_slab>],
 	<magneticraft:rf_transformer> : [<magneticraft:electric_engine>],
-	<thermalexpansion:capacitor> : [<thermalexpansion:capacitor>.withTag({Energy:0})],
-	<thermalexpansion:capacitor:1> : [<thermalexpansion:capacitor:1>.withTag({Energy:0})],
-	<thermalexpansion:capacitor:2> : [<thermalexpansion:capacitor:2>.withTag({Energy:0})],
-	<thermalexpansion:capacitor:3> : [<thermalexpansion:capacitor:3>.withTag({Energy:0})],
-	<thermalexpansion:capacitor:4> : [<thermalexpansion:capacitor:4>.withTag({Energy:0})],
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapAddShapeless {
