@@ -6,9 +6,9 @@ print("############################_Adding Recipe_############################")
 
 val recipeWithFunc = {
 	<thermalexpansion:satchel:1> :[[null, <ore:blockInvar>, null], [<ore:blockInvar>, <thermalexpansion:satchel>.marked("mark"), <ore:blockInvar>], [<ironchest:wood_iron_chest_upgrade>, <thermalfoundation:upgrade>, <ironchest:wood_iron_chest_upgrade>]],
-	/*<thermalexpansion:satchel:2> : [[,,],[,,],[,,]],
-	<thermalexpansion:satchel:3> : [[,,],[,,],[,,]],
-	<thermalexpansion:satchel:4> : [[,,],[,,],[,,]],*/
+	<thermalexpansion:satchel:2> : [[null, <ore:blockElectrum>, null], [<ore:blockElectrum>, <thermalexpansion:satchel:1>.marked("mark"), <ore:blockElectrum>], [<ironchest:iron_gold_chest_upgrade>, <thermalfoundation:upgrade:1>, <ironchest:iron_gold_chest_upgrade>]],
+	<thermalexpansion:satchel:3> : [[null, <ore:blockSignalum>, null], [<ore:blockSignalum>, <thermalexpansion:satchel:2>.marked("mark"), <ore:blockSignalum>], [<ironchest:gold_diamond_chest_upgrade>, <thermalfoundation:upgrade:2>, <ironchest:gold_diamond_chest_upgrade>]],
+	<thermalexpansion:satchel:4> : [[null, <ore:blockEnderium>, null], [<ore:blockEnderium>, <thermalexpansion:satchel:3>.marked("mark"), <ore:blockEnderium>], [<ironbackpacks:backpack>.withTag({packInfo: {upgrade: [], type: "ironbackpacks:gold", spec: "STORAGE"}}), <thermalfoundation:upgrade:3>, <ironbackpacks:backpack>.withTag({packInfo: {upgrade: [], type: "ironbackpacks:gold", spec: "STORAGE"}})]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack]; 
 
@@ -17,10 +17,6 @@ for key,recipe in recipeWithFunc {
     recipes.addShaped("upgrade_recipe_" ~ counter, key, recipe, function(out,ins,cInfo){return ins.mark.withDamage(ins.mark.damage + 1);}, null);
     counter+=1;
 }
-/*
-for key,recipe in recipeWithFunc {
-	recipes.addShaped(key,recipe,function(out,ins,cInfo){return ins.mark.withDamage(ins.mark.damage + 1);},null);
-}*/
 
 val recipeMapErraseShaped = {
     <magneticraft:crafting:5> : [[<ore:plateBronze>,<minecraft:string>,<ore:plateBronze>],[<minecraft:string>,<ore:plateBronze>,<minecraft:string>],[<ore:plateBronze>,<minecraft:string>,<ore:plateBronze>]],
@@ -218,6 +214,24 @@ val recipeMapErraseShapedLarger = {
 	[<ore:blockEnderium>, <ore:blockRedstone>, <thermalexpansion:capacitor:3>, <ore:blockRedstone>, <ore:blockEnderium>], 
 	[<ore:plateMithril>, <ore:blockRedstone>, <thermalfoundation:upgrade:3>, <ore:blockRedstone>, <ore:plateMithril>], 
 	[<ore:plateMithril>, <ore:plateMithril>, null, <ore:plateMithril>, <ore:plateMithril>]],
+	
+	<thermalexpansion:satchel>.withTag({ench: [{lvl: 4 as short, id: 24 as short}], Inventory: {}, Accessible: 1 as byte}): [[<ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <ore:wool>, <ore:wool>, <ore:wool>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <actuallyadditions:block_giant_chest>, <extrautils2:opinium:2>, <actuallyadditions:block_giant_chest>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <ore:blockMagicalWood>, <actuallyadditions:block_giant_chest>, <ore:blockMagicalWood>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>]],
+	
+	<appliedenergistics2:energy_acceptor> : [[<thermalexpansion:frame>, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, <thermalexpansion:frame>], 
+	[<ore:plateMithril>, <thermalexpansion:capacitor>, <appliedenergistics2:fluix_block>, <thermalexpansion:capacitor>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <appliedenergistics2:fluix_block>, <thaumcraft:morphic_resonator>, <appliedenergistics2:fluix_block>, <ore:plateMithril>], 
+	[<ore:plateMithril>, <thermalexpansion:capacitor>, <appliedenergistics2:fluix_block>, <thermalexpansion:capacitor>, <ore:plateMithril>], 
+	[<thermalexpansion:frame>, <ore:plateMithril>, <ore:plateMithril>, <ore:plateMithril>, <thermalexpansion:frame>]],
+	
+	<appliedenergistics2:controller> : [[<appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>, <thermalexpansion:capacitor:1>, <appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>], 
+	[<appliedenergistics2:sky_stone_block>, <ore:crystalPureFluix>, <ore:crystalPureFluix>, <ore:crystalPureFluix>, <appliedenergistics2:sky_stone_block>], 
+	[<thaumcraft:morphic_resonator>, <ore:crystalPureFluix>, <thermalexpansion:frame>, <ore:crystalPureFluix>, <thaumcraft:morphic_resonator>], 
+	[<appliedenergistics2:sky_stone_block>, <ore:crystalPureFluix>, <ore:crystalPureFluix>, <ore:crystalPureFluix>, <appliedenergistics2:sky_stone_block>], 
+	[<appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>, <thermalexpansion:capacitor:1>, <appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>]],
 	
 } as IIngredient[][][IItemStack];
 
