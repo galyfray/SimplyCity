@@ -9,10 +9,10 @@ guiScale:3
 particles:2
 bobView:false
 anaglyph3d:false
-maxFps:60
+maxFps:30
 fboEnable:true
 difficulty:2
-fancyGraphics:true
+fancyGraphics:false
 ao:1
 renderClouds:false
 resourcePacks:[]
@@ -43,7 +43,7 @@ mipmapLevels:4
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
-entityShadows:true
+entityShadows:false
 mainHand:right
 attackIndicator:1
 showSubtitles:false
@@ -88,13 +88,24 @@ key_key.hotbar.9:10
 key_Change Caster Focus:0
 key_Misc Caster Toggle:0
 key_keybind.baublesinventory:0
-key_key.betterquesting.quests:40
+key_key.betterquesting.quests:297
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
 key_key.xu2.searchforitems:20
+key_key.ftbutilities.nbt:49:ALT
+key_key.ftbutilities.trash:211
 key_key.ironbackpacks.equip:35
 key_key.ironbackpacks.open:23
+key_simplyjetpacks.keybind.engine:0
+key_simplyjetpacks.keybind.hover:0
+key_simplyjetpacks.keybind.charger:0
+key_simplyjetpacks.keybind.emergencyhover:0
+key_key.xtones.scroll:42
+key_key.cameraZoomIn:0
+key_key.cameraZoomOut:0
+key_key.cameraEmitRedstone:0
+key_key.cameraActivateNightVision:0
 key_key.toggle_focus.desc:0
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -107,6 +118,11 @@ key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_key.cofh.multimode:0
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
 key_key.integrateddynamics.logic_programmer_open_rename:19:ALT
 key_key.integratedterminals.terminal.tab.next:15

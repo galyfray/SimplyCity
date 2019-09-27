@@ -95,6 +95,10 @@ val removeByRecipeShaped = {
 	<thermalexpansion:capacitor:2> : [[null,<*>,null],[<*>,<*>,<*>],[<*>,<*>,<*>]],
 	<thermalexpansion:capacitor:3> : [[null,<*>,null],[<*>,<*>,<*>],[<*>,<*>,<*>]],
 	<thermalexpansion:capacitor:4> : [[null,<*>,null],[<*>,<*>,<*>],[<*>,<*>,<*>]],
+	<simplyjetpacks:itemjetpack:10> : [[<*>,<*>,<*>],[<*>,<*>,<*>],[<*>,null,<*>]],
+	<simplyjetpacks:itemjetpack:11> : [[<*>,<*>,<*>],[<*>,<*>,<*>],[<*>,null,<*>]],
+	<simplyjetpacks:itemjetpack:12> : [[<*>,<*>,<*>],[<*>,<*>,<*>],[<*>,null,<*>]],
+	<simplyjetpacks:itemjetpack:13> : [[<*>,<*>,<*>],[<*>,<*>,<*>],[<*>,null,<*>]],
 } as IIngredient[][][IItemStack];
 
 for key, recipe in removeByRecipeShaped {

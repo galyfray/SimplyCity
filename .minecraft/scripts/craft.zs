@@ -76,6 +76,10 @@ val recipeMapErraseShaped = {
 	<extrautils2:machine>.withTag({Type: "extrautils2:generator"}) : [[<ore:ingotIron>,<ore:ingotIron>,<ore:ingotIron>],[<ore:ingotIron>,<extrautils2:machine>,<ore:ingotIron>],[<minecraft:redstone>,<extrautils2:machine>.withTag({Type: "extrautils2:generator_survival"}),<minecraft:redstone>]],
 	<actuallyadditions:block_misc:9> : [[<immersiveengineering:material:8>,<immersiveengineering:material>,<immersiveengineering:material:8>],[<immersiveengineering:material>,<jaopca:item_gearquartzblack>,<immersiveengineering:material>],[<immersiveengineering:material:8>,<immersiveengineering:material>,<immersiveengineering:material:8>]],
 	<minecraft:elytra> : [[<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>],[<mysticalagradditions:dragon_egg_essence>,<minecraft:leather_chestplate>,<mysticalagradditions:dragon_egg_essence>],[<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>]],
+	<projectred-expansion:jetpack> : [[<projectred-expansion:charged_battery>, null, <projectred-expansion:charged_battery>], [<projectred-expansion:charged_battery>, <mysticalagriculture:inferium_chestplate>, <projectred-expansion:charged_battery>], [<tconstruct:large_plate>, <projectred-expansion:machine2:5>, <tconstruct:large_plate>]],
+	<simplyjetpacks:metaitemmods:26> : [[<ore:blockLead>, <extrautils2:chickenring>, <ore:blockLead>], [<projectred-expansion:jetpack>, <magneticraft:rf_transformer>, <projectred-expansion:jetpack>], [<ore:blockLead>, <extrautils2:drum>, <ore:blockLead>]],
+	<simplyjetpacks:metaitemmods:27> : [[<actuallyadditions:item_crystal_empowered:5>, <extrautils2:chickenring:1>, <actuallyadditions:item_crystal_empowered:5>], [<actuallyadditions:item_crystal_empowered:5>, <extrautils2:drum:1>, <actuallyadditions:item_crystal_empowered:5>], [<ore:ingotRedAlloy>, null, <ore:ingotRedAlloy>]],
+	<simplyjetpacks:metaitemmods:28> : [[<ore:blockLumium>, <extrautils2:chickenring:1>, <ore:blockLumium>], [<ore:blockLumium>, <simplyjetpacks:metaitemmods:27>, <ore:blockLumium>], [<actuallyadditions:block_crystal_empowered>, <extrautils2:drum:2>, <actuallyadditions:block_crystal_empowered>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -261,6 +265,8 @@ val recipeMapAddShaped = {
 	<mysticalagriculture:crafting:32> : [[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<ore:ingotBronze>,<mysticalagriculture:crafting:5>],[<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>,<mysticalagriculture:crafting:5>]],
 	<environmentaltech:litherite> : [[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>],[<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>,<environmentaltech:litherite_crystal>]],
 	<immersiveengineering:blueprint>.withTag({blueprint: "thaumic"}) : [[<thaumcraft:mechanism_complex>,<thaumcraft:morphic_resonator>,<thaumcraft:mechanism_complex>],[<ore:dyeBlue>,<ore:dyeBlue>,<ore:dyeBlue>],[<ore:paper>,<ore:paper>,<ore:paper>]],
+	<simplyjetpacks:itemjetpack:10> : [[<ore:plateLead>, <magneticraft:battery_item_low>, <ore:plateLead>], [<ore:plateLead>, <simplyjetpacks:metaitem:4>, <ore:plateLead>], [<simplyjetpacks:metaitemmods:26>, null, <simplyjetpacks:metaitemmods:26>]],
+	<simplyjetpacks:itemjetpack:11> : [[<ore:plateInvar>, <immersiveengineering:metal_device0:1>, <ore:plateInvar>],[<ore:plateInvar>, <simplyjetpacks:itemjetpack:10>, <ore:plateInvar>],[<simplyjetpacks:metaitemmods:27>, null, <simplyjetpacks:metaitemmods:27>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 

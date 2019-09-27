@@ -134,7 +134,7 @@ for seed in <ore:seedsTier3>.items {
 		
 		block = recipes.craft([[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft]]);
 		
-		if !(isNull(block)){
+		if (!(isNull(block))){
 			seedName=seed.commandString;
 			S=S + '"' + seedName.substring( 1 , seedName.length() - 1 ) + '":"' + block.commandString + '",' ;
 		}
@@ -180,7 +180,7 @@ for seed in <ore:seedsTier4>.items {
 		
 		block = recipes.craft([[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft]]);
 		
-		if !(isNull(block)){
+		if (!isNull(block)){
 			seedName=seed.commandString;
 			S=S + '"' + seedName.substring( 1 , seedName.length() - 1 ) + '":"' + block.commandString + '",' ;
 		}
@@ -228,7 +228,7 @@ for seed in <ore:seedsTier5>.items {
 		
 		block = recipes.craft([[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft]]);
 		
-		if !(isNull(block)){
+		if (!isNull(block)){
 			seedName=seed.commandString;
 			S=S + '"' + seedName.substring( 1 , seedName.length() - 1 ) + '":"' + block.commandString + '",' ;
 		}
