@@ -132,17 +132,9 @@ for seed in <ore:seedsTier3>.items {
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
 		
-		block = recipes.craft([[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft]]);
-		
-		if (!(isNull(block))){
-			seedName=seed.commandString;
-			S=S + '"' + seedName.substring( 1 , seedName.length() - 1 ) + '":"' + block.commandString + '",' ;
-		}
-		
-		
-		/*if itemCraft.items[0].ores.length != 0{
+		if itemCraft.items[0].ores.length != 0{
 			itemCraft=itemCraft.items[0].ores[0];
-		}*/
+		}
 		T3Define(seed,itemCraft);
 		
 	}
@@ -178,16 +170,9 @@ for seed in <ore:seedsTier4>.items {
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
 		
-		block = recipes.craft([[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft]]);
-		
-		if (!isNull(block)){
-			seedName=seed.commandString;
-			S=S + '"' + seedName.substring( 1 , seedName.length() - 1 ) + '":"' + block.commandString + '",' ;
-		}
-/*
 		if itemCraft.items[0].ores.length != 0{
 			itemCraft=itemCraft.items[0].ores[0];
-		}*/
+		}
 		T4Define(seed,itemCraft);
 		
 	}
@@ -225,16 +210,10 @@ for seed in <ore:seedsTier5>.items {
 	for recipe in recipes.getRecipesFor(seed){
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
-		
-		block = recipes.craft([[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft],[itemCraft,itemCraft,itemCraft]]);
-		
-		if (!isNull(block)){
-			seedName=seed.commandString;
-			S=S + '"' + seedName.substring( 1 , seedName.length() - 1 ) + '":"' + block.commandString + '",' ;
-		}
-		/*if itemCraft.items[0].ores.length != 0{
+
+		if itemCraft.items[0].ores.length != 0{
 			itemCraft=itemCraft.items[0].ores[0];
-		}*/
+		}
 		T5Define(seed,itemCraft);
 		
 	}
@@ -270,9 +249,9 @@ for seed in <ore:seedsTier6>.items {
 	for recipe in recipes.getRecipesFor(seed){
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
-		/*if itemCraft.items[0].ores.length != 0{
+		if itemCraft.items[0].ores.length != 0{
 			itemCraft=itemCraft.items[0].ores[0];
-		}*/
+		}
 		T6Define(seed,itemCraft);
 		
 	}

@@ -76,10 +76,14 @@ val recipeMapErraseShaped = {
 	<extrautils2:machine>.withTag({Type: "extrautils2:generator"}) : [[<ore:ingotIron>,<ore:ingotIron>,<ore:ingotIron>],[<ore:ingotIron>,<extrautils2:machine>,<ore:ingotIron>],[<minecraft:redstone>,<extrautils2:machine>.withTag({Type: "extrautils2:generator_survival"}),<minecraft:redstone>]],
 	<actuallyadditions:block_misc:9> : [[<immersiveengineering:material:8>,<immersiveengineering:material>,<immersiveengineering:material:8>],[<immersiveengineering:material>,<jaopca:item_gearquartzblack>,<immersiveengineering:material>],[<immersiveengineering:material:8>,<immersiveengineering:material>,<immersiveengineering:material:8>]],
 	<minecraft:elytra> : [[<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>],[<mysticalagradditions:dragon_egg_essence>,<minecraft:leather_chestplate>,<mysticalagradditions:dragon_egg_essence>],[<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>,<mysticalagradditions:dragon_egg_essence>]],
-	<projectred-expansion:jetpack> : [[<projectred-expansion:charged_battery>, null, <projectred-expansion:charged_battery>], [<projectred-expansion:charged_battery>, <mysticalagriculture:inferium_chestplate>, <projectred-expansion:charged_battery>], [<tconstruct:large_plate>, <projectred-expansion:machine2:5>, <tconstruct:large_plate>]],
+	<projectred-expansion:jetpack> : [[<projectred-expansion:charged_battery>, null, <projectred-expansion:charged_battery>], [<projectred-expansion:charged_battery>, <mysticalagriculture:inferium_chestplate>, <projectred-expansion:charged_battery>], [<tconstruct:large_plate>.withTag({Material: "bronze"}), <projectred-expansion:machine2:5>, <tconstruct:large_plate>.withTag({Material: "bronze"})]],
 	<simplyjetpacks:metaitemmods:26> : [[<ore:blockLead>, <extrautils2:chickenring>, <ore:blockLead>], [<projectred-expansion:jetpack>, <magneticraft:rf_transformer>, <projectred-expansion:jetpack>], [<ore:blockLead>, <extrautils2:drum>, <ore:blockLead>]],
 	<simplyjetpacks:metaitemmods:27> : [[<actuallyadditions:item_crystal_empowered:5>, <extrautils2:chickenring:1>, <actuallyadditions:item_crystal_empowered:5>], [<actuallyadditions:item_crystal_empowered:5>, <extrautils2:drum:1>, <actuallyadditions:item_crystal_empowered:5>], [<ore:ingotRedAlloy>, null, <ore:ingotRedAlloy>]],
 	<simplyjetpacks:metaitemmods:28> : [[<ore:blockLumium>, <extrautils2:chickenring:1>, <ore:blockLumium>], [<ore:blockLumium>, <simplyjetpacks:metaitemmods:27>, <ore:blockLumium>], [<actuallyadditions:block_crystal_empowered>, <extrautils2:drum:2>, <actuallyadditions:block_crystal_empowered>]],
+	<simplyjetpacks:itemjetpack:12> : [[<ore:plateElectrum>, <thermalexpansion:cell>.withTag({Creative: 0 as byte, Level: 1 as byte}), <ore:plateElectrum>], [<ore:plateElectrum>, <simplyjetpacks:itemjetpack:11>, <ore:plateElectrum>], [<simplyjetpacks:metaitemmods:28>, null, <simplyjetpacks:metaitemmods:28>]],
+	<thermalexpansion:cache> : [[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>], [<storagedrawers:upgrade_storage>, <ore:drawerBasic>, <storagedrawers:upgrade_storage>], [<ore:ingotIron>, <thermalfoundation:material:512>, <ore:ingotIron>]],
+	<autocrafter:autocrafter> : [[<ore:gemQuartzBlack>, <actuallyadditions:item_crystal_empowered:5>, <ore:gemQuartzBlack>], [<actuallyadditions:item_crystal_empowered:5>, <extrautils2:crafter>, <actuallyadditions:item_crystal_empowered:5>], [<ore:gemQuartzBlack>, <actuallyadditions:item_crystal_empowered:5>, <ore:gemQuartzBlack>]],
+	<thermaldynamics:duct_0> : [[<ore:plateLead>, <ore:plateMithril>, <ore:plateLead>], [<ore:ingotRedAlloy>, <ore:ingotRedAlloy>, <ore:ingotRedAlloy>], [<ore:plateLead>, <ore:plateMithril>, <ore:plateLead>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -237,6 +241,105 @@ val recipeMapErraseShapedLarger = {
 	[<appliedenergistics2:sky_stone_block>, <ore:crystalPureFluix>, <ore:crystalPureFluix>, <ore:crystalPureFluix>, <appliedenergistics2:sky_stone_block>], 
 	[<appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>, <thermalexpansion:capacitor:1>, <appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>]],
 	
+	<simplyjetpacks:metaitemmods:29> : [[null, <ore:blockEnderium>, <ore:blockEnderium>, <ore:blockEnderium>, null], 
+	[<ore:blockEnderium>, <mysticalagriculture:supremium_furnace>, <actuallyadditions:magnet_ring_bauble>, <mysticalagriculture:supremium_furnace>, <ore:blockEnderium>], 
+	[<ore:blockEnderium>, <actuallyadditions:magnet_ring_bauble>, <simplyjetpacks:metaitemmods:28>, <actuallyadditions:magnet_ring_bauble>, <ore:blockEnderium>], 
+	[<ore:blockEnderium>, <simplyjetpacks:metaitemmods:28>, <ore:xuUpgradeSpeedEnchanted>, <simplyjetpacks:metaitemmods:28>, <ore:blockEnderium>], 
+	[<ore:blockEnderium>, <ore:blockSupremium>, <ore:blockSupremium>, <ore:blockSupremium>, <ore:blockEnderium>]],
+	
+	<simplyjetpacks:itemjetpack:13> : [[null, <extendedcrafting:material:48>, null, <extendedcrafting:material:48>, null], 
+	[<extendedcrafting:material:48>, <actuallyadditions:block_crystal_empowered:4>, <extendedcrafting:material:48>, <actuallyadditions:block_crystal_empowered:4>, <extendedcrafting:material:48>], 
+	[<extendedcrafting:material:48>, <mysticalagriculture:supremium_chestplate>, <simplyjetpacks:itemjetpack:12>, <mysticalagriculture:supremium_chestplate>, <extendedcrafting:material:48>], 
+	[<extendedcrafting:material:48>, <simplyjetpacks:metaitemmods:29>, null, <simplyjetpacks:metaitemmods:29>, <extendedcrafting:material:48>], 
+	[null, <extendedcrafting:material:48>, null, <extendedcrafting:material:48>, null]],
+	
+	<simplyjetpacks:metaitemmods:16> : [[null, null, null, <ore:blockAethium>, <ore:blockLuminessence>, <ore:blockAethium>, null, null, null], 
+	[null, null, null, <ore:blockAethium>, <ore:blockLumium>, <ore:blockAethium>, null, null, null], 
+	[null, null, <ore:blockAethium>, <ore:blockLumium>, <ore:blockLumium>, <ore:blockLumium>, <ore:blockAethium>, null, null], 
+	[<ore:blockAethium>, <ore:blockAethium>, <ore:blockLumium>, <ore:blockAethium>, <ore:blockSignalum>, <ore:blockAethium>, <ore:blockLumium>, <ore:blockAethium>, <ore:blockAethium>], 
+	[<ore:blockLuminessence>, <ore:blockLumium>, <ore:blockLumium>, <ore:blockSignalum>, <ore:blockSignalum>, <ore:blockSignalum>, <ore:blockLumium>, <ore:blockLumium>, <ore:blockLuminessence>], 
+	[<ore:blockAethium>, <ore:blockAethium>, <ore:blockLumium>, <ore:blockAethium>, <ore:blockSignalum>, <ore:blockAethium>, <ore:blockLumium>, <ore:blockAethium>, <ore:blockAethium>], 
+	[null, null, <ore:blockAethium>, <ore:blockLumium>, <ore:blockLumium>, <ore:blockLumium>, <ore:blockAethium>, null, null], 
+	[null, null, null, <ore:blockAethium>, <ore:blockLumium>, <ore:blockAethium>, null, null, null], 
+	[null, null, null, <ore:blockAethium>, <ore:blockLuminessence>, <ore:blockAethium>, null, null, null]],
+	
+	<simplyjetpacks:metaitemmods:30> : [[null, null, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, null, null], 
+	[null, <simplyjetpacks:metaitemmods:16>, <thermalfoundation:upgrade:3>, <thermalexpansion:frame>, <thermalfoundation:upgrade:3>, <simplyjetpacks:metaitemmods:16>, null], 
+	[<simplyjetpacks:metaitemmods:16>, <thermalfoundation:upgrade:3>, <thermalexpansion:frame>, <environmentaltech:modifier_flight_speed>, <thermalexpansion:frame>, <thermalfoundation:upgrade:3>, <simplyjetpacks:metaitemmods:16>], 
+	[<simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:16>], 
+	[<simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:29>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:29>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:29>, <simplyjetpacks:metaitemmods:16>], 
+	[<simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:16>], 
+	[null, <actuallyadditions:block_crystal_empowered>, <actuallyadditions:block_crystal_empowered>, <actuallyadditions:block_crystal_empowered>, <actuallyadditions:block_crystal_empowered>, <actuallyadditions:block_crystal_empowered>, null]],
+	
+	<simplyjetpacks:metaitemmods:17> : [[null, <ore:blockAethium>, <ore:blockAethium>, null, null, null, <ore:blockAethium>, <ore:blockAethium>, null], 
+	[<ore:blockAethium>, <simplyjetpacks:metaitemmods:16>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <simplyjetpacks:metaitemmods:16>, <ore:blockAethium>], 
+	[<ore:blockAethium>, <ore:blockAethium>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <ore:blockAethium>, <ore:blockAethium>], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <ore:blockSignalum>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <ore:blockAethium>, null], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:16>, <ore:blockSignalum>, <actuallyadditions:block_crystal_empowered>, <ore:blockSignalum>, <simplyjetpacks:metaitemmods:16>, <ore:blockAethium>, null], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <ore:blockSignalum>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <ore:blockAethium>, null], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <ore:blockAethium>, null], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <ore:blockAethium>, null], 
+	[null, null, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, null, null]],
+	
+	<simplyjetpacks:itemjetpack:18> : [[null, <ore:blockAethium>, <ore:blockAethium>, null, null, null, <ore:blockAethium>, <ore:blockAethium>, null], 
+	[<ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>], 
+	[<ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:17>, <simplyjetpacks:metaitemmods:16>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:21>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:21>, <ore:blockAethium>, null], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:21>, <simplyjetpacks:itemfluxpack:10>, <simplyjetpacks:itemfluxpack:10>, <simplyjetpacks:itemfluxpack:10>, <simplyjetpacks:metaitemmods:21>, <ore:blockAethium>, null], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:21>, <simplyjetpacks:metaitemmods:21>, <simplyjetpacks:metaitemmods:21>, <simplyjetpacks:metaitemmods:21>, <simplyjetpacks:metaitemmods:21>, <ore:blockAethium>, null], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:30>, <simplyjetpacks:metaitemmods:21>, <simplyjetpacks:itemjetpack:17>, <simplyjetpacks:metaitemmods:21>, <simplyjetpacks:metaitemmods:30>, <ore:blockAethium>, null], 
+	[null, <ore:blockAethium>, <simplyjetpacks:metaitemmods:30>, <simplyjetpacks:metaitemmods:30>, <simplyjetpacks:metaitemmods:30>, <simplyjetpacks:metaitemmods:30>, <simplyjetpacks:metaitemmods:30>, <ore:blockAethium>, null], 
+	[null, null, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, <ore:blockAethium>, null, null]],
+	
+	<extrautils2:angelring> : [[null, null, <ore:blockLumium>, <extrautils2:opinium:8>, <ore:blockLumium>, <extrautils2:opinium:8>, <ore:blockLumium>, null, null], 
+	[null, <ore:blockLumium>, <ore:blockMagicalWood>, <ore:blockMagicalWood>, <simplyjetpacks:itemjetpack:18>, <ore:blockMagicalWood>, <ore:blockMagicalWood>, <ore:blockLumium>, null], 
+	[<ore:blockLumium>, <ore:blockMagicalWood>, <ore:blockMagicalWood>, <ore:blockEvilMetal>, <extrautils2:passivegenerator:4>, <ore:blockEvilMetal>, <ore:blockMagicalWood>, <ore:blockMagicalWood>, <ore:blockLumium>], 
+	[<extrautils2:opinium:8>, <ore:blockMagicalWood>, <ore:blockEvilMetal>, null, null, null, <ore:blockEvilMetal>, <ore:blockMagicalWood>, <extrautils2:opinium:8>], 
+	[<ore:blockLumium>, <extrautils2:chickenring:1>, <extrautils2:ingredients:16>, null, null, null, <extrautils2:ingredients:16>, <extrautils2:chickenring:1>, <ore:blockLumium>], 
+	[<extrautils2:opinium:8>, <ore:blockMagicalWood>, <ore:blockEvilMetal>, null, null, null, <ore:blockEvilMetal>, <ore:blockMagicalWood>, <extrautils2:opinium:8>], 
+	[<ore:blockLumium>, <ore:blockMagicalWood>, <ore:blockMagicalWood>, <ore:blockEvilMetal>, <extrautils2:rainbowgenerator>, <ore:blockEvilMetal>, <ore:blockMagicalWood>, <ore:blockMagicalWood>, <ore:blockLumium>], 
+	[null, <ore:blockLumium>, <ore:blockMagicalWood>, <ore:blockMagicalWood>, <extrautils2:chickenring:1>, <ore:blockMagicalWood>, <ore:blockMagicalWood>, <ore:blockLumium>, null], 
+	[null, null, <ore:blockLumium>, <extrautils2:opinium:8>, <ore:blockLumium>, <extrautils2:opinium:8>, <ore:blockLumium>, null, null]],
+	
+	<appliedenergistics2:drive> : [
+	[<ore:plateAluminium>, <appliedenergistics2:material:24>, <ore:plateAluminium>, <appliedenergistics2:material:24>, <ore:plateAluminium>], 
+	[<ore:plateAluminium>, <appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>, <ore:plateAluminium>], 
+	[<appliedenergistics2:part:16>, null, null, null, <appliedenergistics2:part:16>], 
+	[<ore:plateAluminium>, <appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>, <appliedenergistics2:sky_stone_block>, <ore:plateAluminium>], 
+	[<ore:plateAluminium>, <appliedenergistics2:material:24>, <ore:plateAluminium>, <appliedenergistics2:material:24>, <ore:plateAluminium>]],
+	
+	<appliedenergistics2:interface> : [[<ore:plateAluminium>, <ore:plateAluminium>, <actuallyadditions:block_item_viewer>, <ore:plateAluminium>, <ore:plateAluminium>], 
+	[<ore:plateAluminium>, <integratedtunnels:part_interface_item_item>, <appliedenergistics2:part:16>, <integratedtunnels:part_interface_item_item>, <ore:plateAluminium>], 
+	[<actuallyadditions:block_item_viewer>, <appliedenergistics2:part:16>, <appliedenergistics2:material:45>, <appliedenergistics2:part:16>, <actuallyadditions:block_item_viewer>], 
+	[<ore:plateAluminium>, <integratedtunnels:part_interface_item_item>, <appliedenergistics2:part:16>, <integratedtunnels:part_interface_item_item>, <ore:plateAluminium>], 
+	[<ore:plateAluminium>, <ore:plateAluminium>, <actuallyadditions:block_item_viewer>, <ore:plateAluminium>, <ore:plateAluminium>]],
+	
+	<appliedenergistics2:creative_energy_cell> : [[<appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>], 
+	[<appliedenergistics2:dense_energy_cell>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:dense_energy_cell>], 
+	[<appliedenergistics2:dense_energy_cell>, <appliedenergistics2:material:38>, <thermalfoundation:upgrade:35>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <thermalfoundation:upgrade:35>, <appliedenergistics2:material:38>, <appliedenergistics2:dense_energy_cell>], 
+	[<appliedenergistics2:dense_energy_cell>, <appliedenergistics2:material:38>, <simplyjetpacks:metaitemmods:16>, <thermalfoundation:upgrade:35>, <ore:ingotInfinity>, <thermalfoundation:upgrade:35>, <simplyjetpacks:metaitemmods:16>, <appliedenergistics2:material:38>, <appliedenergistics2:dense_energy_cell>], 
+	[<appliedenergistics2:dense_energy_cell>, <appliedenergistics2:material:38>, <simplyjetpacks:metaitemmods:16>, <ore:ingotInfinity>, <thermalfoundation:upgrade:35>, <ore:ingotInfinity>, <simplyjetpacks:metaitemmods:16>, <appliedenergistics2:material:38>, <appliedenergistics2:dense_energy_cell>], 
+	[<appliedenergistics2:dense_energy_cell>, <appliedenergistics2:material:38>, <simplyjetpacks:metaitemmods:16>, <thermalfoundation:upgrade:35>, <ore:ingotInfinity>, <thermalfoundation:upgrade:35>, <simplyjetpacks:metaitemmods:16>, <appliedenergistics2:material:38>, <appliedenergistics2:dense_energy_cell>], 
+	[<appliedenergistics2:dense_energy_cell>, <appliedenergistics2:material:38>, <thermalfoundation:upgrade:35>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <thermalfoundation:upgrade:35>, <appliedenergistics2:material:38>, <appliedenergistics2:dense_energy_cell>], 
+	[<appliedenergistics2:dense_energy_cell>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:dense_energy_cell>], 
+	[<appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>, <appliedenergistics2:dense_energy_cell>]],
+	
+	<avaritia:resource:6> : [[<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>], 
+	[null, null, null, null, null, null, null, null, null], 
+	[null, null, null, null, null, null, null, null, null], 
+	[null, null, null, null, null, null, null, null, null], 
+	[null, null, null, null, null, null, null, null, null]],
+	
+	<appliedenergistics2:molecular_assembler> : [[<ore:plateAluminium>, <ore:plateAluminium>, <appliedenergistics2:quartz_block>, <ore:plateAluminium>, <ore:plateAluminium>], 
+	[<ore:plateAluminium>, <ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:plateAluminium>], 
+	[<appliedenergistics2:material:44>, <ore:blockGlassHardened>, <autocrafter:autocrafter>, <ore:blockGlassHardened>, <appliedenergistics2:material:43>], 
+	[<ore:plateAluminium>, <ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:plateAluminium>], 
+	[<ore:plateAluminium>, <ore:plateAluminium>, <appliedenergistics2:quartz_block>, <ore:plateAluminium>, <ore:plateAluminium>]],
+	
 } as IIngredient[][][IItemStack];
 
 for key,recipe in recipeMapErraseShapedLarger {
@@ -255,6 +358,8 @@ for key,recipe in recipeMapErraseShapeless {
 	recipes.addShapeless(key, recipe);
 }
 
+mods.extendedcrafting.TableCrafting.addShapeless(0, <avaritia:resource:5>, [<extendedcrafting:singularity_ultimate>, <avaritia:resource:7>, <ore:blockCosmicNeutronium>, <avaritia:endest_pearl>, <avaritia:resource>, <ore:ingotCrystalMatrix>, <avaritia:resource:2>, <ore:nuggetCosmicNeutronium>, <extendedcrafting:material:12>, <ore:dustMana>, <extendedcrafting:material:40>, <extrautils2:opinium:8>, <integrateddynamics:crystalized_menril_block>, <ore:ingotInsanium>, <actuallyadditions:block_crystal_empowered>, <actuallyadditions:block_crystal_empowered:1>, <actuallyadditions:block_crystal_empowered:2>, <actuallyadditions:block_crystal_empowered:3>, <actuallyadditions:block_crystal_empowered:4>, <actuallyadditions:block_crystal_empowered:5>]);
+
 val recipeMapAddShaped = {
     <magneticraft:iron_pipe> * 16 : [[<minecraft:glass>,<ore:plateIron>,<minecraft:glass>],[<ore:plateIron>,<ore:blockGlass>,<ore:plateIron>],[<minecraft:glass>,<ore:plateIron>,<minecraft:glass>]],
 	<projectred-core:resource_item:252> : [[<projectred-core:resource_item:105>,<projectred-core:resource_item:105>,<projectred-core:resource_item:105>],[<projectred-core:resource_item:105>,<ore:ingotAluminum>,<projectred-core:resource_item:105>],[<projectred-core:resource_item:105>,<projectred-core:resource_item:105>,<projectred-core:resource_item:105>]],
@@ -267,6 +372,7 @@ val recipeMapAddShaped = {
 	<immersiveengineering:blueprint>.withTag({blueprint: "thaumic"}) : [[<thaumcraft:mechanism_complex>,<thaumcraft:morphic_resonator>,<thaumcraft:mechanism_complex>],[<ore:dyeBlue>,<ore:dyeBlue>,<ore:dyeBlue>],[<ore:paper>,<ore:paper>,<ore:paper>]],
 	<simplyjetpacks:itemjetpack:10> : [[<ore:plateLead>, <magneticraft:battery_item_low>, <ore:plateLead>], [<ore:plateLead>, <simplyjetpacks:metaitem:4>, <ore:plateLead>], [<simplyjetpacks:metaitemmods:26>, null, <simplyjetpacks:metaitemmods:26>]],
 	<simplyjetpacks:itemjetpack:11> : [[<ore:plateInvar>, <immersiveengineering:metal_device0:1>, <ore:plateInvar>],[<ore:plateInvar>, <simplyjetpacks:itemjetpack:10>, <ore:plateInvar>],[<simplyjetpacks:metaitemmods:27>, null, <simplyjetpacks:metaitemmods:27>]],
+	<thermalfoundation:material:1028> : [[<thermalfoundation:material:1027>,null,<thermalfoundation:material:1026>],[<thermalfoundation:material:1024>,<forge:bucketfilled>.withTag({FluidName: "mana", Amount: 1000}).transformReplace(<minecraft:bucket>),<thermalfoundation:material:1025>],[null,null,null]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -280,6 +386,8 @@ val recipeMapAddShapeless = {
 	<environmentaltech:litherite> : [<ore:blockLitherite>],
 	<environmentaltech:litherite> : [<environmentaltech:litherite_slab>,<environmentaltech:litherite_slab>],
 	<magneticraft:rf_transformer> : [<magneticraft:electric_engine>],
+	<appliedenergistics2:fluid_interface> : [<minecraft:bucket>,<appliedenergistics2:interface>],
+	<appliedenergistics2:interface> : [<appliedenergistics2:part:440>]
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapAddShapeless {

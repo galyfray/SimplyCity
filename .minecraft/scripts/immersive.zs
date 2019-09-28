@@ -1,3 +1,4 @@
+#modloaded integrateddynamics
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 
@@ -24,7 +25,9 @@ for key, items in BPAddThaumic {
 
 mods.immersiveengineering.ArcFurnace.addRecipe(<simplyjetpacks:metaitemmods:23>,<simplyjetpacks:metaitemmods:22>,null,2000,2048,[<ore:blockBronze>*9],"Alloying");
 mods.immersiveengineering.ArcFurnace.addRecipe(<simplyjetpacks:metaitemmods:24>,<simplyjetpacks:metaitemmods:23>,null,3000,4096,[<ore:blockBronze>*9],"Alloying");
+
 mods.immersiveengineering.Squeezer.removeByInput(<integrateddynamics:menril_log>);
-mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:menrilresin>*2, <integrateddynamics:menril_log>*3, 1200);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:menrilresin>*2000, <integrateddynamics:menril_log>*3, 1200);
+
 
 mods.immersiveengineering.MetalPress.addRecipe(<jaopca:item_gearquartzblack>, <actuallyadditions:item_misc:5> * 4, <immersiveengineering:mold:1>, 2500);

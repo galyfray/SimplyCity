@@ -1,4 +1,4 @@
-7024 nodes in total
+7035 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -215,6 +215,8 @@ ftbutilities.claims.block.edit.appliedenergistics2.spatial_pylon: OP
 ftbutilities.claims.block.edit.appliedenergistics2.tiny_tnt: OP
 ftbutilities.claims.block.edit.appliedenergistics2.vibration_chamber: OP
 ftbutilities.claims.block.edit.appliedenergistics2.wireless_access_point: OP
+ftbutilities.claims.block.edit.architecturecraft.sawbench: OP
+ftbutilities.claims.block.edit.architecturecraft.shape: OP
 ftbutilities.claims.block.edit.autocrafter.autocrafter: OP
 ftbutilities.claims.block.edit.avaritia.block_resource: OP
 ftbutilities.claims.block.edit.avaritia.compressed_crafting_table: OP
@@ -2064,6 +2066,8 @@ ftbutilities.claims.block.interact.appliedenergistics2.spatial_pylon: OP
 ftbutilities.claims.block.interact.appliedenergistics2.tiny_tnt: OP
 ftbutilities.claims.block.interact.appliedenergistics2.vibration_chamber: OP
 ftbutilities.claims.block.interact.appliedenergistics2.wireless_access_point: OP
+ftbutilities.claims.block.interact.architecturecraft.sawbench: OP
+ftbutilities.claims.block.interact.architecturecraft.shape: OP
 ftbutilities.claims.block.interact.autocrafter.autocrafter: OP
 ftbutilities.claims.block.interact.avaritia.block_resource: OP
 ftbutilities.claims.block.interact.avaritia.compressed_crafting_table: OP
@@ -4127,6 +4131,13 @@ ftbutilities.claims.item.appliedenergistics2.vibration_chamber: ALL
 ftbutilities.claims.item.appliedenergistics2.view_cell: ALL
 ftbutilities.claims.item.appliedenergistics2.wireless_access_point: ALL
 ftbutilities.claims.item.appliedenergistics2.wireless_terminal: ALL
+ftbutilities.claims.item.architecturecraft.chisel: ALL
+ftbutilities.claims.item.architecturecraft.cladding: ALL
+ftbutilities.claims.item.architecturecraft.hammer: ALL
+ftbutilities.claims.item.architecturecraft.largepulley: ALL
+ftbutilities.claims.item.architecturecraft.sawbench: ALL
+ftbutilities.claims.item.architecturecraft.sawblade: ALL
+ftbutilities.claims.item.architecturecraft.shape: ALL
 ftbutilities.claims.item.autocrafter.autocrafter: ALL
 ftbutilities.claims.item.avaritia.block_resource: ALL
 ftbutilities.claims.item.avaritia.compressed_crafting_table: ALL

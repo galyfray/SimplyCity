@@ -7991,15 +7991,15 @@ appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Bricks
 appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Tiles
 appliedenergistics2:facade:0, Cable Facade - Mica
 appliedenergistics2:facade:0, Cable Facade - Interconnect
+appliedenergistics2:facade:0, Cable Facade - Machine Block
+appliedenergistics2:facade:0, Cable Facade - Support Column (Y axis)
+appliedenergistics2:facade:0, Cable Facade - Pumpjack Pipe
 appliedenergistics2:facade:0, Cable Facade - Limestone
 appliedenergistics2:facade:0, Cable Facade - Burnt Limestone
 appliedenergistics2:facade:0, Cable Facade - Limestone Tiles
 appliedenergistics2:facade:0, Cable Facade - Chalcopyrite Ore (Copper)
 appliedenergistics2:facade:0, Cable Facade - Oil Source (Full)
 appliedenergistics2:facade:0, Cable Facade - Copper Block
-appliedenergistics2:facade:0, Cable Facade - Machine Block
-appliedenergistics2:facade:0, Cable Facade - Support Column (Y axis)
-appliedenergistics2:facade:0, Cable Facade - Pumpjack Pipe
 appliedenergistics2:facade:0, Cable Facade - Block of Amber
 appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
 appliedenergistics2:facade:0, Cable Facade - Block of Charged Certus Quartz
@@ -8369,41 +8369,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Armor Plates Pattern
 tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -9664,76 +9664,76 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Armor Plates Cast
 tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
 tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -10381,7 +10381,6 @@ extendedcrafting:singularity:16, Aluminum Singularity
 extendedcrafting:singularity:17, Copper Singularity
 extendedcrafting:singularity:18, Tin Singularity
 extendedcrafting:singularity:19, Bronze Singularity
-extendedcrafting:singularity:20, Zinc Singularity
 extendedcrafting:singularity:21, Brass Singularity
 extendedcrafting:singularity:22, Silver Singularity
 extendedcrafting:singularity:23, Lead Singularity
@@ -10392,9 +10391,7 @@ extendedcrafting:singularity:27, Electrum Singularity
 extendedcrafting:singularity:28, Invar Singularity
 extendedcrafting:singularity:29, Mithril Singularity
 extendedcrafting:singularity:30, Tungsten Singularity
-extendedcrafting:singularity:31, Titanium Singularity
 extendedcrafting:singularity:32, Uranium Singularity
-extendedcrafting:singularity:33, Chrome Singularity
 extendedcrafting:singularity:34, Platinum Singularity
 extendedcrafting:singularity:35, Iridium Singularity
 extendedcrafting:singularity:48, Signalum Singularity
@@ -10516,6 +10513,24 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -10636,24 +10651,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 mysticalagriculture:storage:0, §eBlock of Inferium Essence
 mysticalagriculture:storage:1, §aBlock of Prudentium Essence
 mysticalagriculture:storage:2, §6Block of Intermedium Essence
@@ -10971,11 +10968,11 @@ mysticalagriculture:menril_essence, Menril Essence
 mysticalagriculture:sky_stone_essence, Sky Stone Essence
 mysticalagriculture:certus_quartz_essence, Certus Quartz Essence
 mysticalagriculture:fluix_essence, Fluix Essence
-mysticalagriculture:tier1_inferium_seeds, Inferium Seeds Tier1
-mysticalagriculture:tier2_inferium_seeds, Inferium Seeds Tier2
-mysticalagriculture:tier3_inferium_seeds, Inferium Seeds Tier3
-mysticalagriculture:tier4_inferium_seeds, Inferium Seeds Tier4
-mysticalagriculture:tier5_inferium_seeds, Inferium Seeds Tier5
+mysticalagriculture:tier1_inferium_seeds, Inferium Seeds
+mysticalagriculture:tier2_inferium_seeds, Inferium Seeds
+mysticalagriculture:tier3_inferium_seeds, Inferium Seeds
+mysticalagriculture:tier4_inferium_seeds, Inferium Seeds
+mysticalagriculture:tier5_inferium_seeds, Inferium Seeds
 mysticalagriculture:stone_seeds, Stone Seeds
 mysticalagriculture:dirt_seeds, Dirt Seeds
 mysticalagriculture:nature_seeds, Nature Seeds
@@ -13409,6 +13406,11 @@ agricraft:agri_nugget:10, Platinum Nugget
 agricraft:agri_nugget:11, Osmium Nugget
 agricraft:agri_nugget:12, Unknown Fragment
 agricraft:magnifying_glass, Magnifying Glass
+architecturecraft:sawblade, Circular Saw Blade
+architecturecraft:largepulley, Large Pulley
+architecturecraft:chisel, Architect's Chisel
+architecturecraft:hammer, Architect's Hammer
+architecturecraft:sawbench, Architect's Sawbench
 valkyrielib:guide, Digital Guide
 valkyrielib:modifier_component, Modifier Component
 valkyrielib:modifier_speed, Speed Modifier
@@ -13702,7 +13704,7 @@ magneticraft:crafting:1, Alternator
 magneticraft:crafting:2, Motor
 magneticraft:crafting:3, Fine Copper Wire
 magneticraft:crafting:4, Magnet
-magneticraft:crafting:5, Bronze mesh
+magneticraft:crafting:5, Iron Mesh
 magneticraft:crafting:6, Fabric Mesh
 magneticraft:guide_book, item.magneticraft.guide_book.name
 magneticraft:floppy_disk:0, Floppy Disk
@@ -13718,30 +13720,13 @@ magneticraft:steel_gear, item.magneticraft.steel_gear.name
 magneticraft:tungsten_gear, item.magneticraft.tungsten_gear.name
 magneticraft:inserter_upgrade:0, Inserter Upgrade: Speed
 magneticraft:inserter_upgrade:1, Inserter Upgrade: Stack
-magneticraft:conveyor_belt:0, Conveyor Belt
-magneticraft:inserter:0, Inserter
-magneticraft:water_generator:0, Water Generator
-magneticraft:feeding_trough:0, Wooden Feeding Trough
-magneticraft:pneumatic_tube:0, Pneumatic Tube
-magneticraft:pneumatic_restriction_tube:0, Restriction Pneumatic Tube
-magneticraft:relay:0, Relay
-magneticraft:filter:0, Filter
-magneticraft:transposer:0, Transposer
-magneticraft:battery:0, Battery Block
-magneticraft:electric_furnace:0, Electric furnace
-magneticraft:infinite_energy:0, Infinite Energy
-magneticraft:air_bubble:0, Air Bubble
-magneticraft:airlock:0, Airlock
-magneticraft:thermopile:0, Thermopile
-magneticraft:wind_turbine:0, Wind turbine
-magneticraft:electric_heater:0, Electric Heater
-magneticraft:rf_heater:0, RF Heater
-magneticraft:rf_transformer:0, RF transformer
-magneticraft:electric_engine:0, Electric Engine
-magneticraft:box:0, Wooden Box
-magneticraft:crushing_table:0, Crushing Table
-magneticraft:sluice_box:0, Sluice Box
-magneticraft:fabricator:0, Fabricator
+magneticraft:combustion_chamber:0, Combustion Chamber
+magneticraft:steam_boiler:0, Boiler
+magneticraft:heat_pipe:0, Heat Pipe
+magneticraft:insulated_heat_pipe:0, Insulated Heat Pipe
+magneticraft:heat_sink:0, Heat sink
+magneticraft:gasification_unit:0, Gasification Unit
+magneticraft:brick_furnace:0, Brick furnace
 magneticraft:solar_panel:0, Solar Panel
 magneticraft:shelving_unit:0, Shelving Unit
 magneticraft:steam_engine:0, Small Steam Engine
@@ -13758,6 +13743,46 @@ magneticraft:big_combustion_chamber:0, Big Combustion Chamber
 magneticraft:big_steam_boiler:0, Big Steam Boiler
 magneticraft:steam_turbine:0, Steam Turbine
 magneticraft:big_electric_furnace:0, Big Electric Furnace
+magneticraft:multiblock_parts:0, Machine Block
+magneticraft:multiblock_parts:1, Electrical Machine Block
+magneticraft:multiblock_parts:2, Iron Grate Machine Block
+magneticraft:multiblock_parts:3, Striped Machine Block
+magneticraft:multiblock_parts:4, Copper Coil Machine Block
+magneticraft:multiblock_parts:5, Corrugate Iron Machine Block
+magneticraft:multiblock_column:0, Support Column (Y axis)
+magneticraft:pumpjack_drill:0, Pumpjack Pipe
+magneticraft:battery:0, Battery Block
+magneticraft:electric_furnace:0, Electric furnace
+magneticraft:infinite_energy:0, Infinite Energy
+magneticraft:air_bubble:0, Air Bubble
+magneticraft:airlock:0, Airlock
+magneticraft:thermopile:0, Thermopile
+magneticraft:wind_turbine:0, Wind turbine
+magneticraft:electric_heater:0, Electric Heater
+magneticraft:rf_heater:0, RF Heater
+magneticraft:rf_transformer:0, RF transformer
+magneticraft:electric_engine:0, Electric Engine
+magneticraft:small_tank:0, Small tank
+magneticraft:iron_pipe:0, Iron Pipe
+magneticraft:conveyor_belt:0, Conveyor Belt
+magneticraft:inserter:0, Inserter
+magneticraft:water_generator:0, Water Generator
+magneticraft:feeding_trough:0, Wooden Feeding Trough
+magneticraft:pneumatic_tube:0, Pneumatic Tube
+magneticraft:pneumatic_restriction_tube:0, Restriction Pneumatic Tube
+magneticraft:relay:0, Relay
+magneticraft:filter:0, Filter
+magneticraft:transposer:0, Transposer
+magneticraft:connector:0, Electric Connector
+magneticraft:electric_pole:0, Electric Pole
+magneticraft:electric_cable:0, Electric cable
+magneticraft:tesla_tower:0, Tesla Tower
+magneticraft:energy_receiver:0, Energy Receiver
+magneticraft:electric_pole_transformer:0, Electric Pole Transformer
+magneticraft:box:0, Wooden Box
+magneticraft:crushing_table:0, Crushing Table
+magneticraft:sluice_box:0, Sluice Box
+magneticraft:fabricator:0, Fabricator
 magneticraft:limestone:0, Limestone
 magneticraft:limestone:1, Limestone Brick
 magneticraft:limestone:2, Limestone Cobble
@@ -13769,14 +13794,6 @@ magneticraft:tile_limestone:1, Inverted Limestone Tiles
 magneticraft:tube_light:0, Tube Light
 magneticraft:computer:0, Computer
 magneticraft:mining_robot:0, Mining Robot
-magneticraft:connector:0, Electric Connector
-magneticraft:electric_pole:0, Electric Pole
-magneticraft:electric_cable:0, Electric cable
-magneticraft:tesla_tower:0, Tesla Tower
-magneticraft:energy_receiver:0, Energy Receiver
-magneticraft:electric_pole_transformer:0, Electric Pole Transformer
-magneticraft:small_tank:0, Small tank
-magneticraft:iron_pipe:0, Fluid pipe
 magneticraft:ores:0, Chalcopyrite Ore (Copper)
 magneticraft:ores:1, Galena Ore (Lead)
 magneticraft:ores:2, Cobaltite Ore (Cobalt)
@@ -13789,21 +13806,6 @@ magneticraft:storage_blocks:1, Lead Block
 magneticraft:storage_blocks:2, Cobalt Block
 magneticraft:storage_blocks:3, Tungsten Block
 magneticraft:storage_blocks:4, Sulfur Block
-magneticraft:multiblock_parts:0, Machine Block
-magneticraft:multiblock_parts:1, Electrical Machine Block
-magneticraft:multiblock_parts:2, Grate Machine Block
-magneticraft:multiblock_parts:3, Striped Machine Block
-magneticraft:multiblock_parts:4, Copper Coil Machine Block
-magneticraft:multiblock_parts:5, Corrugate Machine Block
-magneticraft:multiblock_column:0, Support Column (Y axis)
-magneticraft:pumpjack_drill:0, Pumpjack Pipe
-magneticraft:combustion_chamber:0, Combustion Chamber
-magneticraft:steam_boiler:0, Boiler
-magneticraft:heat_pipe:0, Heat Pipe
-magneticraft:insulated_heat_pipe:0, Insulated Heat Pipe
-magneticraft:heat_sink:0, Heat sink
-magneticraft:gasification_unit:0, Gasification Unit
-magneticraft:brick_furnace:0, Brick furnace
 jaopca:block_blockamber, Block of %s
 jaopca:block_blockcertusquartz, Block of %s
 jaopca:block_blockchargedcertusquartz, Block of %s

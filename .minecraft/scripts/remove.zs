@@ -6,7 +6,7 @@ val ItemRecipe = {
 	<thaumcraft:plate> : [0,1,2,3],
 	<jaopca:item_gearquartzblack> : [0],
 	<environmentaltech:diode> : [0],
-	//<magneticraft:light_plates> : [0,1,2,3,5,6],
+	<thermaldynamics:duct_16> : [0,1],
 } as int[][IItemStack] ;
 
 for item,range in ItemRecipe {
@@ -99,6 +99,9 @@ val removeByRecipeShaped = {
 	<simplyjetpacks:itemjetpack:11> : [[<*>,<*>,<*>],[<*>,<*>,<*>],[<*>,null,<*>]],
 	<simplyjetpacks:itemjetpack:12> : [[<*>,<*>,<*>],[<*>,<*>,<*>],[<*>,null,<*>]],
 	<simplyjetpacks:itemjetpack:13> : [[<*>,<*>,<*>],[<*>,<*>,<*>],[<*>,null,<*>]],
+	<extrautils2:angelring> : [[<*>,<*>,<*>],[<*>,<*>,<*>],[<*>,<*>,<*>]],
+	<appliedenergistics2:fluid_interface> : [[<*>,<*>,<*>],[<*>,null,<*>],[<*>,<*>,<*>]],
+	<thermaldynamics:duct_32:1> : [[null,null,null],[<*>,<*>,<*>],[null,null,null]],
 } as IIngredient[][][IItemStack];
 
 for key, recipe in removeByRecipeShaped {

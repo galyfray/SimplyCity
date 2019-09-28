@@ -4,12 +4,12 @@ mouseSensitivity:0.5
 fov:0.25
 gamma:1.0
 saturation:0.0
-renderDistance:6
+renderDistance:8
 guiScale:3
 particles:2
 bobView:false
 anaglyph3d:false
-maxFps:30
+maxFps:260
 fboEnable:true
 difficulty:2
 fancyGraphics:false
@@ -88,7 +88,7 @@ key_key.hotbar.9:10
 key_Change Caster Focus:0
 key_Misc Caster Toggle:0
 key_keybind.baublesinventory:0
-key_key.betterquesting.quests:297
+key_key.betterquesting.quests:40
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
@@ -130,6 +130,7 @@ key_key.integratedterminals.terminal.tab.previous:15:SHIFT
 key_key.integratedterminals.terminal.craftinggrid.clearplayer:0
 key_key.integratedterminals.terminal.craftinggrid.clearstorage:46:SHIFT
 key_key.integratedterminals.terminal.craftinggrid.balance:0
+key_invtweaks.key.sort:37
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.control:29

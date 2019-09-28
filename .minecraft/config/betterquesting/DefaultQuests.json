@@ -715,7 +715,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "6:10": {
       "questID:3": 6,
@@ -766,7 +779,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "7:10": {
       "questID:3": 7,
@@ -925,7 +951,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "9:10": {
       "questID:3": 9,
@@ -988,7 +1027,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "10:10": {
       "questID:3": 10,
@@ -1155,7 +1207,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "12:10": {
       "questID:3": 12,
@@ -1793,7 +1858,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "14:10": {
       "questID:3": 14,
@@ -2180,7 +2258,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "18:10": {
       "questID:3": 18,
@@ -2243,7 +2334,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "19:10": {
       "questID:3": 19,
@@ -2306,7 +2410,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "20:10": {
       "questID:3": 20,
@@ -2387,7 +2504,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "21:10": {
       "questID:3": 21,
@@ -2468,7 +2598,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "22:10": {
       "questID:3": 22,
@@ -2549,7 +2692,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "23:10": {
       "questID:3": 23,
@@ -2647,7 +2803,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "24:10": {
       "questID:3": 24,
@@ -2676,7 +2845,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "Applied MK0",
-          "desc:8": "Project Red add a logistic pipes like system for autocraft and item shorting:\n\n§l§6§lPipes :§r\n\n§7normal pipes§r are used everywere special one are not essential.\n\n§9Routed junction pipes§r are§l needed§l§r at all the §ljunction§r\n\n§5Routed interface§r work as the junction ones but can also hold cards (see below)\n\n§eRouted request§r can work as the junction ones, this pipe has an ui wich allow you to request item or craft from you system the pipe need to be attache to an inventory to place requested item note that the player chest exist ...\n\n§6§lcards :§r\n\n-§e§oItem responder chip :§r allow the system to place specific item in atached inventory, empty blacklist to allow everything won\u0027t cause trauble if there is no room for the item then can be safly use with drawer or drawer controller.\n\n-§e§oDynamic Item responder chip :§r allow the system to place specific item in atached inventory, the whitelist is based on the item contaned in the inventory.\n\n-§b§o§3§o§a§2§oOverflow Item responder chip :§r allow the system to place item that has no other place in an atached inventory, work as a low priority item responder chip with an empty blacklist.\n\n-§8§d§oItem Terminator responder chip :§r work as an Item Responder chip but only when all the responders chips are full including Overflow.\n\n-§3§oItem extractor chip :§r exact item of the attached inventory and place them in the system interact with all responder chip.\n\n-§5§oItem Broadcaster chip : §rallow the system to see what\u0027s in attached inventory interact with the stock keeper card, the crafting card and routed request pipe.\n\n-§9§oItem stock keeper : §o§rallow you to specify a certain amount of certain item to be continuouly keep inside a inventory\n\n-§a§oItem crafting card :§r allow you to create a crafting recipe that can be called with the requester it need to be attached to an auto crafter, the mechanical crafter is a nice one , the project red\u0027s crafting table works pretty nice with there ability to store 9 recipe but need project red\u0027s power \n\n\n\n"
+          "desc:8": "Project Red add a logistic pipes like system for autocraft and item shorting:\n\nÂ§lÂ§6Â§lPipes :Â§r\n\nÂ§7normal pipesÂ§r are used everywere special one are not essential.\n\nÂ§9Routed junction pipesÂ§r areÂ§l neededÂ§lÂ§r at all the Â§ljunctionÂ§r\n\nÂ§5Routed interfaceÂ§r work as the junction ones but can also hold cards (see below)\n\nÂ§eRouted requestÂ§r can work as the junction ones, this pipe has an ui wich allow you to request item or craft from you system the pipe need to be attache to an inventory to place requested item note that the player chest exist ...\n\nÂ§6Â§lcards :Â§r\n\n-Â§eÂ§oItem responder chip :Â§r allow the system to place specific item in atached inventory, empty blacklist to allow everything won\u0027t cause trauble if there is no room for the item then can be safly use with drawer or drawer controller.\n\n-Â§eÂ§oDynamic Item responder chip :Â§r allow the system to place specific item in atached inventory, the whitelist is based on the item contaned in the inventory.\n\n-Â§bÂ§oÂ§3Â§oÂ§aÂ§2Â§oOverflow Item responder chip :Â§r allow the system to place item that has no other place in an atached inventory, work as a low priority item responder chip with an empty blacklist.\n\n-Â§8Â§dÂ§oItem Terminator responder chip :Â§r work as an Item Responder chip but only when all the responders chips are full including Overflow.\n\n-Â§3Â§oItem extractor chip :Â§r exact item of the attached inventory and place them in the system interact with all responder chip.\n\n-Â§5Â§oItem Broadcaster chip : Â§rallow the system to see what\u0027s in attached inventory interact with the stock keeper card, the crafting card and routed request pipe.\n\n-Â§9Â§oItem stock keeper : Â§oÂ§rallow you to specify a certain amount of certain item to be continuouly keep inside a inventory\n\n-Â§aÂ§oItem crafting card :Â§r allow you to create a crafting recipe that can be called with the requester it need to be attached to an auto crafter, the mechanical crafter is a nice one , the project red\u0027s crafting table works pretty nice with there ability to store 9 recipe but need project red\u0027s power \n\n\n\n"
         }
       },
       "tasks:9": {
@@ -3034,7 +3203,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "30:10": {
       "questID:3": 30,
@@ -3092,7 +3274,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "31:10": {
       "questID:3": 31,
@@ -3150,7 +3345,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "32:10": {
       "questID:3": 32,
@@ -3208,7 +3416,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "33:10": {
       "questID:3": 33,
@@ -3266,7 +3487,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "34:10": {
       "questID:3": 34,
@@ -3324,7 +3558,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "35:10": {
       "questID:3": 35,
@@ -3382,7 +3629,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "36:10": {
       "questID:3": 36,
@@ -3433,7 +3693,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "37:10": {
       "questID:3": 37,
@@ -3484,7 +3757,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "38:10": {
       "questID:3": 38,
@@ -3535,7 +3821,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "39:10": {
       "questID:3": 39,
@@ -3586,7 +3885,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "40:10": {
       "questID:3": 40,
@@ -3637,7 +3949,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "41:10": {
       "questID:3": 41,
@@ -3688,7 +4013,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "42:10": {
       "questID:3": 42,
@@ -3739,7 +4077,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "43:10": {
       "questID:3": 43,
@@ -3790,7 +4141,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "44:10": {
       "questID:3": 44,
@@ -3841,7 +4205,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "45:10": {
       "questID:3": 45,
@@ -3892,7 +4269,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "46:10": {
       "questID:3": 46,
@@ -3943,7 +4333,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "47:10": {
       "questID:3": 47,
@@ -4001,7 +4404,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "48:10": {
       "questID:3": 48,
@@ -4059,7 +4475,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "49:10": {
       "questID:3": 49,
@@ -4117,7 +4546,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "50:10": {
       "questID:3": 50,
@@ -4175,7 +4617,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "51:10": {
       "questID:3": 51,
@@ -4233,7 +4688,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "52:10": {
       "questID:3": 52,
@@ -4291,7 +4759,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "53:10": {
       "questID:3": 53,
@@ -4349,7 +4830,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "54:10": {
       "questID:3": 54,
@@ -4407,7 +4901,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "55:10": {
       "questID:3": 55,
@@ -4465,7 +4972,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "56:10": {
       "questID:3": 56,
@@ -4523,7 +5043,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "57:10": {
       "questID:3": 57,
@@ -4581,7 +5114,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "58:10": {
       "questID:3": 58,
@@ -4639,7 +5185,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "59:10": {
       "questID:3": 59,
@@ -4697,7 +5256,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "60:10": {
       "questID:3": 60,
@@ -4755,7 +5327,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "61:10": {
       "questID:3": 61,
@@ -4813,7 +5398,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "62:10": {
       "questID:3": 62,
@@ -4871,7 +5469,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "63:10": {
       "questID:3": 63,
@@ -4929,7 +5540,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "64:10": {
       "questID:3": 64,
@@ -4987,7 +5611,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "65:10": {
       "questID:3": 65,
@@ -5045,7 +5682,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "66:10": {
       "questID:3": 66,
@@ -5103,7 +5753,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "67:10": {
       "questID:3": 67,
@@ -5161,7 +5824,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "68:10": {
       "questID:3": 68,
@@ -5219,7 +5895,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "69:10": {
       "questID:3": 69,
@@ -5277,7 +5966,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "70:10": {
       "questID:3": 70,
@@ -5335,7 +6037,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "71:10": {
       "questID:3": 71,
@@ -5393,7 +6108,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "72:10": {
       "questID:3": 72,
@@ -5451,7 +6179,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "73:10": {
       "questID:3": 73,
@@ -5509,7 +6250,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "74:10": {
       "questID:3": 74,
@@ -5567,7 +6321,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "75:10": {
       "questID:3": 75,
@@ -5625,7 +6392,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "76:10": {
       "questID:3": 76,
@@ -5683,7 +6463,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "77:10": {
       "questID:3": 77,
@@ -5741,7 +6534,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "78:10": {
       "questID:3": 78,
@@ -5799,7 +6605,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "79:10": {
       "questID:3": 79,
@@ -5857,7 +6676,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "80:10": {
       "questID:3": 80,
@@ -5915,7 +6747,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "81:10": {
       "questID:3": 81,
@@ -5973,7 +6818,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "82:10": {
       "questID:3": 82,
@@ -6031,7 +6889,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "83:10": {
       "questID:3": 83,
@@ -6089,7 +6960,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "84:10": {
       "questID:3": 84,
@@ -6147,7 +7031,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "85:10": {
       "questID:3": 85,
@@ -6205,7 +7102,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "86:10": {
       "questID:3": 86,
@@ -6263,7 +7173,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "87:10": {
       "questID:3": 87,
@@ -6321,7 +7244,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "88:10": {
       "questID:3": 88,
@@ -6379,7 +7315,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "89:10": {
       "questID:3": 89,
@@ -6437,7 +7386,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "90:10": {
       "questID:3": 90,
@@ -6495,7 +7457,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "91:10": {
       "questID:3": 91,
@@ -6553,7 +7528,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "92:10": {
       "questID:3": 92,
@@ -6611,7 +7599,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "93:10": {
       "questID:3": 93,
@@ -6669,7 +7670,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "94:10": {
       "questID:3": 94,
@@ -6727,7 +7741,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "95:10": {
       "questID:3": 95,
@@ -6785,7 +7812,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "96:10": {
       "questID:3": 96,
@@ -6843,7 +7883,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "97:10": {
       "questID:3": 97,
@@ -6901,7 +7954,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "98:10": {
       "questID:3": 98,
@@ -6959,7 +8025,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "99:10": {
       "questID:3": 99,
@@ -7017,7 +8096,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "100:10": {
       "questID:3": 100,
@@ -7075,7 +8167,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "101:10": {
       "questID:3": 101,
@@ -7133,7 +8238,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "102:10": {
       "questID:3": 102,
@@ -7191,7 +8309,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "103:10": {
       "questID:3": 103,
@@ -7249,7 +8380,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "104:10": {
       "questID:3": 104,
@@ -7307,7 +8451,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "105:10": {
       "questID:3": 105,
@@ -7365,7 +8522,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "106:10": {
       "questID:3": 106,
@@ -7423,7 +8593,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "107:10": {
       "questID:3": 107,
@@ -7481,7 +8664,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "108:10": {
       "questID:3": 108,
@@ -7546,7 +8742,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "109:10": {
       "questID:3": 109,
@@ -7604,7 +8813,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "110:10": {
       "questID:3": 110,
@@ -7662,7 +8884,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "111:10": {
       "questID:3": 111,
@@ -7720,7 +8955,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "112:10": {
       "questID:3": 112,
@@ -7778,7 +9026,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "113:10": {
       "questID:3": 113,
@@ -7836,7 +9097,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "114:10": {
       "questID:3": 114,
@@ -7894,7 +9168,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "115:10": {
       "questID:3": 115,
@@ -7952,7 +9239,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "116:10": {
       "questID:3": 116,
@@ -8010,7 +9310,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "117:10": {
       "questID:3": 117,
@@ -8068,7 +9381,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "118:10": {
       "questID:3": 118,
@@ -8126,7 +9452,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "119:10": {
       "questID:3": 119,
@@ -8184,7 +9523,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "120:10": {
       "questID:3": 120,
@@ -8242,7 +9594,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "121:10": {
       "questID:3": 121,
@@ -8300,7 +9665,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "122:10": {
       "questID:3": 122,
@@ -8358,7 +9736,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "123:10": {
       "questID:3": 123,
@@ -8416,7 +9807,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "124:10": {
       "questID:3": 124,
@@ -8474,7 +9878,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "125:10": {
       "questID:3": 125,
@@ -8532,7 +9949,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "126:10": {
       "questID:3": 126,
@@ -8590,7 +10020,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "127:10": {
       "questID:3": 127,
@@ -8648,7 +10091,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "128:10": {
       "questID:3": 128,
@@ -8706,7 +10162,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "129:10": {
       "questID:3": 129,
@@ -8764,7 +10233,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "130:10": {
       "questID:3": 130,
@@ -8815,7 +10297,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "131:10": {
       "questID:3": 131,
@@ -8943,7 +10438,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "133:10": {
       "questID:3": 133,
@@ -9123,7 +10631,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "136:10": {
       "questID:3": 136,
@@ -9191,7 +10712,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "137:10": {
       "questID:3": 137,
@@ -9278,7 +10812,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "138:10": {
       "questID:3": 138,
@@ -9406,7 +10953,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "140:10": {
       "questID:3": 140,
@@ -9560,7 +11120,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "142:10": {
       "questID:3": 142,
@@ -9644,7 +11217,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "143:10": {
       "questID:3": 143,
@@ -9701,7 +11287,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "144:10": {
       "questID:3": 144,
@@ -9758,7 +11357,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "145:10": {
       "questID:3": 145,
@@ -9809,7 +11421,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "146:10": {
       "questID:3": 146,
@@ -9860,7 +11485,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "147:10": {
       "questID:3": 147,
@@ -9918,7 +11556,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "148:10": {
       "questID:3": 148,
@@ -9975,7 +11626,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "149:10": {
       "questID:3": 149,
@@ -10032,7 +11696,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "150:10": {
       "questID:3": 150,
@@ -10089,7 +11766,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "151:10": {
       "questID:3": 151,
@@ -10146,7 +11836,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "152:10": {
       "questID:3": 152,
@@ -10203,7 +11906,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "153:10": {
       "questID:3": 153,
@@ -10260,7 +11976,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "154:10": {
       "questID:3": 154,
@@ -10317,7 +12046,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "155:10": {
       "questID:3": 155,
@@ -10374,7 +12116,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "156:10": {
       "questID:3": 156,
@@ -10431,7 +12186,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "157:10": {
       "questID:3": 157,
@@ -10488,7 +12256,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "158:10": {
       "questID:3": 158,
@@ -10545,7 +12326,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "159:10": {
       "questID:3": 159,
@@ -10602,7 +12396,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "160:10": {
       "questID:3": 160,
@@ -10659,7 +12466,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "161:10": {
       "questID:3": 161,
@@ -10716,7 +12536,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "162:10": {
       "questID:3": 162,
@@ -10774,7 +12607,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "163:10": {
       "questID:3": 163,
@@ -10840,7 +12686,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "164:10": {
       "questID:3": 164,
@@ -10961,7 +12820,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "166:10": {
       "questID:3": 166,
@@ -11018,7 +12890,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "167:10": {
       "questID:3": 167,
@@ -11070,7 +12955,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "168:10": {
       "questID:3": 168,
@@ -11121,7 +13019,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "169:10": {
       "questID:3": 169,
@@ -11172,7 +13083,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "170:10": {
       "questID:3": 170,
@@ -11223,7 +13147,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "171:10": {
       "questID:3": 171,
@@ -11274,7 +13211,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "172:10": {
       "questID:3": 172,
@@ -11325,7 +13275,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "173:10": {
       "questID:3": 173,
@@ -11376,7 +13339,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "174:10": {
       "questID:3": 174,
@@ -11427,7 +13403,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "175:10": {
       "questID:3": 175,
@@ -11478,7 +13467,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "176:10": {
       "questID:3": 176,
@@ -11529,7 +13531,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "177:10": {
       "questID:3": 177,
@@ -11580,7 +13595,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "178:10": {
       "questID:3": 178,
@@ -11631,7 +13659,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "179:10": {
       "questID:3": 179,
@@ -11682,7 +13723,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "180:10": {
       "questID:3": 180,
@@ -11733,7 +13787,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "181:10": {
       "questID:3": 181,
@@ -11784,7 +13851,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "182:10": {
       "questID:3": 182,
@@ -11835,7 +13915,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "183:10": {
       "questID:3": 183,
@@ -11886,7 +13979,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "184:10": {
       "questID:3": 184,
@@ -11937,7 +14043,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "185:10": {
       "questID:3": 185,
@@ -11988,7 +14107,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "186:10": {
       "questID:3": 186,
@@ -12039,7 +14171,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "187:10": {
       "questID:3": 187,
@@ -12090,7 +14235,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "188:10": {
       "questID:3": 188,
@@ -12141,7 +14299,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "189:10": {
       "questID:3": 189,
@@ -12192,7 +14363,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "190:10": {
       "questID:3": 190,
@@ -12243,7 +14427,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "191:10": {
       "questID:3": 191,
@@ -12294,7 +14491,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "192:10": {
       "questID:3": 192,
@@ -12345,7 +14555,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "193:10": {
       "questID:3": 193,
@@ -12396,7 +14619,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "194:10": {
       "questID:3": 194,
@@ -12447,7 +14683,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "195:10": {
       "questID:3": 195,
@@ -12498,7 +14747,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "196:10": {
       "questID:3": 196,
@@ -12549,7 +14811,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "197:10": {
       "questID:3": 197,
@@ -12600,7 +14875,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "198:10": {
       "questID:3": 198,
@@ -12651,7 +14939,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "199:10": {
       "questID:3": 199,
@@ -12702,7 +15003,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "200:10": {
       "questID:3": 200,
@@ -12753,7 +15067,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "201:10": {
       "questID:3": 201,
@@ -12804,7 +15131,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "202:10": {
       "questID:3": 202,
@@ -12855,7 +15195,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "203:10": {
       "questID:3": 203,
@@ -12906,7 +15259,2699 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "204:10": {
+      "questID:3": 204,
+      "preRequisites:11": [
+        168
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalfoundation:storage",
+            "Count:3": 1,
+            "Damage:2": 8,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Mithril",
+          "desc:8": "This special metal will allow you to make better machines and unlock great things"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:storage",
+              "Count:3": 64,
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "205:10": {
+      "questID:3": 205,
+      "preRequisites:11": [
+        204
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:frame",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Machine frame",
+          "desc:8": "this thing will be the most important thing in this age make sure to automate it"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:frame",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "206:10": {
+      "questID:3": 206,
+      "preRequisites:11": [
+        205
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:machine",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
+            },
+            "Damage:2": 9,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Energetic infuser",
+          "desc:8": "can work as a wireless charger"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:machine",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
+              },
+              "Damage:2": 9,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "207:10": {
+      "questID:3": 207,
+      "preRequisites:11": [
+        205
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:machine",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                3,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
+            },
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Induction smelter",
+          "desc:8": "alloy thinks"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:machine",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  3,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
+              },
+              "Damage:2": 3,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "208:10": {
+      "questID:3": 208,
+      "preRequisites:11": [
+        205
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:machine",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                3,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
+            },
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Pulverizer",
+          "desc:8": "make dust"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:machine",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  3,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
+              },
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "209:10": {
+      "questID:3": 209,
+      "preRequisites:11": [
+        205
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:machine",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                3,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
+            },
+            "Damage:2": 10,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Centrifugeal separator",
+          "desc:8": "separate thing like powder , mobs(need an upgrade) ..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:machine",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  3,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
+              },
+              "Damage:2": 10,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "210:10": {
+      "questID:3": 210,
+      "preRequisites:11": [
+        204
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:frame",
+            "Count:3": 1,
+            "Damage:2": 64,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Device Frame",
+          "desc:8": "a special frame for device that don\u0027t need power to work"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:frame",
+              "Count:3": 1,
+              "Damage:2": 64,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "211:10": {
+      "questID:3": 211,
+      "preRequisites:11": [
+        210
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:device",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ]
+            },
+            "Damage:2": 11,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Mobs in a bottle ?",
+          "desc:8": "this device capture mobs with morbs after this the mobs in can be process for loot and Essence of knowledge."
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "212:10": {
+      "questID:3": 212,
+      "preRequisites:11": [
+        209,
+        211
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalfoundation:tome_experience",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Essence of knowledge",
+          "desc:8": "it\u0027s liquid xp ..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "requiredFluids:9": {
+            "0:10": {
+              "FluidName:8": "experience",
+              "Amount:3": 1000
+            }
+          },
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "taskID:8": "bq_standard:fluid"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "213:10": {
+      "questID:3": 213,
+      "preRequisites:11": [
+        206
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalfoundation:fertilizer",
+            "Count:3": 1,
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Phyto-Gro",
+          "desc:8": "a powerfull fetillizer"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:fertilizer",
+              "Count:3": 1,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "214:10": {
+      "questID:3": 214,
+      "preRequisites:11": [
+        208
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalfoundation:material",
+            "Count:3": 1,
+            "Damage:2": 1025,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "-theum dusts",
+          "desc:8": "all the specials dust"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 1,
+              "Damage:2": 1024,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 1,
+              "Damage:2": 1025,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 1,
+              "Damage:2": 1026,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 1,
+              "Damage:2": 1027,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "215:10": {
+      "questID:3": 215,
+      "preRequisites:11": [
+        214,
+        216
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalfoundation:material",
+            "Count:3": 1,
+            "Damage:2": 1028,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Mana dust",
+          "desc:8": "by alloying the pure mana and all the -theum dusts the mana start to crystalize making this weird dust"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 1,
+              "Damage:2": 1028,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "216:10": {
+      "questID:3": 216,
+      "preRequisites:11": [
+        212
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "forge:bucketfilled",
+            "Count:3": 1,
+            "tag:10": {
+              "FluidName:8": "mana",
+              "Amount:3": 1000
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Pimal Mana",
+          "desc:8": "pure knowledge mixed with metal give this stange fluid"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "requiredFluids:9": {
+            "0:10": {
+              "FluidName:8": "mana",
+              "Amount:3": 1000
+            }
+          },
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "taskID:8": "bq_standard:fluid"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "217:10": {
+      "questID:3": 217,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "mysticalagriculture:crafting",
+            "Count:3": 1,
+            "Damage:2": 33,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Inferium Armor",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mysticalagriculture:inferium_helmet",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "mysticalagriculture:inferium_chestplate",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "mysticalagriculture:inferium_leggings",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "mysticalagriculture:inferium_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "218:10": {
+      "questID:3": 218,
+      "preRequisites:11": [
+        207,
+        213,
+        215
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "appliedenergistics2:sky_stone_block",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Skystone",
+          "desc:8": "here start your AE2 if you want"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "appliedenergistics2:sky_stone_block",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "219:10": {
+      "questID:3": 219,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "mysticalagriculture:crafting",
+            "Count:3": 1,
+            "Damage:2": 34,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Prudentium Armor",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mysticalagriculture:prudentium_helmet",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "mysticalagriculture:prudentium_chestplate",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "mysticalagriculture:prudentium_leggings",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "mysticalagriculture:prudentium_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "220:10": {
+      "questID:3": 220,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "mysticalagriculture:crafting",
+            "Count:3": 1,
+            "Damage:2": 35,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Intermedium Armor",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mysticalagriculture:intermedium_helmet",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "mysticalagriculture:intermedium_chestplate",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "mysticalagriculture:intermedium_leggings",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "mysticalagriculture:intermedium_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "221:10": {
+      "questID:3": 221,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "mysticalagriculture:crafting",
+            "Count:3": 1,
+            "Damage:2": 36,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Superium Armor",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mysticalagriculture:superium_helmet",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "mysticalagriculture:superium_chestplate",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "mysticalagriculture:superium_leggings",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "mysticalagriculture:superium_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "222:10": {
+      "questID:3": 222,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:diamond",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Diamond Armor",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:diamond_helmet",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:diamond_chestplate",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "minecraft:diamond_leggings",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "minecraft:diamond_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "223:10": {
+      "questID:3": 223,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:emerald",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Emerald Armor",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "actuallyadditions:item_helm_emerald",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "actuallyadditions:item_chest_emerald",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "actuallyadditions:item_pants_emerald",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "actuallyadditions:item_boots_emerald",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "224:10": {
+      "questID:3": 224,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thaumcraft:ingot",
+            "Count:3": 1,
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Void Thaumaturge Armor",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thaumcraft:void_robe_helm",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "thaumcraft:void_robe_chest",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "thaumcraft:void_robe_legs",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "thaumcraft:void_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "225:10": {
+      "questID:3": 225,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "mysticalagriculture:crafting",
+            "Count:3": 1,
+            "Damage:2": 37,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Supremium Armor",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mysticalagriculture:supremium_helmet",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "mysticalagriculture:supremium_chestplate",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "mysticalagriculture:supremium_leggings",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "mysticalagriculture:supremium_boots",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "226:10": {
+      "questID:3": 226,
+      "preRequisites:11": [
+        217,
+        219,
+        220,
+        221,
+        225,
+        224,
+        223,
+        222
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "avaritia:resource",
+            "Count:3": 1,
+            "Damage:2": 6,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "INFINITY ARMOR",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "avaritia:infinity_helmet",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "avaritia:infinity_chestplate",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "avaritia:infinity_pants",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "avaritia:infinity_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "227:10": {
+      "questID:3": 227,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "projectred-expansion:jetpack",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Bronze Jetpack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "projectred-expansion:jetpack",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "228:10": {
+      "questID:3": 228,
+      "preRequisites:11": [
+        227
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "simplyjetpacks:itemjetpack",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 0,
+              "JetpackParticleType:3": 0
+            },
+            "Damage:2": 10,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Leadstone Jetpack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "simplyjetpacks:itemjetpack",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0,
+                "JetpackParticleType:3": 0
+              },
+              "Damage:2": 10,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "229:10": {
+      "questID:3": 229,
+      "preRequisites:11": [
+        228
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "simplyjetpacks:itemjetpack",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 0,
+              "JetpackParticleType:3": 0
+            },
+            "Damage:2": 11,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Hardened Jetpack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "simplyjetpacks:itemjetpack",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0,
+                "JetpackParticleType:3": 0
+              },
+              "Damage:2": 11,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "230:10": {
+      "questID:3": 230,
+      "preRequisites:11": [
+        229
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "simplyjetpacks:itemjetpack",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 0,
+              "JetpackParticleType:3": 0
+            },
+            "Damage:2": 12,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Reinforced Jetpack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "simplyjetpacks:itemjetpack",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0,
+                "JetpackParticleType:3": 0
+              },
+              "Damage:2": 12,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "231:10": {
+      "questID:3": 231,
+      "preRequisites:11": [
+        230
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "simplyjetpacks:itemjetpack",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 0,
+              "JetpackParticleType:3": 0
+            },
+            "Damage:2": 13,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Resonant Jetpack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "simplyjetpacks:itemjetpack",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0,
+                "JetpackParticleType:3": 0
+              },
+              "Damage:2": 13,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "232:10": {
+      "questID:3": 232,
+      "preRequisites:11": [
+        231,
+        236
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "simplyjetpacks:itemjetpack",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 0,
+              "JetpackParticleType:3": 0
+            },
+            "Damage:2": 18,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Flux-Infused Jetplate",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "simplyjetpacks:itemjetpack",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0,
+                "JetpackParticleType:3": 0
+              },
+              "Damage:2": 18,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "233:10": {
+      "questID:3": 233,
+      "preRequisites:11": [
+        232
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "234:10": {
+      "questID:3": 234,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "simplyjetpacks:itemfluxpack",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 0
+            },
+            "Damage:2": 6,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Leadstone flux pack",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "simplyjetpacks:itemfluxpack",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0
+              },
+              "Damage:2": 6,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "235:10": {
+      "questID:3": 235,
+      "preRequisites:11": [
+        234
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "simplyjetpacks:itemfluxpack",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 0
+            },
+            "Damage:2": 7,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Rainforced flux pack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "simplyjetpacks:itemfluxpack",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0
+              },
+              "Damage:2": 7,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "236:10": {
+      "questID:3": 236,
+      "preRequisites:11": [
+        235
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "simplyjetpacks:itemfluxpack",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 0
+            },
+            "Damage:2": 8,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Resonant flux pack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "simplyjetpacks:itemfluxpack",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0
+              },
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "237:10": {
+      "questID:3": 237,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "actuallyadditions:item_misc",
+            "Count:3": 1,
+            "Damage:2": 24,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Empowered oil 20k",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "requiredFluids:9": {
+            "0:10": {
+              "FluidName:8": "empoweredoil",
+              "Amount:3": 20000000
+            }
+          },
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "taskID:8": "bq_standard:fluid"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "238:10": {
+      "questID:3": 238,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "mysticalagradditions:insanium",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Insanium 20k",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mysticalagradditions:insanium",
+              "Count:3": 20000,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "239:10": {
+      "questID:3": 239,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalfoundation:material",
+            "Count:3": 1,
+            "Damage:2": 1028,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Mana Dust 1k",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 1,
+              "Damage:2": 1028,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "240:10": {
+      "questID:3": 240,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "extendedcrafting:material",
+            "Count:3": 1,
+            "Damage:2": 48,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Enhannced Ender Ingot 20k",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "extendedcrafting:material",
+              "Count:3": 20000,
+              "Damage:2": 48,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -14178,7 +19223,106 @@
       "order:3": 2
     },
     "4:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 48,
+          "x:3": -24,
+          "y:3": -24,
+          "id:3": 204,
+          "sizeY:3": 72
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": -36,
+          "id:3": 205,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": -84,
+          "id:3": 206,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": -84,
+          "id:3": 207,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": -84,
+          "id:3": 208,
+          "sizeY:3": 24
+        },
+        "5:10": {
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": -36,
+          "id:3": 209,
+          "sizeY:3": 24
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": 24,
+          "id:3": 210,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": 24,
+          "id:3": 211,
+          "sizeY:3": 24
+        },
+        "8:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": -36,
+          "id:3": 212,
+          "sizeY:3": 24
+        },
+        "9:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": -132,
+          "id:3": 213,
+          "sizeY:3": 24
+        },
+        "10:10": {
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": -132,
+          "id:3": 214,
+          "sizeY:3": 24
+        },
+        "11:10": {
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": -180,
+          "id:3": 215,
+          "sizeY:3": 24
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": -132,
+          "id:3": 216,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": -132,
+          "id:3": 218,
+          "sizeY:3": 24
+        }
+      },
       "lineID:3": 4,
       "properties:10": {
         "betterquesting:10": {
@@ -14471,7 +19615,141 @@
       "order:3": 5
     },
     "6:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": 0,
+          "id:3": 217,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": 0,
+          "id:3": 219,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": 0,
+          "id:3": 220,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": 48,
+          "id:3": 221,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": 48,
+          "id:3": 222,
+          "sizeY:3": 24
+        },
+        "5:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": 96,
+          "id:3": 223,
+          "sizeY:3": 24
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": 96,
+          "id:3": 224,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": 96,
+          "id:3": 225,
+          "sizeY:3": 24
+        },
+        "8:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": 48,
+          "id:3": 226,
+          "sizeY:3": 24
+        },
+        "9:10": {
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": 0,
+          "id:3": 227,
+          "sizeY:3": 24
+        },
+        "10:10": {
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": 48,
+          "id:3": 228,
+          "sizeY:3": 24
+        },
+        "11:10": {
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": 96,
+          "id:3": 229,
+          "sizeY:3": 24
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": 144,
+          "id:3": 230,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": 192,
+          "id:3": 231,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": 240,
+          "id:3": 232,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": 288,
+          "id:3": 233,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 216,
+          "y:3": 96,
+          "id:3": 234,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": 216,
+          "y:3": 144,
+          "id:3": 235,
+          "sizeY:3": 24
+        },
+        "18:10": {
+          "sizeX:3": 24,
+          "x:3": 216,
+          "y:3": 192,
+          "id:3": 236,
+          "sizeY:3": 24
+        }
+      },
       "lineID:3": 6,
       "properties:10": {
         "betterquesting:10": {
@@ -14537,7 +19815,43 @@
       "order:3": 6
     },
     "7:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": 0,
+          "id:3": 226,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": 0,
+          "id:3": 237,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": 0,
+          "id:3": 238,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 0,
+          "id:3": 239,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": 0,
+          "id:3": 240,
+          "sizeY:3": 24
+        }
+      },
       "lineID:3": 7,
       "properties:10": {
         "betterquesting:10": {
@@ -14560,15 +19874,15 @@
   "questSettings:10": {
     "betterquesting:10": {
       "livesdef:3": 3,
-      "pack_name:8": "",
+      "pack_name:8": "simplycity",
       "home_anchor_y:5": 0.0,
       "livesmax:3": 10,
       "home_anchor_x:5": 0.5,
       "editmode:1": 1,
       "hardcore:1": 0,
-      "home_image:8": "betterquesting:textures/gui/default_title.png",
+      "home_image:8": "simplycity:textures/gui/main_title.png",
       "party_enable:1": 1,
-      "pack_version:3": 0,
+      "pack_version:3": 1,
       "home_offset_x:3": -128,
       "home_offset_y:3": 0
     }
