@@ -110,5 +110,11 @@ for key, recipe in removeByRecipeShaped {
 
 recipes.remove(<extrautils2:machine>,true);
 
+val avaritiaRemove = [
+	<avaritia:resource:6>,
+	<avaritia:resource:5>,
+] as IItemStack[];
 
-
+for item in avaritiaRemove {
+	mods.avaritia.ExtremeCrafting.remove(item);
+}

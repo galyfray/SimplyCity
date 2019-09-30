@@ -63,13 +63,13 @@ val RemoveItem = [
 ] as string[] ;
 
 for id in RemoveItem {
-	mods.ltt.LootTable.removeGlobalItem("minecraft:iron_ingot");
+	mods.ltt.LootTable.removeGlobalItem(id);
 }
 
 val RemoveMod = [
 	"immersiveengineering"
 ] as string[];
 
-for id in RemoveItem {
+for id in RemoveMod {
 	mods.ltt.LootTable.removeModItem(id);
 }
