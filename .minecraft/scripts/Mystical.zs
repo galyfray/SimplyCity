@@ -132,7 +132,7 @@ for seed in <ore:seedsTier3>.items {
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
 		
-		if itemCraft.items[0].ores.length != 0{
+		if (itemCraft.items[0].ores.length != 0){
 			itemCraft=itemCraft.items[0].ores[0];
 		}
 		T3Define(seed,itemCraft);
@@ -170,7 +170,7 @@ for seed in <ore:seedsTier4>.items {
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
 		
-		if itemCraft.items[0].ores.length != 0{
+		if (itemCraft.items[0].ores.length != 0){
 			itemCraft=itemCraft.items[0].ores[0];
 		}
 		T4Define(seed,itemCraft);
@@ -211,7 +211,7 @@ for seed in <ore:seedsTier5>.items {
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
 
-		if itemCraft.items[0].ores.length != 0{
+		if (itemCraft.items[0].ores.length != 0){
 			itemCraft=itemCraft.items[0].ores[0];
 		}
 		T5Define(seed,itemCraft);
@@ -244,12 +244,19 @@ function T6Define(Out as IItemStack, In as IIngredient) {
 	
 
 }
-for seed in <ore:seedsTier6>.items {
+
+val T6Seed = [
+	<mysticalagradditions:nether_star_seeds>,
+	<mysticalagradditions:neutronium_seeds>,
+	<mysticalagradditions:dragon_egg_seeds>,
+] as IIngredient[] ;
+
+for seed in T6Seed {
 	
 	for recipe in recipes.getRecipesFor(seed){
 		
 		itemCraft=recipe.ingredients1D[0].items[0];
-		if itemCraft.items[0].ores.length != 0{
+		if (itemCraft.items[0].ores.length != 0){
 			itemCraft=itemCraft.items[0].ores[0];
 		}
 		T6Define(seed,itemCraft);

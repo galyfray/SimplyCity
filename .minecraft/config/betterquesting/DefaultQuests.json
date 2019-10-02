@@ -3084,11 +3084,22 @@
         "0:10": {
           "hideBlockIcon:1": 1,
           "rewardID:8": "bq_standard:command",
+          "asScript:1": 1,
           "description:8": "Run a command script",
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
           "command:8": "bq_admin default load"
+        },
+        "1:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "asScript:1": 1,
+          "description:8": "Run a command script",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "bqs_loot default load"
         }
       }
     },
@@ -9848,7 +9859,7 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "Signalum",
+          "name:8": "Signalum Seed",
           "desc:8": ""
         }
       },
@@ -17952,6 +17963,240 @@
           }
         }
       }
+    },
+    "241:10": {
+      "questID:3": 241,
+      "preRequisites:11": [
+        41
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "mysticalagradditions:neutronium_seeds",
+            "Count:3": 1,
+            "tag:10": {
+              "agri_analyzed:1": 1,
+              "agri_strength:1": 1,
+              "agri_gain:1": 1,
+              "agri_seed:8": "mysticalagradditions:neutronium_plant",
+              "agri_growth:1": 1
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Neutonium Seed",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mysticalagradditions:neutronium_seeds",
+              "Count:3": 1,
+              "tag:10": {
+                "agri_analyzed:1": 1,
+                "agri_strength:1": 10,
+                "agri_gain:1": 10,
+                "agri_seed:8": "mysticalagradditions:neutronium_plant",
+                "agri_growth:1": 10
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "242:10": {
+      "questID:3": 242,
+      "preRequisites:11": [
+        241
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "mysticalagradditions:dragon_egg_seeds",
+            "Count:3": 1,
+            "tag:10": {
+              "agri_analyzed:1": 1,
+              "agri_strength:1": 1,
+              "agri_gain:1": 1,
+              "agri_seed:8": "mysticalagradditions:dragon_egg_plant",
+              "agri_growth:1": 1
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Dragon Edd Seed",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mysticalagradditions:dragon_egg_seeds",
+              "Count:3": 1,
+              "tag:10": {
+                "agri_analyzed:1": 1,
+                "agri_strength:1": 10,
+                "agri_gain:1": 10,
+                "agri_seed:8": "mysticalagradditions:dragon_egg_plant",
+                "agri_growth:1": 10
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "243:10": {
+      "questID:3": 243,
+      "preRequisites:11": [
+        242
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "mysticalagradditions:nether_star_seeds",
+            "Count:3": 1,
+            "tag:10": {
+              "agri_analyzed:1": 1,
+              "agri_strength:1": 1,
+              "agri_gain:1": 1,
+              "agri_seed:8": "mysticalagradditions:nether_star_plant",
+              "agri_growth:1": 1
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Nether Star Seed",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mysticalagradditions:nether_star_seeds",
+              "Count:3": 1,
+              "tag:10": {
+                "agri_analyzed:1": 1,
+                "agri_strength:1": 10,
+                "agri_gain:1": 10,
+                "agri_seed:8": "mysticalagradditions:nether_star_plant",
+                "agri_growth:1": 10
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "Damage:2": 101,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -18907,6 +19152,27 @@
           "x:3": 336,
           "y:3": 168,
           "id:3": 129,
+          "sizeY:3": 24
+        },
+        "101:10": {
+          "sizeX:3": 24,
+          "x:3": 396,
+          "y:3": 72,
+          "id:3": 241,
+          "sizeY:3": 24
+        },
+        "102:10": {
+          "sizeX:3": 24,
+          "x:3": 420,
+          "y:3": 72,
+          "id:3": 242,
+          "sizeY:3": 24
+        },
+        "103:10": {
+          "sizeX:3": 24,
+          "x:3": 408,
+          "y:3": 96,
+          "id:3": 243,
           "sizeY:3": 24
         }
       },

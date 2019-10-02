@@ -88,7 +88,7 @@ key_key.hotbar.9:10
 key_Change Caster Focus:0
 key_Misc Caster Toggle:0
 key_keybind.baublesinventory:0
-key_key.betterquesting.quests:40
+key_key.betterquesting.quests:595
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
@@ -110,6 +110,7 @@ key_key.toggle_focus.desc:0
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
+key_key.jei.toggleEditMode:0
 key_key.jei.showRecipe:19
 key_key.jei.showUses:22
 key_key.jei.recipeBack:14
