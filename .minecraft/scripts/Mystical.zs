@@ -249,7 +249,7 @@ val T6Seed = [
 	<mysticalagradditions:nether_star_seeds>,
 	<mysticalagradditions:neutronium_seeds>,
 	<mysticalagradditions:dragon_egg_seeds>,
-] as IIngredient[] ;
+] as IItemStack[] ;
 
 for seed in T6Seed {
 	

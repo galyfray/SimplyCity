@@ -340,6 +340,46 @@ val recipeMapErraseShapedLarger = {
 	[<ore:plateAluminium>, <ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:plateAluminium>], 
 	[<ore:plateAluminium>, <ore:plateAluminium>, <appliedenergistics2:quartz_block>, <ore:plateAluminium>, <ore:plateAluminium>]],
 	
+	<avaritia:infinity_boots> : [[null, null, null, null, null, null, null, null, null], 
+	[null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <mysticalagriculture:prudentium_boots>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <mysticalagriculture:inferium_boots>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <mysticalagriculture:superium_boots>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <mysticalagriculture:intermedium_boots>, <ore:ingotCosmicNeutronium>, null], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <thaumcraft:void_boots>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <mysticalagriculture:supremium_boots>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <minecraft:diamond_boots>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <actuallyadditions:item_boots_emerald>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>], 
+	[null, null, null, null, null, null, null, null, null], 
+	[null, null, null, null, null, null, null, null, null]],
+	
+	<avaritia:infinity_pants> : [[<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <minecraft:diamond_leggings>, <mysticalagriculture:superium_leggings>, <mysticalagriculture:prudentium_leggings>, <thaumcraft:void_robe_legs>, <mysticalagriculture:inferium_leggings>, <mysticalagriculture:intermedium_leggings>, <mysticalagriculture:supremium_leggings>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <actuallyadditions:item_pants_emerald>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <extendedcrafting:material:40>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <extendedcrafting:material:40>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <simplyjetpacks:metaitemmods:16>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <simplyjetpacks:metaitemmods:16>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <simplyjetpacks:metaitemmods:16>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <simplyjetpacks:metaitemmods:16>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <extendedcrafting:material:40>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <extendedcrafting:material:40>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>]],
+	
+	<avaritia:infinity_chestplate> : [[null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, <ore:ingotCosmicNeutronium>, null], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>], 
+	[<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <extrautils2:angelring>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>], 
+	[null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <simplyjetpacks:metaitemmods:16>, <actuallyadditions:item_chest_emerald>, <simplyjetpacks:metaitemmods:16>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <extendedcrafting:material:40>, <minecraft:diamond_chestplate>, <mysticalagriculture:prudentium_chestplate>, <thaumcraft:void_robe_chest>, <extendedcrafting:material:40>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <simplyjetpacks:metaitemmods:16>, <mysticalagriculture:inferium_chestplate>, <mysticalagriculture:supremium_chestplate>, <mysticalagriculture:superium_chestplate>, <simplyjetpacks:metaitemmods:16>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <mysticalagriculture:intermedium_chestplate>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <extendedcrafting:material:40>, <simplyjetpacks:metaitemmods:16>, <extendedcrafting:material:40>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null], 
+	[null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null]],
+	
+	<avaritia:infinity_helmet> : [[null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null], 
+	[null, <ore:ingotCosmicNeutronium>, <extendedcrafting:material:40>, <mysticalagriculture:intermedium_helmet>, <mysticalagriculture:superium_helmet>, <mysticalagriculture:prudentium_helmet>, <extendedcrafting:material:40>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <minecraft:diamond_helmet>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <simplyjetpacks:metaitemmods:16>, <actuallyadditions:item_helm_emerald>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <mysticalagriculture:inferium_helmet>, null, <simplyjetpacks:metaitemmods:16>, null, <thaumcraft:void_robe_helm>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <simplyjetpacks:metaitemmods:16>, null, <mysticalagriculture:supremium_helmet>, null, <simplyjetpacks:metaitemmods:16>, <ore:ingotCosmicNeutronium>, null], 
+	[null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, null, <ore:ingotInfinity>, null, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null], 
+	[null, null, null, null, null, null, null, null, null], 
+	[null, null, null, null, null, null, null, null, null], 
+	[null, null, null, null, null, null, null, null, null]],
+	
 } as IIngredient[][][IItemStack];
 
 for key,recipe in recipeMapErraseShapedLarger {

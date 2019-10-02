@@ -113,6 +113,10 @@ recipes.remove(<extrautils2:machine>,true);
 val avaritiaRemove = [
 	<avaritia:resource:6>,
 	<avaritia:resource:5>,
+	<avaritia:infinity_helmet>,
+	<avaritia:infinity_chestplate>,
+	<avaritia:infinity_pants>,
+	<avaritia:infinity_boots>,
 ] as IItemStack[];
 
 for item in avaritiaRemove {
