@@ -391,6 +391,7 @@ val recipeMapErraseShapeless = {
 	<environmentaltech:litherite_crystal> : [<environmentaltech:litherite>],
 	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
 	<magneticraft:electric_engine> : [<magneticraft:rf_transformer>],
+	<projectred-core:resource_item:105> : [<ore:dustTin>,<thermalfoundation:material:771>,<thermalfoundation:material:67>],
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapErraseShapeless {
