@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/tier6_soil.json",
+  "enabled": true,
+  "id": "tier6_soil",
+  "name": "Insanium",
+  "varients": [
+    {
+      "item": "mysticalagradditions:storage",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}

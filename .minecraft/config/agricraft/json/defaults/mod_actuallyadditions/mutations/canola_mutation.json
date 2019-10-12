@@ -1,5 +1,5 @@
 {
-  "path": "mod_actuallyadditions/mutations/rice_mutation.json",
+  "path": "mod_actuallyadditions/mutations/canola_mutation.json",
   "enabled": true,
   "chance": 0.4,
   "child": "actuallyadditions:canola_plant",
