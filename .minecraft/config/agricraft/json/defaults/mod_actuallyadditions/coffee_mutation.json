@@ -1,0 +1,8 @@
+{
+  "path": "mod_actuallyadditions/mutations/rice_mutation.json",
+  "enabled": true,
+  "chance": 0.35,
+  "child": "actuallyadditions:item_coffee_seed",
+  "parent1": "actuallyadditions:canola_plant",
+  "parent2": "vanilla:beet_root_plant"
+}
