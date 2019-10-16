@@ -1,0 +1,26 @@
+{
+    "dependencies": "mysticalagriculture",
+    "populate": {
+		"prosperity": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": "mysticalagriculture:prosperity_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 12,
+			"min-height": 0,
+			"max-height": 45,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+        }
+    }
+}
