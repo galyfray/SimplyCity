@@ -60,6 +60,9 @@ val RemoveItem = [
 	"minecraft:golden_leggings" ,
 	"actuallyadditions:item_pants_obsidian" ,
 	"minecraft:iron_ingot",
+	"minecraft:diamond",
+	"minecraft:iron_sword",
+	"minecraft:iron_horse_armor"
 ] as string[] ;
 
 for id in RemoveItem {

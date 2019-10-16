@@ -1,6 +1,11 @@
 {
   "outputs": [
     {
+      "target": "brown",
+      "weight": 300,
+      "id": "thaumcraft:nugget:10"
+    },
+    {
       "target": "black",
       "weight": 1000,
       "id": "OD:oreCoal"

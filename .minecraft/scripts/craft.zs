@@ -21,7 +21,7 @@ for key,recipe in recipeWithFunc {
 val recipeMapErraseShaped = {
     <magneticraft:crafting:5> : [[<ore:plateBronze>,<minecraft:string>,<ore:plateBronze>],[<minecraft:string>,<ore:plateBronze>,<minecraft:string>],[<ore:plateBronze>,<minecraft:string>,<ore:plateBronze>]],
 	<magneticraft:water_generator> : [[<ore:plateBronze>,<ore:plateBronze>,<ore:plateBronze>],[<minecraft:water_bucket>.transformReplace(<minecraft:bucket>)|<ceramics:clay_bucket>.withTag({fluids: {FluidName: "water", Amount: 1000}}).noReturn(),<magneticraft:iron_pipe> ,<minecraft:water_bucket>.transformReplace(<minecraft:bucket>)|<ceramics:clay_bucket>.withTag({fluids: {FluidName: "water", Amount: 1000}}).noReturn()],[<ore:plateBronze>,<ore:plateBronze>,<ore:plateBronze>]],
-	<magneticraft:iron_pipe> * 8 : [[<minecraft:glass>,<ore:plateAluminum>,<minecraft:glass>],[<ore:plateAluminum>,<ore:blockGlass>,<ore:plateAluminum>],[<minecraft:glass>,<ore:plateAluminum>,<minecraft:glass>]],
+	<magneticraft:iron_pipe> * 8 : [[<ore:blockGlass>,<ore:plateAluminum>,<ore:blockGlass>],[<ore:plateAluminum>,<ore:blockGlass>,<ore:plateAluminum>],[<ore:blockGlass>,<ore:plateAluminum>,<ore:blockGlass>]],
 	<projectred-transportation:pipe:3> : [[<minecraft:redstone>,<projectred-core:resource_item:104>,<minecraft:redstone>],[<minecraft:redstone>,<projectred-transportation:pipe:1>,<minecraft:redstone>],[<minecraft:redstone>,<projectred-core:resource_item:104>,<minecraft:redstone>]],
 	<magneticraft:wrench> : [[null,<ore:plateAluminum>,<ore:ingotBronze>],[<minecraft:redstone>,<ore:ingotBronze>,null],[<ore:ingotBronze>,<minecraft:redstone>,null]],
 	<projectred-transportation:pipe:1> * 8 : [[<projectred-core:resource_item:514>,<projectred-core:resource_item:320>,<projectred-core:resource_item:513>],[<projectred-core:resource_item:104>,<ore:paneGlass>,<projectred-core:resource_item:104>],[<projectred-core:resource_item:514>,<projectred-core:resource_item:320>,<projectred-core:resource_item:513>]],
@@ -391,7 +391,7 @@ val recipeMapErraseShapeless = {
 	<environmentaltech:litherite_crystal> : [<environmentaltech:litherite>],
 	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
 	<magneticraft:electric_engine> : [<magneticraft:rf_transformer>],
-	<projectred-core:resource_item:105> : [<ore:dustTin>,<thermalfoundation:material:771>,<thermalfoundation:material:67>],
+	<tconstruct:throwball:1>*4 : [<minecraft:flint>,<ore:dustSulphur>,<ore:dustNiter>,<ore:dustCoal>],
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapErraseShapeless {
@@ -414,6 +414,7 @@ val recipeMapAddShaped = {
 	<simplyjetpacks:itemjetpack:10> : [[<ore:plateLead>, <magneticraft:battery_item_low>, <ore:plateLead>], [<ore:plateLead>, <simplyjetpacks:metaitem:4>, <ore:plateLead>], [<simplyjetpacks:metaitemmods:26>, null, <simplyjetpacks:metaitemmods:26>]],
 	<simplyjetpacks:itemjetpack:11> : [[<ore:plateInvar>, <immersiveengineering:metal_device0:1>, <ore:plateInvar>],[<ore:plateInvar>, <simplyjetpacks:itemjetpack:10>, <ore:plateInvar>],[<simplyjetpacks:metaitemmods:27>, null, <simplyjetpacks:metaitemmods:27>]],
 	<thermalfoundation:material:1028> : [[<thermalfoundation:material:1027>,null,<thermalfoundation:material:1026>],[<thermalfoundation:material:1024>,<forge:bucketfilled>.withTag({FluidName: "mana", Amount: 1000}).transformReplace(<minecraft:bucket>),<thermalfoundation:material:1025>],[null,null,null]],
+	<magneticraft:connector> *4 : [[null, null, null],[null, <ore:ingotAluminum>, null],[<ore:stone>, <ore:ingotCopper>, <ore:stone>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -428,7 +429,8 @@ val recipeMapAddShapeless = {
 	<environmentaltech:litherite> : [<environmentaltech:litherite_slab>,<environmentaltech:litherite_slab>],
 	<magneticraft:rf_transformer> : [<magneticraft:electric_engine>],
 	<appliedenergistics2:fluid_interface> : [<minecraft:bucket>,<appliedenergistics2:interface>],
-	<appliedenergistics2:interface> : [<appliedenergistics2:part:440>]
+	<appliedenergistics2:interface> : [<appliedenergistics2:part:440>],
+	<projectred-core:resource_item:105>*2 : [<ore:dustTin>,<thermalfoundation:material:771>,<thermalfoundation:material:67>],
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapAddShapeless {

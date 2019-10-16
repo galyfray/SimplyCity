@@ -1,6 +1,11 @@
 {
   "outputs": [
     {
+      "target": "black",
+      "weight": 300,
+      "id": "thaumcraft:nugget:10"
+    },
+    {
       "target": "crystal",
       "weight": 200,
       "id": "environmentaltech:litherite_crystal"

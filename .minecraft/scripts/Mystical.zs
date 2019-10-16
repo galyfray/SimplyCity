@@ -1,4 +1,4 @@
-#modloaded mysticalagradditions mysticalagriculture avaritia
+#modloaded mysticalagradditions mysticalagriculture
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -14,8 +14,6 @@ var itemCraft as IItemStack;
 
 var block as IIngredient;
 var seedName as string;
-
-var S = "{" as string;
 
 val Stone =[
 	<matc:inferiumcrystal>.anyDamage().transformDamage()|<mysticalagriculture:master_infusion_crystal> ,
@@ -263,7 +261,6 @@ for seed in T6Seed {
 		
 	}
 }
-print(S + "}");
 recipes.remove(<mysticalagriculture:growth_accelerator>);
 
 mods.extendedcrafting.TableCrafting.addShaped(<mysticalagriculture:growth_accelerator>, [

@@ -30,11 +30,14 @@ for hammer, array in HammerMap {
 val recipeMap = {
 	<thermalfoundation:storage_alloy:3>:<thermalfoundation:material:355>*5,
 	<thermalfoundation:storage:4> : <thermalfoundation:material:324>*5,
-	
+	<magneticraft:chunks:13> : <thermalfoundation:material:65>*2,
+	<thermalfoundation:material:129> : <thermalfoundation:material:65>,
+	<magneticraft:chunks:3> : <thermalfoundation:material:67>*2,
+	<thermalfoundation:material:131> : <thermalfoundation:material:67>,
 } as IItemStack[IItemStack];
 
 for output,input in recipeMap {
-	mods.magneticraft.CrushingTable.addRecipe(output,input,false);
+	mods.magneticraft.CrushingTable.addRecipe(output,input,true);
 }
 
 mods.magneticraft.CrushingTable.removeRecipe(<thermalfoundation:material:160>);
