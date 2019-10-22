@@ -84,6 +84,7 @@ val recipeMapErraseShaped = {
 	<thermalexpansion:cache> : [[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>], [<storagedrawers:upgrade_storage>, <ore:drawerBasic>, <storagedrawers:upgrade_storage>], [<ore:ingotIron>, <thermalfoundation:material:512>, <ore:ingotIron>]],
 	<autocrafter:autocrafter> : [[<ore:gemQuartzBlack>, <actuallyadditions:item_crystal_empowered:5>, <ore:gemQuartzBlack>], [<actuallyadditions:item_crystal_empowered:5>, <extrautils2:crafter>, <actuallyadditions:item_crystal_empowered:5>], [<ore:gemQuartzBlack>, <actuallyadditions:item_crystal_empowered:5>, <ore:gemQuartzBlack>]],
 	<thermaldynamics:duct_0> : [[<ore:plateLead>, <ore:plateMithril>, <ore:plateLead>], [<ore:ingotRedAlloy>, <ore:ingotRedAlloy>, <ore:ingotRedAlloy>], [<ore:plateLead>, <ore:plateMithril>, <ore:plateLead>]],
+	<thermalfoundation:tome_lexicon> : [[null, <ore:blockLapis>, null],[<ore:plateGold>, <ore:bookshelf>, <ore:blockAluminum>],[null, <ore:blockRedstone>, null]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -392,6 +393,7 @@ val recipeMapErraseShapeless = {
 	<magneticraft:steam_engine> : [<minecraft:paper>,<ore:plateBronze>,<minecraft:redstone>],
 	<magneticraft:electric_engine> : [<magneticraft:rf_transformer>],
 	<tconstruct:throwball:1>*4 : [<minecraft:flint>,<ore:dustSulphur>,<ore:dustNiter>,<ore:dustCoal>],
+	<magneticraft:hydraulic_press> : [<ore:paper>, <ore:blockAluminum>],
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapErraseShapeless {
@@ -415,6 +417,7 @@ val recipeMapAddShaped = {
 	<simplyjetpacks:itemjetpack:11> : [[<ore:plateInvar>, <immersiveengineering:metal_device0:1>, <ore:plateInvar>],[<ore:plateInvar>, <simplyjetpacks:itemjetpack:10>, <ore:plateInvar>],[<simplyjetpacks:metaitemmods:27>, null, <simplyjetpacks:metaitemmods:27>]],
 	<thermalfoundation:material:1028> : [[<thermalfoundation:material:1027>,null,<thermalfoundation:material:1026>],[<thermalfoundation:material:1024>,<forge:bucketfilled>.withTag({FluidName: "mana", Amount: 1000}).transformReplace(<minecraft:bucket>),<thermalfoundation:material:1025>],[null,null,null]],
 	<magneticraft:connector> *4 : [[null, null, null],[null, <ore:ingotAluminum>, null],[<ore:stone>, <ore:ingotCopper>, <ore:stone>]],
+	<mysticalagriculture:fire_seeds> : [[<ceramics:clay_bucket>, <ore:essencePrudentium>, <ceramics:clay_bucket>],[<ore:essencePrudentium>, <mysticalagriculture:crafting:18>, <ore:essencePrudentium>],[<ceramics:clay_bucket>, <ore:essencePrudentium>, <ceramics:clay_bucket>]],
 	// : [[,,],[,,],[,,]],
 } as IIngredient[][][IItemStack];
 
@@ -431,6 +434,7 @@ val recipeMapAddShapeless = {
 	<appliedenergistics2:fluid_interface> : [<minecraft:bucket>,<appliedenergistics2:interface>],
 	<appliedenergistics2:interface> : [<appliedenergistics2:part:440>],
 	<projectred-core:resource_item:105>*2 : [<ore:dustTin>,<thermalfoundation:material:771>,<thermalfoundation:material:67>],
+	<thermalfoundation:material:128> *2 : [<ore:ingotCopper>,<ore:ingotCopper>],
 } as IIngredient[][IItemStack];
 
 for key,recipe in recipeMapAddShapeless {

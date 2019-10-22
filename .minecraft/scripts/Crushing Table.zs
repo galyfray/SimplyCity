@@ -48,3 +48,4 @@ mods.magneticraft.HydraulicPress.addRecipe(<minecraft:coal_block>*9,<minecraft:d
 mods.magneticraft.HydraulicPress.addRecipe(<thaumcraft:metal_brass>,<thaumcraft:plate>*5,200,0,true);
 mods.magneticraft.HydraulicPress.addRecipe(<thermalfoundation:storage_alloy>,<thermalfoundation:material:160>*5,100,0,true);
 mods.magneticraft.HydraulicPress.addRecipe(<thaumcraft:metal_thaumium>,<thaumcraft:plate:2>*5,150,0,true);
+mods.magneticraft.HydraulicPress.addRecipe(<thermalfoundation:material:163>,<thermalfoundation:material:355>,150,0,true);
